@@ -1,6 +1,11 @@
 # R-intro-GIJC25
 Materials for Intro to R Programming (Parts 1 and 2) at GIJC in Kuala Lumpur
 
+### Installing R and RStudio
+Install both R and RStudio on your own computer using these instructions:[https://bit.ly/ire-install-r](https://bit.ly/ire-install-r)
+
+Install the necessary packages for this material by running this code in the RStudio console (you only need to do this once on your computer):\
+`install.packages(c("tidyverse","janitor","readxl","googlesheets4"))`
 
 ### Finished Scripts: 
 You can find complete and annotated scripts for the main concepts in the /scripts folder. 
