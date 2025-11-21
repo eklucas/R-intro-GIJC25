@@ -9,7 +9,7 @@ You can find complete and annotated scripts for the main concepts in the /script
 
 -   **Population by literacy, age, sex and urban/rural residence**\
 [Source](https://unstats.un.org/unsd/demographic-social/products/dyb/index.cshtml#censusdatasets)\
-Link for import: https://github.com/eklucas/R-intro-GIJC25/blob/main/data/UN_literacy.csv
+Link for import: `https://github.com/eklucas/R-intro-GIJC25/blob/main/data/UN_literacy.csv`
 
 -  **Eurovision** (created by my former student Mariia Novoselia)\
 [Source](https://github.com/mariianov/ADJ_final)\
