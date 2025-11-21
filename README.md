@@ -14,7 +14,7 @@ You can find complete and annotated scripts for the main concepts in the /script
 
 ### Datasets:
 
--   **Population by literacy, age, sex and urban/rural residence**\
+-   **Population by country, literacy, age, sex and urban/rural residence** (from the UN)\
 [Source](https://unstats.un.org/unsd/demographic-social/products/dyb/index.cshtml#censusdatasets)\
 Link for import: `https://github.com/eklucas/R-intro-GIJC25/blob/main/data/UN_literacy.csv`
 
