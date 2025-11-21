@@ -9,13 +9,14 @@ As a reminder, always add your packages at the top of your script. We'll use the
 
 ```{r setup}
 library(tidyverse)
-library(readxl)
-library(janitor)
+library(readxl) # import Excel files
+library(janitor) 
+library(googlesheets4) # import from a google sheet
 ```
 
 ### Importing flat text files
 
-Before we import data, let's explore the options associated with `read_csv()` by looking at the docs. Note that you can pop open the documents as a separate window with this button: ![](images/Screen%20Shot%202022-10-25%20at%204.09.58%20PM.png){width="30"}
+Before we import data, let's explore the options associated with `read_csv()` by looking at the docs.
 
 ```{r}
 ?read_csv
@@ -30,7 +31,7 @@ You can also include optional arguments to:
 -   import everything as character `col_types = cols(.default = "c")`
 -   skip rows if your file has extra header rows `skip = 2`
 
-To illustrate some of these options, we'll use a file from the Columbia, MO city website on vendor payments:
+To illustrate some of these options, we'll use a file from a city website on vendor payments:
 
 ```{r}
 data <- read_csv("data/ledger-data-all-years.csv")
@@ -102,6 +103,22 @@ glimpse(data)
 This is relatively straightforward, and primarily we use the function `read_excel()` to import .xlsx or .xls files. This function has very similar arguments to `read_csv()`, and you can use the col_names and col_types arguments in the same way. With `read_excel()`, you can also specify what sheet in an excel workbook you want to import. In our example, `salaries.xlsx`, the first sheet is the data and the second is a notes tab, so we'll just import the first: 
 ```{r}
 salaries <- read_excel("data/salaries.xlsx", sheet=1)
+```
+
+Note that you can import many different types of files to R, using several different packages. These are just the most commonly used by journalists. You just have to find the right function and the right package for what you need. Check out the `foreign` package, for example, which is great at helping you import large survey files of various types. 
+
+### Importing from a google sheet
+
+The `googlesheets4` package lets you read from (and write to) google sheets. **You will need to authenticate your google account, granting tidyverse access to the files in your drive** (this authentication process will start below in the console).  
+
+```{r}
+?read_sheet
+```
+
+To import from a google sheet you need the ss id, or the long string of letters and numbers that appears in the URL between *https://docs.google.com/spreadsheets/d/* and */edit?gid=0*. With this function you can also use a lot of the same arguments as `read_csv()` and `read_excel()`:
+
+```{r}
+gs_data <- read_sheet("14riMfTuuy8s1Uk6FEEVUXQicgeQOKve5ipEDOY_m1KI")
 ```
 
 Note that you can import many different types of files to R, using several different packages. These are just the most commonly used by journalists. You just have to find the right function and the right package for what you need. Check out the `foreign` package, for example, which is great at helping you import large survey files of various types. 
