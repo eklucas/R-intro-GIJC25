@@ -24,4 +24,4 @@ Link for import: `https://github.com/eklucas/R-intro-GIJC25/raw/refs/heads/main/
 Link for import: `https://github.com/eklucas/R-intro-GIJC25/raw/refs/heads/main/data/transactions.csv`
 
 ### Tipsheets: 
-You'll find useful "cheatsheets" for Tidyverse packages along with some helpful tipsheets I created on R Functions and 
+You'll find useful "cheatsheets" for Tidyverse packages along with some helpful tipsheets I created on R Functions, an R dictionary, a guide for newsroom math (created by Steve Doig)
