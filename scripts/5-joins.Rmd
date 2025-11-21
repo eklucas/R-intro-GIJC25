@@ -1,0 +1,137 @@
+---
+title: "Joins in class using FEC campaign finance data"
+output: 
+---
+
+Source: [fec.gov bulk data](https://www.fec.gov/data/browse-data/?tab=bulk-data) 
+Data from the 2021-2022 election cycle
+
+#Introduction: 
+Each candidate for federal office (U.S. House of Representatives, U.S. Senate, President) must register with the Federal Election Commission (FEC) and form a Political Action Committee (PAC) to receive contributions. Candidates can have several different kinds of PACs, but everyone has a "principal campaign committee" through which they receive money.
+
+In an election (even) year: every Representative is up for re-election in an even year, since Reps serve 2-year terms. One third of the Senate is up for re-election every two years because Sens serve 6-year terms. Candidates can receive money even if they're not running for re-election, but individuals are limited in how much they can give a candidate each 2-year cycle: $2900.
+
+Missouri has 8 House seats and 2 Senate seats; only 1 Senate seat was up for re-election in 2022; Roy Blunt decided not to run for re-election so it was an open seat. Josh Hawley wasn't up for re-election until the following election in 2024.
+
+
+```{r, message = F}
+library(tidyverse)
+
+transactions <- read_csv("data/transactions.csv")
+committees <- read_csv("data/committees.csv")
+```
+
+`transactions` has a lot of information about individual expenses (in this table, independent expenditures and committee donations) that are reported by particular committees. Those committees are identified in the cmte_id column; that’s the only information we have about them. To find out a committee’s name, location, affilitions, etc, you need to look in the committees file.
+
+`committees` has one row for each PAC (political action committee) registered with the FEC; it includes the same `cmte_id` along with committee name (`cmte_nm`), location, and affiliated organizations or candidates.
+
+Note that the tables share one column of information: `cmte_id`. They happen to be named the same thing which isn’t necessary; but they do have to contain the exact same information (in the exact same format) for the join to work.
+
+```{r}
+combined <- left_join(transactions, committees, by = "cmte_id")
+
+# you can also write this as:
+combined <- transactions %>% 
+  left_join(committees, by = "cmte_id")
+```
+
+The left join is used here because our main table is `transactions`; we only care about information from `committees` here it has matches in `transactions` (i.e. there are a lot of committees that didn't report transactions in our subset, and we don't care about those.)
+
+```{r}
+# which pacs are giving the most to influence this race? 
+combined %>% 
+  group_by(cmte_nm) %>% 
+  summarise(total = sum(transaction_amt)) %>% 
+  arrange(desc(total))
+
+# how much money in total? 
+combined %>% 
+  summarise(total = sum(transaction_amt))
+```
+
+This data is a small slice of the full data available from the FEC; I pulled only certain candidates related to our Missouri state elections in 2022. (I also added a few columns from the `candidates` table to avoid having to do multiple joins):
+
+```{r}
+# these are the columns that are originally from the `committees` table, which I joined to `transactions` using `cand_id`:
+transactions %>% 
+  count(cand_name, cand_pty_affil, cand_office)
+```
+
+Note the transaction types in this dataset: 
+```{r}
+transactions %>% 
+  count(transaction_tp)
+
+# 24A is an independent expenditure opposing a candidate
+# 24E is an independent expenditure advocating for a candidate
+# 24K is a committee to committee contribution
+# 24Z is an in-kind contribution
+```
+
+Let's look at all the independent expenditures opposing candidates, and see which candidates received the most "negative" attention: 
+
+```{r}
+combined %>% 
+  filter(transaction_tp == "24A") %>% 
+  group_by(cand_name, cand_pty_affil, cand_office) %>% 
+  summarise(total = sum(transaction_amt)) %>% 
+  arrange(desc(total))
+
+# Eric Greitens (our former governor who was running for Blunt's senate seat), by far.
+```
+
+It's worth noting that a join doesn't have to be the first thing you do. You can create a results table and then join that to something else: 
+
+```{r}
+# using transactions, find the committee that spent the most:
+transactions %>% 
+  group_by(cmte_id) %>%
+  summarise(total = sum(transaction_amt)) %>% 
+  arrange(desc(total))
+
+# then join that results table to `committees`:
+transactions %>% 
+  group_by(cmte_id) %>%
+  summarise(total = sum(transaction_amt)) %>% 
+  arrange(desc(total)) %>% 
+  left_join(committees, by = "cmte_id")
+
+# this just demonstrates the flexibility of R / tidyverse.
+```
+
+Testing other types of joins to see what the results look like: 
+
+Right join
+```{r}
+transactions %>% 
+  right_join(committees, by = "cmte_id") %>% 
+  filter(is.na(amndt_ind))
+```
+
+Inner join
+```{r}
+transactions %>% 
+  inner_join(committees, by = "cmte_id")
+```
+
+Full join
+```{r}
+transactions %>% 
+  full_join(committees, by = "cmte_id")
+```
+
+Semi join
+```{r}
+transactions %>% 
+  semi_join(committees, by = "cmte_id")
+```
+
+Anti join
+```{r}
+transactions %>% 
+  anti_join(committees, by = "cmte_id")
+```
+
+
+
+

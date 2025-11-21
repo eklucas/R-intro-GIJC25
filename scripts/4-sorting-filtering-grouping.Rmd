@@ -1,5 +1,5 @@
 ---
-title: "sorting, filtering, summarizing"
+title: "sorting, filtering, grouping"
 output:
   html_document:
     df_print: paged
@@ -91,7 +91,9 @@ Q: Which countries have been #1 in the finals?
 ```{r}
 eurovision %>% 
   filter(place_final==1 & round=="final") %>% 
-  filter(to_country == "Austria")
+  count(to_country)
+
+# note the `n` column just counts rows, which in this case is a function of how many countries gave to these countries over the years
 ```
 
 
