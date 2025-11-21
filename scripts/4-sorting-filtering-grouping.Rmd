@@ -1,0 +1,97 @@
+---
+title: "sorting, filtering, summarizing"
+output:
+  html_document:
+    df_print: paged
+---
+
+As a reminder, always add your packages at the top of your script We'll use the `readxl` package to import an .xlsx file
+
+```{r setup}
+library(tidyverse)
+library(readxl)
+```
+
+For this exercise we'll be working with a data about Eurovision! (h/t to my former student Mariia Novoselia who pulled this data together for a class project). 
+
+```{r}
+eurovision <- read_csv("data/eurovision.csv")
+```
+
+# eurovision
+
+This dataset spans votes from 1957 to 2024; it shows votes from one country to another, as well as the final place (`place_final`) of the receiving country (`to_country`). 
+
+### Sorting and filtering
+
+`arrange()` is used to re-order your data.
+
+`filter()` is used to subset your data, based on criteria you set inside the function
+
+Q: What is the largest number of points one country has received from another?
+
+```{r}
+eurovision %>% arrange(desc(total_points))
+```
+
+Q: What countries have given the most points to Sweden?
+
+```{r}
+eurovision %>% 
+  filter(to_country=="Sweden") %>% 
+  arrange(desc(total_points))
+```
+
+Q: How many times has one country given another the max 24 points?
+
+```{r}
+eurovision %>% filter(total_points == 24)
+```
+
+### Grouping
+
+To analyze groups in your data rather than individual rows, use the `group_by()` function. For example, there are multiple rows per country (for both the `from_country` and `to_country` columns). To analyze all the votes given to any country, we would `group_by(to_country)`. To analyze all the votes given to any country by year, we would `group_by(year, to_country`).
+
+If you are creating groups, you usually want to summarise them in some way. So `group_by()` is almost always followed by `summarise()`. You can consider this a rule of thumb until you are comfortable enough with R to know when there are exceptions. 
+
+```{r}
+# To find total votes by receiving country, use sum() on total_points:
+eurovision %>% 
+  group_by(to_country) %>% 
+  summarise(total = sum(total_points))
+
+# To quickly see which country has received the most points over time, add arrange() with desc():
+eurovision %>% 
+  group_by(to_country) %>% 
+  summarise(total = sum(total_points)) %>% 
+  arrange(desc(total))
+```
+
+The `group_by()` function is best used on columns that are categorical: meaning, you have a set of values that repeat. For example, each country in `to_country` has multiple rows. The same is true for `round`. To quickly see which values exist in each column, use the function `count()`:
+```{r}
+eurovision %>% count(round)
+
+eurovision %>% count(year)
+```
+
+You can think of `count()` as a kind of shortcut function that is adjacent to `group_by()` and `summarise()`, but instead of letting you choose a summary function to apply, it always counts the number of rows per value -- using the function `n()`.
+
+Q: Which country gets the most points from Sweden? 
+```{r}
+eurovision %>% 
+  filter(`from_country`=="Sweden") %>% 
+  group_by(`to_country`) %>% 
+  summarise(total = sum(total_points)) %>% 
+  arrange(desc(total))
+
+# Norway, followed by Denmark and Finland
+```
+
+Q: Which countries have been #1 in the finals? 
+```{r}
+eurovision %>% 
+  filter(place_final==1 & round=="final") %>% 
+  filter(to_country == "Austria")
+```
+
+
