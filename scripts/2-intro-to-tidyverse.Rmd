@@ -5,7 +5,7 @@ output:
     df_print: paged
 ---
 
-The main functions of the tidyverse that we're going to cover tomorrow are these:
+The main functions of the tidyverse that we're going to cover are these:
 
 -   select()
 -   filter()
@@ -15,11 +15,12 @@ The main functions of the tidyverse that we're going to cover tomorrow are these
 
 Refer to R-Functions.html for an explanation of these functions and examples.
 
-Here's we'll put these functions into practice using the same poverty data from the last session. If you need to reload it, run this code again:
-
+Here's we'll put these functions into practice using the UN literacy data.
+Always start your scripts by loading the necessary libraries and the data:
 ```{r}
 library(tidyverse)
-poverty <- read_csv("data/poverty.csv")
+
+literacy <- read_csv("data/UN_literacy.csv")
 ```
 
 Our goal here is to demo the functions mentioned above, so you get a sense for what each one does. We won't explore their full capability here, just a brief demonstration.
@@ -31,13 +32,13 @@ An important note: the tidyverse works with a *pipe* which is this character `%>
 Use `select()` to choose only particular columns from your data table, or to exclude columns in your results:
 
 ```{r}
-poverty %>% select(state, county, population, below150)
+literacy %>% select(year, country_or_area, sex, age, total)
 ```
 
 Use the negative sign to exclude columns:
 
 ```{r}
-poverty %>% select(-below50, -below125)
+literacy %>% select(-unknown)
 ```
 
 ### filter()
@@ -45,7 +46,7 @@ poverty %>% select(-below50, -below125)
 Use `filter()` to subset records from your data table, such as all the counties in a single state. For example, if you only want to see counties in California:
 
 ```{r}
-poverty %>% filter(state=="California")
+literacy %>% filter(area=="Urban")
 ```
 
 Note the double equals sign, which is how R tests for sameness (whereas one equals sign assigns something to a variable, or container).
@@ -53,13 +54,16 @@ Note the double equals sign, which is how R tests for sameness (whereas one equa
 You can specify multiple criteria in your filter, separated by `&` (and) or `|` (or):
 
 ```{r}
-poverty %>% filter(state=="California" & population > 1000000)
+literacy %>% filter(area=="Urban" & sex == "Male")
+
+# note that numbers don't need double quotes:
+literacy %>% filter(total > 1000000)
 ```
 
 ```{r}
-poverty %>% filter(state=="California" | state=="Oregon" | state=="Washington")
+literacy %>% filter(country_or_area=="Greece" | country_or_area=="Bulgaria" | country_or_area=="North Macedonia")
 # or...
-poverty %>% filter(state %in% c("California", "Oregon", "Washington"))
+literacy %>% filter(country_or_area %in% c("Greece", "Bulgaria", "North Macedonia"))
 ```
 
 ### arrange()
@@ -67,48 +71,41 @@ poverty %>% filter(state %in% c("California", "Oregon", "Washington"))
 Use `arrange()` to sort your data.
 
 ```{r}
-poverty %>% arrange(population)
+literacy %>% arrange(total)
 ```
 
 The default is ascending, so to switch to descending, use the function `desc()` like this:
 
 ```{r}
-poverty %>% arrange(desc(population))
+literacy %>% arrange(desc(total))
 ```
 
 You can do a multi-level sort:
 
 ```{r}
-poverty %>% arrange(state, desc(population))
+literacy %>% arrange(country_or_area, desc(literate))
 ```
 
 ### summarise()
 
 Use summarise() to apply summary functions to a column in your data. Note that since the tidyverse was primarily written by a New Zealander you'll often see summarise spelled with an s, but you can also spell it with a z.
 
-To sum up the population using the tidyverse convention of piping, you need to put the `sum()` function inside the `summarise()` function:
+To sum up any column using the tidyverse convention of piping, you need to put the `sum()` function inside the `summarise()` function:
 
 ```{r}
-poverty %>% summarise(total_pop = sum(population))
+literacy %>%  summarise(total_pop = sum(total))
 ```
+Note: this is not actually a helpful number because in our dataset there is a cagetory in "age" that overlaps others: 10 +. So we need to account for that to get a real number. 
 
-This is slightly more typing than the way we used earlier, but piping allows you to string functions together:
+To do that, we'll use both `filter()` and `summarise()`. Piping allows you to string functions together:
 
 ```{r}
-poverty %>% filter(state=="California") %>% summarise(total_pop = sum(population))
+literacy %>% 
+  filter(age == "10 +") %>% 
+  summarise(total_pop = sum(total))
 ```
 
-Within `summarise()` you can apply any number of summary functions. What is the average population of counties in the US?
-
-```{r}
-poverty %>% summarise(avg_pop = mean(population))
-```
-
-What about just for California (or pick another state and swap out the name in the filter):
-
-```{r}
-poverty %>% filter(state=="California") %>% summarise(avg_pop = mean(population))
-```
+Within `summarise()` you can apply any number of summary functions beyond `sum()`.
 
 See R-Functions.html for some other summary functions you can use.
 
@@ -119,19 +116,22 @@ Use `group_by()` to apply summary functions to groups rather than the whole (or 
 `group_by()` puts your rows into groups based on the values in some column, whatever you specify within the function. So if you want to group all the rows by state and add up the population for each:
 
 ```{r}
-poverty %>% 
-  group_by(state) %>% 
-  summarise(total_pop = sum(population))
+# What is the total population (age 10 +) for each country? 
+literacy %>% 
+  filter(age == "10 +") %>% 
+  group_by(country_or_area) %>% 
+  summarise(total_pop = sum(total))
 ```
 
 Add the `arrange()` function to sort by total population:
 
 ```{r}
-poverty %>% 
-  group_by(state) %>% 
-  summarise(total_pop = sum(population)) %>% 
+literacy %>% 
+  filter(age == "10 +") %>% 
+  group_by(country_or_area) %>% 
+  summarise(total_pop = sum(total)) %>% 
   arrange(desc(total_pop))
 ```
 
-Note: because you named the result of sum(population) "total_pop", you can feed that into the `arrange()` function. If you hadn't named it, you could not sort by that column.
+Note: because you named the result of sum(total) "total_pop", you can feed that into the `arrange()` function. If you hadn't named it, you could not sort by that column.
 

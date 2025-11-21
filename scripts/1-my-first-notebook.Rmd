@@ -78,7 +78,12 @@ class(c)
 
 You can always use ?*function_name* to figure out what kinds of arguments a function takes.
 
-Now, let's get our hands on some real data. To do that, we're going to need some functions from the Tidyverse. Assuming you have already installed it (which you only need to do once on your computer), you can bring those functions into this script with the `library()` function:
+Now, let's get our hands on some real data. To do that, we're going to need some functions from the Tidyverse. If you need to install it (which you only need to do once on your computer), run the following code chunk:
+```{r}
+install.packages("tidyverse")
+```
+
+In every script you need to bring the tidyverse packages and functions into the session with the `library()` function:
 ```{r}
 library(tidyverse)
 ```
