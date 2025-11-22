@@ -93,16 +93,21 @@ Use summarise() to apply summary functions to a column in your data. Note that s
 To sum up any column using the tidyverse convention of piping, you need to put the `sum()` function inside the `summarise()` function:
 
 ```{r}
-literacy %>%  summarise(total_pop = sum(total))
+literacy %>% summarise(total_pop = sum(total))
 ```
-Note: this is not actually a helpful number because in our dataset there is a cagetory in "age" that overlaps others: 10 +. So we need to account for that to get a real number. 
+Note: this dataset mostly tracks the population that is 10 or older, and not every country is included in the dataset (in fact many aren't), so this is only the population included in this dataset (not the actually world pop).  
 
-To do that, we'll use both `filter()` and `summarise()`. Piping allows you to string functions together:
-
+We can find the female population of our dataset using `filter()` and `summarise()`:
 ```{r}
 literacy %>% 
-  filter(age == "10 +") %>% 
-  summarise(total_pop = sum(total))
+  filter(sex=="Female") %>% 
+  summarise(female_pop = sum(total))
+```
+Don't forget that you can use R as a calculator!
+```{r}
+1396874044/2792717233
+
+# 50%
 ```
 
 Within `summarise()` you can apply any number of summary functions beyond `sum()`.
@@ -116,9 +121,8 @@ Use `group_by()` to apply summary functions to groups rather than the whole (or 
 `group_by()` puts your rows into groups based on the values in some column, whatever you specify within the function. So if you want to group all the rows by state and add up the population for each:
 
 ```{r}
-# What is the total population (age 10 +) for each country? 
+# What is the total (10+) population for each country? 
 literacy %>% 
-  filter(age == "10 +") %>% 
   group_by(country_or_area) %>% 
   summarise(total_pop = sum(total))
 ```
@@ -127,11 +131,12 @@ Add the `arrange()` function to sort by total population:
 
 ```{r}
 literacy %>% 
-  filter(age == "10 +") %>% 
   group_by(country_or_area) %>% 
   summarise(total_pop = sum(total)) %>% 
   arrange(desc(total_pop))
 ```
 
 Note: because you named the result of sum(total) "total_pop", you can feed that into the `arrange()` function. If you hadn't named it, you could not sort by that column.
+
+
 
