@@ -1,6 +1,5 @@
 year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2008,Algeria,Urban,Male,10 - 14,1046685,17694,3341,1067720
-2008,Algeria,Urban,Male,10 +,8072352,1073050,28745,9174147
 2008,Algeria,Urban,Male,15 - 19,1146063,20573,2894,1169530
 2008,Algeria,Urban,Male,20 - 24,1154112,31364,2980,1188456
 2008,Algeria,Urban,Male,25 - 29,1056048,36912,3042,1096002
@@ -20,7 +19,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2008,Algeria,Urban,Male,95 - 99,566,2055,17,2638
 2008,Algeria,Urban,Male,Unknown,7033,2194,2673,11900
 2008,Algeria,Urban,Female,10 - 14,1008887,16993,3207,1029087
-2008,Algeria,Urban,Female,10 +,6998323,2073716,36065,9108104
 2008,Algeria,Urban,Female,15 - 19,1111173,26101,2747,1140021
 2008,Algeria,Urban,Female,20 - 24,1125379,60694,3472,1189545
 2008,Algeria,Urban,Female,25 - 29,993143,93654,3735,1090532
@@ -40,7 +38,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2008,Algeria,Urban,Female,95 - 99,276,3674,59,4009
 2008,Algeria,Urban,Female,Unknown,6910,5807,2748,15465
 2008,Algeria,Rural,Male,10 - 14,564022,29184,1323,594529
-2008,Algeria,Rural,Male,10 +,3706569,1114700,11458,4832727
 2008,Algeria,Rural,Male,15 - 19,633218,43248,1298,677764
 2008,Algeria,Rural,Male,20 - 24,642167,63636,1429,707232
 2008,Algeria,Rural,Male,25 - 29,565124,67746,1523,634393
@@ -60,7 +57,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2008,Algeria,Rural,Male,95 - 99,198,1337,4,1539
 2008,Algeria,Rural,Male,Unknown,2195,1476,574,4245
 2008,Algeria,Rural,Female,10 - 14,527683,38424,1306,567413
-2008,Algeria,Rural,Female,10 +,2735462,1923440,12641,4671543
 2008,Algeria,Rural,Female,15 - 19,572044,74570,1214,647828
 2008,Algeria,Rural,Female,20 - 24,536749,139843,1650,678242
 2008,Algeria,Rural,Female,25 - 29,422759,177003,1652,601414
@@ -80,7 +76,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2008,Algeria,Rural,Female,95 - 99,83,1743,16,1842
 2008,Algeria,Rural,Female,Unknown,1689,3275,770,5734
 2010,Argentina,Urban,Male,10 - 14,1557996,20952,NA,1578948
-2010,Argentina,Urban,Male,10 +,14308166,239083,NA,14547249
 2010,Argentina,Urban,Male,15 - 19,1580739,17475,NA,1598214
 2010,Argentina,Urban,Male,20 - 24,1485534,15542,NA,1501076
 2010,Argentina,Urban,Male,25 - 29,1398210,15967,NA,1414177
@@ -99,7 +94,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2010,Argentina,Urban,Male,90 - 94,22849,1331,NA,24180
 2010,Argentina,Urban,Male,95 - 99,3984,282,NA,4266
 2010,Argentina,Urban,Female,10 - 14,1520415,15085,NA,1535500
-2010,Argentina,Urban,Female,10 +,15664655,254682,NA,15919337
 2010,Argentina,Urban,Female,15 - 19,1575570,11827,NA,1587397
 2010,Argentina,Urban,Female,20 - 24,1509708,10780,NA,1520488
 2010,Argentina,Urban,Female,25 - 29,1441317,11593,NA,1452910
@@ -119,7 +113,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2010,Argentina,Urban,Female,95 - 99,16390,1397,NA,17787
 2010,Argentina,Urban,Female,100 +,2220,277,NA,2497
 2010,Argentina,Rural,Male,10 - 14,196878,3546,NA,200424
-2010,Argentina,Rural,Male,10 +,1481464,79329,NA,1560793
 2010,Argentina,Rural,Male,15 - 19,183323,3524,NA,186847
 2010,Argentina,Rural,Male,20 - 24,143807,3573,NA,147380
 2010,Argentina,Rural,Male,25 - 29,133733,4196,NA,137929
@@ -137,7 +130,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2010,Argentina,Rural,Male,85 - 89,6445,1215,NA,7660
 2010,Argentina,Rural,Male,90 - 94,1980,414,NA,2394
 2010,Argentina,Rural,Female,10 - 14,186330,2244,NA,188574
-2010,Argentina,Rural,Female,10 +,1304319,66527,NA,1370846
 2010,Argentina,Rural,Female,15 - 19,167407,2202,NA,169609
 2010,Argentina,Rural,Female,20 - 24,128757,2448,NA,131205
 2010,Argentina,Rural,Female,25 - 29,122554,2939,NA,125493
@@ -154,17 +146,11 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2010,Argentina,Rural,Female,80 - 84,17467,3301,NA,20768
 2010,Argentina,Rural,Female,85 - 89,8908,2054,NA,10962
 2010,Argentina,Rural,Female,90 - 94,3328,879,NA,4207
-2022,Armenia,Urban,Male,10 - 14,3725,119,NA,3844
 2022,Armenia,Urban,Male,10 +,5296,995,NA,6291
-2022,Armenia,Urban,Female,10 - 14,3122,174,NA,3296
 2022,Armenia,Urban,Female,10 +,4826,995,NA,5821
-2022,Armenia,Rural,Male,10 - 14,2043,148,NA,2191
 2022,Armenia,Rural,Male,10 +,2695,1235,NA,3930
-2022,Armenia,Rural,Female,10 - 14,1856,112,NA,1968
 2022,Armenia,Rural,Female,10 +,2844,1493,NA,4337
-2022,Armenia,Rural,Female,65 +,554,530,NA,1084
 2019,Azerbaijan,Urban,Male,10 - 14,220881,188,NA,221069
-2019,Azerbaijan,Urban,Male,10 +,2249096,2591,NA,2251687
 2019,Azerbaijan,Urban,Male,15 - 19,179273,122,NA,179395
 2019,Azerbaijan,Urban,Male,20 - 24,184188,197,NA,184385
 2019,Azerbaijan,Urban,Male,25 - 29,234741,218,NA,234959
@@ -182,7 +168,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2019,Azerbaijan,Urban,Male,85 - 89,6119,80,NA,6199
 2019,Azerbaijan,Urban,Male,90 - 94,1435,38,NA,1473
 2019,Azerbaijan,Urban,Female,10 - 14,193989,166,NA,194155
-2019,Azerbaijan,Urban,Female,10 +,2380327,4342,NA,2384669
 2019,Azerbaijan,Urban,Female,15 - 19,160352,112,NA,160464
 2019,Azerbaijan,Urban,Female,20 - 24,190370,137,NA,190507
 2019,Azerbaijan,Urban,Female,25 - 29,260884,209,NA,261093
@@ -200,7 +185,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2019,Azerbaijan,Urban,Female,85 - 89,9360,275,NA,9635
 2019,Azerbaijan,Urban,Female,90 - 94,2516,96,NA,2612
 2019,Azerbaijan,Rural,Male,10 - 14,193025,271,NA,193296
-2019,Azerbaijan,Rural,Male,10 +,1877834,4050,NA,1881884
 2019,Azerbaijan,Rural,Male,15 - 19,164410,257,NA,164667
 2019,Azerbaijan,Rural,Male,20 - 24,182075,348,NA,182423
 2019,Azerbaijan,Rural,Male,25 - 29,214610,395,NA,215005
@@ -218,7 +202,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2019,Azerbaijan,Rural,Male,85 - 89,6680,160,NA,6840
 2019,Azerbaijan,Rural,Male,90 - 94,1586,61,NA,1647
 2019,Azerbaijan,Rural,Female,10 - 14,166191,210,NA,166401
-2019,Azerbaijan,Rural,Female,10 +,1896610,7043,NA,1903653
 2019,Azerbaijan,Rural,Female,15 - 19,146174,196,NA,146370
 2019,Azerbaijan,Rural,Female,20 - 24,177694,298,NA,177992
 2019,Azerbaijan,Rural,Female,25 - 29,216224,384,NA,216608
@@ -236,7 +219,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2019,Azerbaijan,Rural,Female,85 - 89,10362,626,NA,10988
 2019,Azerbaijan,Rural,Female,90 - 94,2744,236,NA,2980
 2022,Bangladesh,Urban,Male,10 - 14,2455493,145427,NA,2600920
-2022,Bangladesh,Urban,Male,10 +,18207465,3748036,NA,21955501
 2022,Bangladesh,Urban,Male,15 - 19,2452816,189042,NA,2641858
 2022,Bangladesh,Urban,Male,20 - 24,2305593,203093,NA,2508686
 2022,Bangladesh,Urban,Male,25 - 29,2208131,271032,NA,2479163
@@ -256,7 +238,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Bangladesh,Urban,Male,95 - 99,4775,7004,NA,11779
 2022,Bangladesh,Urban,Male,100 +,493,1060,NA,1553
 2022,Bangladesh,Urban,Female,10 - 14,2230694,80623,NA,2311317
-2022,Bangladesh,Urban,Female,10 +,16637361,4496014,NA,21133375
 2022,Bangladesh,Urban,Female,15 - 19,2555236,121684,NA,2676920
 2022,Bangladesh,Urban,Female,20 - 24,2638753,183431,NA,2822184
 2022,Bangladesh,Urban,Female,25 - 29,2407415,284912,NA,2692327
@@ -276,7 +257,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Bangladesh,Urban,Female,95 - 99,2873,15128,NA,18001
 2022,Bangladesh,Urban,Female,100 +,281,2684,NA,2965
 2022,Bangladesh,Rural,Male,10 - 14,5536596,376455,NA,5913051
-2022,Bangladesh,Rural,Male,10 +,31801323,12141533,NA,43942856
 2022,Bangladesh,Rural,Male,15 - 19,4980835,447631,NA,5428466
 2022,Bangladesh,Rural,Male,20 - 24,3732861,480386,NA,4213247
 2022,Bangladesh,Rural,Male,25 - 29,3319515,664954,NA,3984469
@@ -296,7 +276,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Bangladesh,Rural,Male,95 - 99,14052,31267,NA,45319
 2022,Bangladesh,Rural,Male,100 +,1840,5403,NA,7243
 2022,Bangladesh,Rural,Female,10 - 14,5322720,184683,NA,5507403
-2022,Bangladesh,Rural,Female,10 +,32457432,14751582,NA,47209014
 2022,Bangladesh,Rural,Female,15 - 19,5565395,253868,NA,5819263
 2022,Bangladesh,Rural,Female,20 - 24,5014630,433621,NA,5448251
 2022,Bangladesh,Rural,Female,25 - 29,4494102,728818,NA,5222920
@@ -316,7 +295,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Bangladesh,Rural,Female,95 - 99,4863,52943,NA,57806
 2022,Bangladesh,Rural,Female,100 +,725,11056,NA,11781
 2019,Belarus,Urban,Male,10 - 14,203371,204,0,203575
-2019,Belarus,Urban,Male,10 +,2889404,1885,8791,2900080
 2019,Belarus,Urban,Male,15 - 19,192558,194,4,192756
 2019,Belarus,Urban,Male,20 - 24,183685,196,413,184294
 2019,Belarus,Urban,Male,25 - 29,246003,212,773,246988
@@ -332,7 +310,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2019,Belarus,Urban,Male,75 - 79,46404,14,208,46626
 2019,Belarus,Urban,Male,80 +,54845,33,302,55180
 2019,Belarus,Urban,Female,10 - 14,193521,131,44,193696
-2019,Belarus,Urban,Female,10 +,3517678,1804,9470,3528952
 2019,Belarus,Urban,Female,15 - 19,182779,126,60,182965
 2019,Belarus,Urban,Female,20 - 24,179367,129,268,179764
 2019,Belarus,Urban,Female,25 - 29,258928,153,523,259604
@@ -348,7 +325,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2019,Belarus,Urban,Female,75 - 79,105725,31,510,106266
 2019,Belarus,Urban,Female,80 +,170773,365,1189,172327
 2019,Belarus,Rural,Male,10 - 14,55774,88,0,55862
-2019,Belarus,Rural,Male,10 +,885005,2949,4761,892715
 2019,Belarus,Rural,Male,15 - 19,41542,123,2,41667
 2019,Belarus,Rural,Male,20 - 24,44006,194,141,44341
 2019,Belarus,Rural,Male,25 - 29,58203,258,326,58787
@@ -364,7 +340,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2019,Belarus,Rural,Male,75 - 79,20984,61,127,21172
 2019,Belarus,Rural,Male,80 +,29877,109,216,30202
 2019,Belarus,Rural,Female,10 - 14,53102,56,28,53186
-2019,Belarus,Rural,Female,10 +,996226,3659,4488,1004373
 2019,Belarus,Rural,Female,15 - 19,38257,86,36,38379
 2019,Belarus,Rural,Female,20 - 24,39416,100,133,39649
 2019,Belarus,Rural,Female,25 - 29,50510,169,263,50942
@@ -380,7 +355,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2019,Belarus,Rural,Female,75 - 79,53367,142,286,53795
 2019,Belarus,Rural,Female,80 +,106864,1304,739,108907
 2022,Belize,Urban,Male,10 - 14,3763,4123,134,8020
-2022,Belize,Urban,Male,10 +,7703,57318,1251,66272
 2022,Belize,Urban,Male,15 - 19,203,7726,139,8068
 2022,Belize,Urban,Male,20 - 24,186,7403,168,7757
 2022,Belize,Urban,Male,25 - 29,175,6409,128,6712
@@ -394,7 +368,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Belize,Urban,Male,65 - 69,252,1653,41,1946
 2022,Belize,Urban,Male,70 - 74,232,1111,33,1376
 2022,Belize,Urban,Female,10 - 14,3466,4211,88,7765
-2022,Belize,Urban,Female,10 +,8279,63663,1242,73184
 2022,Belize,Urban,Female,15 - 19,162,7652,158,7972
 2022,Belize,Urban,Female,20 - 24,127,7985,127,8239
 2022,Belize,Urban,Female,25 - 29,199,7384,102,7685
@@ -408,7 +381,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Belize,Urban,Female,65 - 69,291,1707,29,2027
 2022,Belize,Urban,Female,70 - 74,250,1287,53,1590
 2022,Belize,Rural,Male,10 - 14,6799,6069,571,13439
-2022,Belize,Rural,Male,10 +,19054,70481,1186,90721
 2022,Belize,Rural,Male,15 - 19,658,11237,93,11988
 2022,Belize,Rural,Male,20 - 24,573,9479,72,10124
 2022,Belize,Rural,Male,25 - 29,703,7732,47,8482
@@ -423,7 +395,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Belize,Rural,Male,70 - 74,644,1104,19,1767
 2022,Belize,Rural,Male,75 - 79,384,608,12,1004
 2022,Belize,Rural,Female,10 - 14,5874,6421,431,12726
-2022,Belize,Rural,Female,10 +,18286,71947,992,91225
 2022,Belize,Rural,Female,15 - 19,475,11133,69,11677
 2022,Belize,Rural,Female,20 - 24,509,9749,59,10317
 2022,Belize,Rural,Female,25 - 29,693,8864,56,9613
@@ -436,12 +407,7 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Belize,Rural,Female,60 - 64,955,2141,30,3126
 2022,Belize,Rural,Female,65 - 69,684,1387,26,2097
 2022,Belize,Rural,Female,70 - 74,527,886,16,1429
-2017,Bhutan,Urban,Male,15 +,95395,13461,NA,108856
-2017,Bhutan,Urban,Female,15 +,73204,24144,NA,97348
-2017,Bhutan,Rural,Male,15 +,117241,57344,NA,174585
-2017,Bhutan,Rural,Female,15 +,71202,84421,NA,155623
 2012,Bolivia (Plurinational State of),Urban,Male,10 - 14,350879,1178,3476,355533
-2012,Bolivia (Plurinational State of),Urban,Male,10 +,2564945,24412,23369,2612726
 2012,Bolivia (Plurinational State of),Urban,Male,15 - 19,371132,852,2051,374035
 2012,Bolivia (Plurinational State of),Urban,Male,20 - 24,348006,1259,3373,352638
 2012,Bolivia (Plurinational State of),Urban,Male,25 - 29,283359,1118,2501,286978
@@ -460,7 +426,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2012,Bolivia (Plurinational State of),Urban,Male,90 - 94,2872,462,54,3388
 2012,Bolivia (Plurinational State of),Urban,Male,95 +,1425,241,54,1720
 2012,Bolivia (Plurinational State of),Urban,Female,10 - 14,343365,1006,3144,347515
-2012,Bolivia (Plurinational State of),Urban,Female,10 +,2668355,102100,26068,2796523
 2012,Bolivia (Plurinational State of),Urban,Female,15 - 19,381344,1219,2574,385137
 2012,Bolivia (Plurinational State of),Urban,Female,20 - 24,360311,2068,3486,365865
 2012,Bolivia (Plurinational State of),Urban,Female,25 - 29,300648,2497,2641,305786
@@ -479,7 +444,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2012,Bolivia (Plurinational State of),Urban,Female,90 - 94,3416,1694,78,5188
 2012,Bolivia (Plurinational State of),Urban,Female,95 +,1686,917,63,2666
 2012,Bolivia (Plurinational State of),Rural,Male,10 - 14,190913,939,2177,194029
-2012,Bolivia (Plurinational State of),Rural,Male,10 +,1261486,60088,14356,1335930
 2012,Bolivia (Plurinational State of),Rural,Male,15 - 19,182411,1137,1118,184666
 2012,Bolivia (Plurinational State of),Rural,Male,20 - 24,134989,2245,1718,138952
 2012,Bolivia (Plurinational State of),Rural,Male,25 - 29,115503,1903,1366,118772
@@ -498,7 +462,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2012,Bolivia (Plurinational State of),Rural,Male,90 - 94,1557,994,48,2599
 2012,Bolivia (Plurinational State of),Rural,Male,95 +,908,643,30,1581
 2012,Bolivia (Plurinational State of),Rural,Female,10 - 14,177564,909,1973,180446
-2012,Bolivia (Plurinational State of),Rural,Female,10 +,1033815,164194,15413,1213422
 2012,Bolivia (Plurinational State of),Rural,Female,15 - 19,158686,1356,1234,161276
 2012,Bolivia (Plurinational State of),Rural,Female,20 - 24,113855,2878,1682,118415
 2012,Bolivia (Plurinational State of),Rural,Female,25 - 29,97847,3707,1326,102880
@@ -517,7 +480,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2012,Bolivia (Plurinational State of),Rural,Female,90 - 94,1222,2188,62,3472
 2012,Bolivia (Plurinational State of),Rural,Female,95 +,878,1337,42,2257
 2021,Brunei Darussalam,Urban,Male,10 - 14,11617,284,NA,11901
-2021,Brunei Darussalam,Urban,Male,10 +,146291,4095,NA,150386
 2021,Brunei Darussalam,Urban,Male,15 - 19,12636,218,NA,12854
 2021,Brunei Darussalam,Urban,Male,20 - 24,14598,277,NA,14875
 2021,Brunei Darussalam,Urban,Male,25 - 29,16633,366,NA,16999
@@ -532,7 +494,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2021,Brunei Darussalam,Urban,Male,70 - 74,2346,179,NA,2525
 2021,Brunei Darussalam,Urban,Male,75 - 79,1199,125,NA,1324
 2021,Brunei Darussalam,Urban,Female,10 - 14,10933,188,NA,11121
-2021,Brunei Darussalam,Urban,Female,10 +,129740,4961,NA,134701
 2021,Brunei Darussalam,Urban,Female,15 - 19,12031,134,NA,12165
 2021,Brunei Darussalam,Urban,Female,20 - 24,12535,136,NA,12671
 2021,Brunei Darussalam,Urban,Female,25 - 29,13648,176,NA,13824
@@ -548,7 +509,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2021,Brunei Darussalam,Urban,Female,75 - 79,896,521,NA,1417
 2021,Brunei Darussalam,Urban,Female,80 - 84,542,480,NA,1022
 2021,Brunei Darussalam,Rural,Male,10 - 14,4065,85,NA,4150
-2021,Brunei Darussalam,Rural,Male,10 +,48935,1957,NA,50892
 2021,Brunei Darussalam,Rural,Male,15 - 19,4442,69,NA,4511
 2021,Brunei Darussalam,Rural,Male,20 - 24,4899,96,NA,4995
 2021,Brunei Darussalam,Rural,Male,25 - 29,5529,170,NA,5699
@@ -562,7 +522,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2021,Brunei Darussalam,Rural,Male,65 - 69,1597,88,NA,1685
 2021,Brunei Darussalam,Rural,Male,70 - 74,908,94,NA,1002
 2021,Brunei Darussalam,Rural,Female,10 - 14,3847,68,NA,3915
-2021,Brunei Darussalam,Rural,Female,10 +,43144,2303,NA,45447
 2021,Brunei Darussalam,Rural,Female,15 - 19,4216,44,NA,4260
 2021,Brunei Darussalam,Rural,Female,20 - 24,4508,50,NA,4558
 2021,Brunei Darussalam,Rural,Female,25 - 29,4545,39,NA,4584
@@ -576,7 +535,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2021,Brunei Darussalam,Rural,Female,65 - 69,1593,265,NA,1858
 2021,Brunei Darussalam,Rural,Female,70 - 74,820,359,NA,1179
 2021,Bulgaria,Urban,Male,10 - 14,123458,1459,NA,124917
-2021,Bulgaria,Urban,Male,10 +,2034769,16063,NA,2050832
 2021,Bulgaria,Urban,Male,15 - 19,107166,957,NA,108123
 2021,Bulgaria,Urban,Male,20 - 24,101197,1100,NA,102297
 2021,Bulgaria,Urban,Male,25 - 29,114605,1249,NA,115854
@@ -594,7 +552,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2021,Bulgaria,Urban,Male,85 - 89,22000,132,NA,22132
 2021,Bulgaria,Urban,Male,90 - 94,6791,43,NA,6834
 2021,Bulgaria,Urban,Female,10 - 14,117059,1295,NA,118354
-2021,Bulgaria,Urban,Female,10 +,2267763,22139,NA,2289902
 2021,Bulgaria,Urban,Female,15 - 19,101169,1009,NA,102178
 2021,Bulgaria,Urban,Female,20 - 24,97507,1127,NA,98634
 2021,Bulgaria,Urban,Female,25 - 29,110537,1424,NA,111961
@@ -613,7 +570,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2021,Bulgaria,Urban,Female,90 - 94,15823,266,NA,16089
 2021,Bulgaria,Urban,Female,95 - 99,2615,50,NA,2665
 2021,Bulgaria,Rural,Male,10 - 14,42105,869,NA,42974
-2021,Bulgaria,Rural,Male,10 +,767589,14004,NA,781593
 2021,Bulgaria,Rural,Male,15 - 19,38958,636,NA,39594
 2021,Bulgaria,Rural,Male,20 - 24,33776,708,NA,34484
 2021,Bulgaria,Rural,Male,25 - 29,38134,901,NA,39035
@@ -631,7 +587,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2021,Bulgaria,Rural,Male,85 - 89,12261,318,NA,12579
 2021,Bulgaria,Rural,Male,90 - 94,3013,94,NA,3107
 2021,Bulgaria,Rural,Female,10 - 14,39313,797,NA,40110
-2021,Bulgaria,Rural,Female,10 +,784076,22019,NA,806095
 2021,Bulgaria,Rural,Female,15 - 19,35617,729,NA,36346
 2021,Bulgaria,Rural,Female,20 - 24,30551,821,NA,31372
 2021,Bulgaria,Rural,Female,25 - 29,33184,1091,NA,34275
@@ -650,7 +605,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2021,Bulgaria,Rural,Female,90 - 94,6274,443,NA,6717
 2021,Bulgaria,Rural,Female,95 - 99,1027,100,NA,1127
 2006,Burkina Faso,Urban,Male,10 - 14,145007,33632,NA,178639
-2006,Burkina Faso,Urban,Male,10 +,751086,423996,NA,1175082
 2006,Burkina Faso,Urban,Male,15 - 19,147593,44973,NA,192566
 2006,Burkina Faso,Urban,Male,20 - 24,128407,50573,NA,178980
 2006,Burkina Faso,Urban,Male,25 - 29,99103,51247,NA,150350
@@ -668,7 +622,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2006,Burkina Faso,Urban,Male,85 +,275,2041,NA,2316
 2006,Burkina Faso,Urban,Male,Unknown,1817,5792,NA,7609
 2006,Burkina Faso,Urban,Female,10 - 14,140614,50279,NA,190893
-2006,Burkina Faso,Urban,Female,10 +,586988,597355,NA,1184343
 2006,Burkina Faso,Urban,Female,15 - 19,137475,81342,NA,218817
 2006,Burkina Faso,Urban,Female,20 - 24,108030,79019,NA,187049
 2006,Burkina Faso,Urban,Female,25 - 29,73540,72530,NA,146070
@@ -686,7 +639,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2006,Burkina Faso,Urban,Female,85 +,122,4928,NA,5050
 2006,Burkina Faso,Urban,Female,Unknown,1401,7419,NA,8820
 2006,Burkina Faso,Rural,Male,10 - 14,263558,457906,NA,721464
-2006,Burkina Faso,Rural,Male,10 +,678929,2507645,NA,3186574
 2006,Burkina Faso,Rural,Male,15 - 19,143201,374556,NA,517757
 2006,Burkina Faso,Rural,Male,20 - 24,74888,276557,NA,351445
 2006,Burkina Faso,Rural,Male,25 - 29,59937,238144,NA,298081
@@ -704,7 +656,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2006,Burkina Faso,Rural,Male,85 +,291,16245,NA,16536
 2006,Burkina Faso,Rural,Male,Unknown,1087,25066,NA,26153
 2006,Burkina Faso,Rural,Female,10 - 14,187997,467595,NA,655592
-2006,Burkina Faso,Rural,Female,10 +,397997,3320643,NA,3718640
 2006,Burkina Faso,Rural,Female,15 - 19,86140,460005,NA,546145
 2006,Burkina Faso,Rural,Female,20 - 24,45117,422787,NA,467904
 2006,Burkina Faso,Rural,Female,25 - 29,31224,383560,NA,414784
@@ -722,7 +673,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2006,Burkina Faso,Rural,Female,85 +,78,22310,NA,22388
 2006,Burkina Faso,Rural,Female,Unknown,758,31147,NA,31905
 2008,Burundi,Urban,Male,10 - 14,28785,10489,NA,39274
-2008,Burundi,Urban,Male,10 +,244612,81706,NA,326318
 2008,Burundi,Urban,Male,15 - 19,39408,12418,NA,51826
 2008,Burundi,Urban,Male,20 - 24,40349,12306,NA,52655
 2008,Burundi,Urban,Male,25 - 29,41093,11495,NA,52588
@@ -736,7 +686,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2008,Burundi,Urban,Male,65 - 69,1236,1025,NA,2261
 2008,Burundi,Urban,Male,70 - 74,725,921,NA,1646
 2008,Burundi,Urban,Female,10 - 14,31027,11281,NA,42308
-2008,Burundi,Urban,Female,10 +,182825,71676,NA,254501
 2008,Burundi,Urban,Female,15 - 19,38455,12025,NA,50480
 2008,Burundi,Urban,Female,20 - 24,33519,8971,NA,42490
 2008,Burundi,Urban,Female,25 - 29,28342,6846,NA,35188
@@ -751,7 +700,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2008,Burundi,Urban,Female,70 - 74,420,1590,NA,2010
 2008,Burundi,Urban,Female,75 - 79,224,924,NA,1148
 2008,Burundi,Rural,Male,10 - 14,253043,187627,NA,440670
-2008,Burundi,Rural,Male,10 +,1141214,1197936,NA,2339150
 2008,Burundi,Rural,Male,15 - 19,259972,150533,NA,410505
 2008,Burundi,Rural,Male,20 - 24,163620,148367,NA,311987
 2008,Burundi,Rural,Male,25 - 29,132576,119733,NA,252309
@@ -771,7 +719,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2008,Burundi,Rural,Male,95 +,639,2651,NA,3290
 2008,Burundi,Rural,Male,Unknown,323,1943,NA,2266
 2008,Burundi,Rural,Female,10 - 14,264099,205947,NA,470046
-2008,Burundi,Rural,Female,10 +,1061288,1434499,NA,2495787
 2008,Burundi,Rural,Female,15 - 19,251380,203641,NA,455021
 2008,Burundi,Rural,Female,20 - 24,187256,177453,NA,364709
 2008,Burundi,Rural,Female,25 - 29,140749,126812,NA,267561
@@ -791,7 +738,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2008,Burundi,Rural,Female,95 +,464,3054,NA,3518
 2008,Burundi,Rural,Female,Unknown,265,2461,NA,2726
 2008,Cambodia,Urban,Male,15 - 19,155222,6079,0,161301
-2008,Cambodia,Urban,Male,15 +,865304,50504,6,915814
 2008,Cambodia,Urban,Male,20 - 24,166257,7511,1,173769
 2008,Cambodia,Urban,Male,25 - 29,145364,7214,3,152581
 2008,Cambodia,Urban,Male,30 - 34,67674,4289,0,71963
@@ -805,7 +751,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2008,Cambodia,Urban,Male,70 - 74,8423,1420,0,9843
 2008,Cambodia,Urban,Male,75 +,8662,2534,0,11196
 2008,Cambodia,Urban,Female,15 - 19,172523,8511,0,181034
-2008,Cambodia,Urban,Female,15 +,897548,136309,5,1033862
 2008,Cambodia,Urban,Female,20 - 24,183758,13094,0,196852
 2008,Cambodia,Urban,Female,25 - 29,148209,14074,0,162283
 2008,Cambodia,Urban,Female,30 - 34,65764,8635,1,74400
@@ -819,7 +764,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2008,Cambodia,Urban,Female,70 - 74,7451,8327,0,15778
 2008,Cambodia,Urban,Female,75 +,8401,12117,1,20519
 2008,Cambodia,Rural,Male,15 - 19,602988,70119,8,673115
-2008,Cambodia,Rural,Male,15 +,2709162,576198,74,3285434
 2008,Cambodia,Rural,Male,20 - 24,419633,75933,8,495574
 2008,Cambodia,Rural,Male,25 - 29,369680,83439,6,453125
 2008,Cambodia,Rural,Male,30 - 34,207908,55164,11,263083
@@ -833,7 +777,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2008,Cambodia,Rural,Male,70 - 74,39095,14999,1,54095
 2008,Cambodia,Rural,Male,75 +,41270,23249,18,64537
 2008,Cambodia,Rural,Female,15 - 19,528973,74861,6,603840
-2008,Cambodia,Rural,Female,15 +,2419021,1227694,65,3646780
 2008,Cambodia,Rural,Female,20 - 24,384694,118305,8,503007
 2008,Cambodia,Rural,Female,25 - 29,324867,140496,9,465372
 2008,Cambodia,Rural,Female,30 - 34,189042,94744,3,283789
@@ -847,7 +790,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2008,Cambodia,Rural,Female,70 - 74,20055,59172,2,79229
 2008,Cambodia,Rural,Female,75 +,20852,78395,17,99264
 2020,China,Urban,Male,15 - 19,28125846,40515,NA,28166361
-2020,China,Urban,Male,15 +,371183290,3162417,NA,374345707
 2020,China,Urban,Male,20 - 24,27773690,40654,NA,27814344
 2020,China,Urban,Male,25 - 29,33147733,46294,NA,33194027
 2020,China,Urban,Male,30 - 34,44866736,71318,NA,44938054
@@ -863,7 +805,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2020,China,Urban,Male,80 - 84,4493915,347622,NA,4841537
 2020,China,Urban,Male,85 +,3036180,363645,NA,3399825
 2020,China,Urban,Female,15 - 19,24976993,29995,NA,25006988
-2020,China,Urban,Female,15 +,360349415,10138059,NA,370487474
 2020,China,Urban,Female,20 - 24,25596922,32073,NA,25628995
 2020,China,Urban,Female,25 - 29,31258616,43199,NA,31301815
 2020,China,Urban,Female,30 - 34,43983806,81374,NA,44065180
@@ -879,7 +820,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2020,China,Urban,Female,80 - 84,4780641,1233401,NA,6014042
 2020,China,Urban,Female,85 +,3388658,1485301,NA,4873959
 2020,China,Rural,Male,15 - 19,10836544,50438,NA,10886982
-2020,China,Rural,Male,15 +,206139844,6337264,NA,212477108
 2020,China,Rural,Male,20 - 24,11798384,63267,NA,11861651
 2020,China,Rural,Male,25 - 29,14882268,85975,NA,14968243
 2020,China,Rural,Male,30 - 34,18789764,143990,NA,18933754
@@ -895,7 +835,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2020,China,Rural,Male,80 - 84,3639898,675568,NA,4315466
 2020,China,Rural,Male,85 +,2119340,581104,NA,2700444
 2020,China,Rural,Female,15 - 19,8583793,40016,NA,8623809
-2020,China,Rural,Female,15 +,181018220,18066277,NA,199084497
 2020,China,Rural,Female,20 - 24,9575394,61291,NA,9636685
 2020,China,Rural,Female,25 - 29,12284550,98697,NA,12383247
 2020,China,Rural,Female,30 - 34,16017931,190271,NA,16208202
@@ -911,7 +850,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2020,China,Rural,Female,80 - 84,3183024,2028809,NA,5211833
 2020,China,Rural,Female,85 +,2346511,2097218,NA,4443729
 2018,Colombia,Urban,Male,10 - 14,1299421,15408,11947,1326776
-2018,Colombia,Urban,Male,10 +,13316963,419192,222648,13958803
 2018,Colombia,Urban,Male,15 - 19,1398926,16836,33848,1449610
 2018,Colombia,Urban,Male,20 - 24,1488889,18113,36543,1543545
 2018,Colombia,Urban,Male,25 - 29,1412478,19356,24942,1456776
@@ -931,7 +869,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2018,Colombia,Urban,Male,95 - 99,6475,2030,153,8658
 2018,Colombia,Urban,Male,100 +,3305,576,157,4038
 2018,Colombia,Urban,Female,10 - 14,1258580,8833,11604,1279017
-2018,Colombia,Urban,Female,10 +,14853345,478637,187539,15519521
 2018,Colombia,Urban,Female,15 - 19,1393587,9358,15861,1418806
 2018,Colombia,Urban,Female,20 - 24,1528886,11049,22552,1562487
 2018,Colombia,Urban,Female,25 - 29,1469422,12499,21200,1503121
@@ -951,7 +888,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2018,Colombia,Urban,Female,95 - 99,11986,4272,217,16475
 2018,Colombia,Urban,Female,100 +,4262,1179,200,5641
 2018,Colombia,Rural,Male,10 - 14,501919,14857,4666,521442
-2018,Colombia,Rural,Male,10 +,3808652,478965,62894,4350511
 2018,Colombia,Rural,Male,15 - 19,490314,15898,14708,520920
 2018,Colombia,Rural,Male,20 - 24,406661,18577,14770,440008
 2018,Colombia,Rural,Male,25 - 29,351291,21456,5635,378382
@@ -971,7 +907,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2018,Colombia,Rural,Male,95 - 99,1306,1311,16,2633
 2018,Colombia,Rural,Male,100 +,756,476,24,1256
 2018,Colombia,Rural,Female,10 - 14,469024,10375,3950,483349
-2018,Colombia,Rural,Female,10 +,3516054,419200,27307,3962561
 2018,Colombia,Rural,Female,15 - 19,449378,10904,2637,462919
 2018,Colombia,Rural,Female,20 - 24,377742,13298,3208,394248
 2018,Colombia,Rural,Female,25 - 29,335160,15970,2765,353895
@@ -991,7 +926,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2018,Colombia,Rural,Female,95 - 99,1484,1931,20,3435
 2018,Colombia,Rural,Female,100 +,663,603,25,1291
 2011,Costa Rica,Urban,Male,10 - 14,133550,1096,NA,134646
-2011,Costa Rica,Urban,Male,10 +,1248085,20825,NA,1268910
 2011,Costa Rica,Urban,Male,15 - 19,140220,939,NA,141159
 2011,Costa Rica,Urban,Male,20 - 24,148194,1217,NA,149411
 2011,Costa Rica,Urban,Male,25 - 29,135461,1403,NA,136864
@@ -1009,7 +943,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Costa Rica,Urban,Male,85 - 89,5871,602,NA,6473
 2011,Costa Rica,Urban,Male,90 - 94,2123,306,NA,2429
 2011,Costa Rica,Urban,Female,10 - 14,131675,745,NA,132420
-2011,Costa Rica,Urban,Female,10 +,1367206,22643,NA,1389849
 2011,Costa Rica,Urban,Female,15 - 19,142776,662,NA,143438
 2011,Costa Rica,Urban,Female,20 - 24,153086,826,NA,153912
 2011,Costa Rica,Urban,Female,25 - 29,145145,1065,NA,146210
@@ -1028,7 +961,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Costa Rica,Urban,Female,90 - 94,3837,436,NA,4273
 2011,Costa Rica,Urban,Female,95 - 99,1289,179,NA,1468
 2011,Costa Rica,Rural,Male,10 - 14,60480,554,NA,61034
-2011,Costa Rica,Rural,Male,10 +,467276,22939,NA,490215
 2011,Costa Rica,Rural,Male,15 - 19,60018,757,NA,60775
 2011,Costa Rica,Rural,Male,20 - 24,52761,1108,NA,53869
 2011,Costa Rica,Rural,Male,25 - 29,45704,1478,NA,47182
@@ -1046,7 +978,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Costa Rica,Rural,Male,85 - 89,1932,663,NA,2595
 2011,Costa Rica,Rural,Male,90 - 94,731,313,NA,1044
 2011,Costa Rica,Rural,Female,10 - 14,58489,467,NA,58956
-2011,Costa Rica,Rural,Female,10 +,451641,20323,NA,471964
 2011,Costa Rica,Rural,Female,15 - 19,59214,590,NA,59804
 2011,Costa Rica,Rural,Female,20 - 24,52321,967,NA,53288
 2011,Costa Rica,Rural,Female,25 - 29,46866,1302,NA,48168
@@ -1063,7 +994,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Costa Rica,Rural,Female,80 - 84,3268,1084,NA,4352
 2011,Costa Rica,Rural,Female,85 - 89,1705,589,NA,2294
 2014,Côte d'Ivoire,Urban,Male,10 - 14,551272,126272,7939,685483
-2014,Côte d'Ivoire,Urban,Male,10 +,2838158,1372560,78927,4289645
 2014,Côte d'Ivoire,Urban,Male,15 - 19,463886,142381,10793,617060
 2014,Côte d'Ivoire,Urban,Male,20 - 24,389789,166928,15230,571947
 2014,Côte d'Ivoire,Urban,Male,25 - 29,333785,183278,15241,532304
@@ -1076,7 +1006,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2014,Côte d'Ivoire,Urban,Male,60 - 64,46885,42106,706,89697
 2014,Côte d'Ivoire,Urban,Male,65 +,45253,74185,1520,120958
 2014,Côte d'Ivoire,Urban,Female,10 - 14,491429,173068,5908,670405
-2014,Côte d'Ivoire,Urban,Female,10 +,2188912,1897989,37677,4124578
 2014,Côte d'Ivoire,Urban,Female,15 - 19,391350,226486,6981,624817
 2014,Côte d'Ivoire,Urban,Female,20 - 24,338028,264764,6909,609701
 2014,Côte d'Ivoire,Urban,Female,25 - 29,292160,280900,5593,578653
@@ -1089,7 +1018,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2014,Côte d'Ivoire,Urban,Female,60 - 64,19117,51914,417,71448
 2014,Côte d'Ivoire,Urban,Female,65 +,18727,99048,758,118533
 2014,Côte d'Ivoire,Rural,Male,10 - 14,432124,268192,5933,706249
-2014,Côte d'Ivoire,Rural,Male,10 +,1523214,2306353,48552,3878119
 2014,Côte d'Ivoire,Rural,Male,15 - 19,197975,254806,5714,458495
 2014,Côte d'Ivoire,Rural,Male,20 - 24,165099,277085,8059,450243
 2014,Côte d'Ivoire,Rural,Male,25 - 29,162580,294434,8142,465156
@@ -1102,7 +1030,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2014,Côte d'Ivoire,Rural,Male,60 - 64,25812,67338,647,93797
 2014,Côte d'Ivoire,Rural,Male,65 +,28175,140822,1011,170008
 2014,Côte d'Ivoire,Rural,Female,10 - 14,316789,246055,3976,566820
-2014,Côte d'Ivoire,Rural,Female,10 +,956275,2537343,28517,3522135
 2014,Côte d'Ivoire,Rural,Female,15 - 19,137730,272605,3874,414209
 2014,Côte d'Ivoire,Rural,Female,20 - 24,120809,348403,4491,473703
 2014,Côte d'Ivoire,Rural,Female,25 - 29,107519,362319,4433,474271
@@ -1115,7 +1042,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2014,Côte d'Ivoire,Rural,Female,60 - 64,8587,73688,464,82739
 2014,Côte d'Ivoire,Rural,Female,65 +,10766,155041,681,166488
 2011,Croatia,Urban,Male,10 - 14,63594,169,NA,63763
-2011,Croatia,Urban,Male,10 +,1003600,2245,NA,1005845
 2011,Croatia,Urban,Male,15 - 19,66364,142,NA,66506
 2011,Croatia,Urban,Male,20 - 24,71845,192,NA,72037
 2011,Croatia,Urban,Male,25 - 29,82272,194,NA,82466
@@ -1133,7 +1059,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Croatia,Urban,Male,85 - 89,7002,43,NA,7045
 2011,Croatia,Urban,Male,90 - 94,1499,18,NA,1517
 2011,Croatia,Urban,Female,10 - 14,60360,118,NA,60478
-2011,Croatia,Urban,Female,10 +,1129792,8021,NA,1137813
 2011,Croatia,Urban,Female,15 - 19,63732,131,NA,63863
 2011,Croatia,Urban,Female,20 - 24,70496,148,NA,70644
 2011,Croatia,Urban,Female,25 - 29,82113,175,NA,82288
@@ -1151,7 +1076,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Croatia,Urban,Female,85 - 89,18166,1002,NA,19168
 2011,Croatia,Urban,Female,90 - 94,4250,314,NA,4564
 2011,Croatia,Rural,Male,10 - 14,56716,154,NA,56870
-2011,Croatia,Rural,Male,10 +,841908,4490,NA,846398
 2011,Croatia,Rural,Male,15 - 19,58218,194,NA,58412
 2011,Croatia,Rural,Male,20 - 24,61202,216,NA,61418
 2011,Croatia,Rural,Male,25 - 29,64683,267,NA,64950
@@ -1169,7 +1093,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Croatia,Rural,Male,85 - 89,5249,121,NA,5370
 2011,Croatia,Rural,Male,90 - 94,1029,34,NA,1063
 2011,Croatia,Rural,Female,10 - 14,54201,90,NA,54291
-2011,Croatia,Rural,Female,10 +,860261,17546,NA,877807
 2011,Croatia,Rural,Female,15 - 19,55226,170,NA,55396
 2011,Croatia,Rural,Female,20 - 24,57354,205,NA,57559
 2011,Croatia,Rural,Female,25 - 29,59096,266,NA,59362
@@ -1187,7 +1110,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Croatia,Rural,Female,85 - 89,14091,1967,NA,16058
 2011,Croatia,Rural,Female,90 - 94,3043,571,NA,3614
 2011,Cyprus,Urban,Male,15 - 19,18368,37,188,18593
-2011,Cyprus,Urban,Male,15 +,221049,1363,5335,227747
 2011,Cyprus,Urban,Male,20 - 24,22507,47,293,22847
 2011,Cyprus,Urban,Male,25 - 29,25105,98,639,25842
 2011,Cyprus,Urban,Male,30 - 34,22001,66,1066,23133
@@ -1202,7 +1124,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Cyprus,Urban,Male,75 - 79,6027,153,59,6239
 2011,Cyprus,Urban,Male,80 +,6038,280,90,6408
 2011,Cyprus,Urban,Female,15 - 19,17591,19,142,17752
-2011,Cyprus,Urban,Female,15 +,241373,3456,4913,249742
 2011,Cyprus,Urban,Female,20 - 24,21766,41,294,22101
 2011,Cyprus,Urban,Female,25 - 29,25367,52,594,26013
 2011,Cyprus,Urban,Female,30 - 34,24822,83,900,25805
@@ -1217,7 +1138,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Cyprus,Urban,Female,75 - 79,6635,613,58,7306
 2011,Cyprus,Urban,Female,80 +,7828,1431,186,9445
 2011,Cyprus,Rural,Male,15 - 19,10027,13,50,10090
-2011,Cyprus,Rural,Male,15 +,109282,1013,1577,111872
 2011,Cyprus,Rural,Male,20 - 24,10883,24,137,11044
 2011,Cyprus,Rural,Male,25 - 29,10906,38,206,11150
 2011,Cyprus,Rural,Male,30 - 34,9672,26,318,10016
@@ -1232,7 +1152,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Cyprus,Rural,Male,75 - 79,3259,133,16,3408
 2011,Cyprus,Rural,Male,80 +,3663,256,15,3934
 2011,Cyprus,Rural,Female,15 - 19,9334,14,35,9383
-2011,Cyprus,Rural,Female,15 +,111510,3320,1268,116098
 2011,Cyprus,Rural,Female,20 - 24,9969,21,91,10081
 2011,Cyprus,Rural,Female,25 - 29,10930,21,158,11109
 2011,Cyprus,Rural,Female,30 - 34,10615,24,241,10880
@@ -1247,7 +1166,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Cyprus,Rural,Female,75 - 79,3432,657,16,4105
 2011,Cyprus,Rural,Female,80 +,3628,1503,30,5161
 2008,Democratic People's Republic of Korea,Urban,Male,10 - 14,601683,1,NA,601684
-2008,Democratic People's Republic of Korea,Urban,Male,10 +,5660006,39,NA,5660045
 2008,Democratic People's Republic of Korea,Urban,Male,15 - 19,543693,1,NA,543694
 2008,Democratic People's Republic of Korea,Urban,Male,20 - 24,350179,4,NA,350183
 2008,Democratic People's Republic of Korea,Urban,Male,25 - 29,500103,1,NA,500104
@@ -1263,7 +1181,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2008,Democratic People's Republic of Korea,Urban,Male,75 - 79,46956,3,NA,46959
 2008,Democratic People's Republic of Korea,Urban,Male,80 +,13932,14,NA,13946
 2008,Democratic People's Republic of Korea,Urban,Female,10 - 14,566738,1,NA,566739
-2008,Democratic People's Republic of Korea,Urban,Female,10 +,6427439,79,NA,6427518
 2008,Democratic People's Republic of Korea,Urban,Female,15 - 19,588218,0,NA,588218
 2008,Democratic People's Republic of Korea,Urban,Female,20 - 24,534029,0,NA,534029
 2008,Democratic People's Republic of Korea,Urban,Female,25 - 29,524892,1,NA,524893
@@ -1279,7 +1196,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2008,Democratic People's Republic of Korea,Urban,Female,75 - 79,151602,13,NA,151615
 2008,Democratic People's Republic of Korea,Urban,Female,80 +,94428,46,NA,94474
 2008,Democratic People's Republic of Korea,Rural,Male,10 - 14,433597,1,NA,433598
-2008,Democratic People's Republic of Korea,Rural,Male,10 +,3584168,55,NA,3584223
 2008,Democratic People's Republic of Korea,Rural,Male,15 - 19,340266,2,NA,340268
 2008,Democratic People's Republic of Korea,Rural,Male,20 - 24,205755,1,NA,205756
 2008,Democratic People's Republic of Korea,Rural,Male,25 - 29,301085,2,NA,301087
@@ -1295,7 +1211,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2008,Democratic People's Republic of Korea,Rural,Male,75 - 79,32260,7,NA,32267
 2008,Democratic People's Republic of Korea,Rural,Male,80 +,10742,20,NA,10762
 2008,Democratic People's Republic of Korea,Rural,Female,10 - 14,419327,2,NA,419329
-2008,Democratic People's Republic of Korea,Rural,Female,10 +,4121096,153,NA,4121249
 2008,Democratic People's Republic of Korea,Rural,Female,15 - 19,390816,0,NA,390816
 2008,Democratic People's Republic of Korea,Rural,Female,20 - 24,351376,4,NA,351380
 2008,Democratic People's Republic of Korea,Rural,Female,25 - 29,323762,0,NA,323762
@@ -1311,7 +1226,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2008,Democratic People's Republic of Korea,Rural,Female,75 - 79,104594,27,NA,104621
 2008,Democratic People's Republic of Korea,Rural,Female,80 +,65982,85,NA,66067
 2010,Dominican Republic,Urban,Male,10 - 14,328987,26094,NA,355081
-2010,Dominican Republic,Urban,Male,10 +,2485507,281049,NA,2766556
 2010,Dominican Republic,Urban,Male,15 - 19,339732,15762,NA,355494
 2010,Dominican Republic,Urban,Male,20 - 24,304755,19674,NA,324429
 2010,Dominican Republic,Urban,Male,25 - 29,265013,21611,NA,286624
@@ -1331,7 +1245,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2010,Dominican Republic,Urban,Male,95 - 99,951,932,NA,1883
 2010,Dominican Republic,Urban,Male,100 +,505,509,NA,1014
 2010,Dominican Republic,Urban,Female,10 - 14,332393,20841,NA,353234
-2010,Dominican Republic,Urban,Female,10 +,2623741,275368,NA,2899109
 2010,Dominican Republic,Urban,Female,15 - 19,360933,9903,NA,370836
 2010,Dominican Republic,Urban,Female,20 - 24,324299,13608,NA,337907
 2010,Dominican Republic,Urban,Female,25 - 29,281813,15462,NA,297275
@@ -1351,7 +1264,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2010,Dominican Republic,Urban,Female,95 - 99,1288,1606,NA,2894
 2010,Dominican Republic,Urban,Female,100 +,691,944,NA,1635
 2010,Dominican Republic,Rural,Male,10 - 14,125247,12563,NA,137810
-2010,Dominican Republic,Rural,Male,10 +,828778,210899,NA,1039677
 2010,Dominican Republic,Rural,Male,15 - 19,123599,11790,NA,135389
 2010,Dominican Republic,Rural,Male,20 - 24,100090,16107,NA,116197
 2010,Dominican Republic,Rural,Male,25 - 29,81054,17014,NA,98068
@@ -1370,7 +1282,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2010,Dominican Republic,Rural,Male,90 - 94,1013,1806,NA,2819
 2010,Dominican Republic,Rural,Male,95 - 99,379,700,NA,1079
 2010,Dominican Republic,Rural,Female,10 - 14,119142,8494,NA,127636
-2010,Dominican Republic,Rural,Female,10 +,752701,152072,NA,904773
 2010,Dominican Republic,Rural,Female,15 - 19,115550,5954,NA,121504
 2010,Dominican Republic,Rural,Female,20 - 24,89579,8822,NA,98401
 2010,Dominican Republic,Rural,Female,25 - 29,74346,9920,NA,84266
@@ -1389,7 +1300,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2010,Dominican Republic,Rural,Female,90 - 94,940,1771,NA,2711
 2010,Dominican Republic,Rural,Female,95 - 99,370,803,NA,1173
 2022,Ecuador,Urban,Male,10 - 14,496322,1630,NA,497952
-2022,Ecuador,Urban,Male,10 +,4258468,65878,NA,4324346
 2022,Ecuador,Urban,Male,15 - 19,466999,1379,NA,468378
 2022,Ecuador,Urban,Male,20 - 24,465024,1760,NA,466784
 2022,Ecuador,Urban,Male,25 - 29,417011,2757,NA,419768
@@ -1408,7 +1318,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Ecuador,Urban,Male,90 - 94,9530,1614,NA,11144
 2022,Ecuador,Urban,Male,95 - 99,2720,531,NA,3251
 2022,Ecuador,Urban,Female,10 - 14,474489,1175,NA,475664
-2022,Ecuador,Urban,Female,10 +,4623451,97635,NA,4721086
 2022,Ecuador,Urban,Female,15 - 19,457416,1024,NA,458440
 2022,Ecuador,Urban,Female,20 - 24,483803,1271,NA,485074
 2022,Ecuador,Urban,Female,25 - 29,458175,2036,NA,460211
@@ -1428,7 +1337,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Ecuador,Urban,Female,95 - 99,4636,1251,NA,5887
 2022,Ecuador,Urban,Female,100 +,840,325,NA,1165
 2022,Ecuador,Rural,Male,10 - 14,323795,1415,NA,325210
-2022,Ecuador,Rural,Male,10 +,2419190,127561,NA,2546751
 2022,Ecuador,Rural,Male,20 - 24,306257,1516,NA,307773
 2022,Ecuador,Rural,Male,25 - 29,265296,1848,NA,267144
 2022,Ecuador,Rural,Male,30 - 34,219929,3254,NA,223183
@@ -1447,7 +1355,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Ecuador,Rural,Male,95 - 99,5649,3330,NA,8979
 2022,Ecuador,Rural,Male,100 +,1514,943,NA,2457
 2022,Ecuador,Rural,Female,10 - 14,307752,999,NA,308751
-2022,Ecuador,Rural,Female,10 +,2455018,186373,NA,2641391
 2022,Ecuador,Rural,Female,20 - 24,298121,1112,NA,299233
 2022,Ecuador,Rural,Female,25 - 29,275466,1444,NA,276910
 2022,Ecuador,Rural,Female,30 - 34,241314,2692,NA,244006
@@ -1466,7 +1373,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Ecuador,Rural,Female,95 - 99,5634,5864,NA,11498
 2022,Ecuador,Rural,Female,100 +,1630,1818,NA,3448
 2017,Egypt,Urban,Male,10 - 14,1799506,59375,NA,1858881
-2017,Egypt,Urban,Male,10 +,13766530,2434518,NA,16201048
 2017,Egypt,Urban,Male,15 - 19,1812664,111824,NA,1924488
 2017,Egypt,Urban,Male,20 - 24,1676693,163855,NA,1840548
 2017,Egypt,Urban,Male,25 - 29,1555195,184710,NA,1739905
@@ -1481,7 +1387,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2017,Egypt,Urban,Male,70 - 74,153515,101453,NA,254968
 2017,Egypt,Urban,Male,75 +,111578,98521,NA,210099
 2017,Egypt,Urban,Female,10 - 14,1660734,50913,NA,1711647
-2017,Egypt,Urban,Female,10 +,12095103,3135572,NA,15230675
 2017,Egypt,Urban,Female,15 - 19,1690299,101852,NA,1792151
 2017,Egypt,Urban,Female,20 - 24,1582357,167870,NA,1750227
 2017,Egypt,Urban,Female,25 - 29,1552556,227346,NA,1779902
@@ -1496,7 +1401,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2017,Egypt,Urban,Female,70 - 74,80868,139826,NA,220694
 2017,Egypt,Urban,Female,75 +,54837,129282,NA,184119
 2017,Egypt,Rural,Male,10 - 14,2717361,130328,NA,2847689
-2017,Egypt,Rural,Male,10 +,15282043,5351613,NA,20633656
 2017,Egypt,Rural,Male,15 - 19,2474329,278226,NA,2752555
 2017,Egypt,Rural,Male,20 - 24,2009667,385800,NA,2395467
 2017,Egypt,Rural,Male,25 - 29,1855613,439568,NA,2295181
@@ -1511,7 +1415,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2017,Egypt,Rural,Male,70 - 74,68478,207604,NA,276082
 2017,Egypt,Rural,Male,75 +,47810,219053,NA,266863
 2017,Egypt,Rural,Female,10 - 14,2485008,127321,NA,2612329
-2017,Egypt,Rural,Female,10 +,11805361,7511993,NA,19317354
 2017,Egypt,Rural,Female,15 - 19,2211478,325386,NA,2536864
 2017,Egypt,Rural,Female,20 - 24,1740879,504823,NA,2245702
 2017,Egypt,Rural,Female,25 - 29,1678274,674345,NA,2352619
@@ -1526,7 +1429,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2017,Egypt,Rural,Female,70 - 74,13972,250234,NA,264206
 2017,Egypt,Rural,Female,75 +,10049,255532,NA,265581
 2007,El Salvador,Urban,Male,10 - 14,197595,7627,NA,205222
-2007,El Salvador,Urban,Male,10 +,1205491,106241,NA,1311732
 2007,El Salvador,Urban,Male,15 - 19,168548,5940,NA,174488
 2007,El Salvador,Urban,Male,20 - 24,137412,6367,NA,143779
 2007,El Salvador,Urban,Male,25 - 29,130798,7522,NA,138320
@@ -1543,7 +1445,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2007,El Salvador,Urban,Male,80 - 84,7915,4346,NA,12261
 2007,El Salvador,Urban,Male,85 +,6434,4759,NA,11193
 2007,El Salvador,Urban,Female,10 - 14,193555,5978,NA,199533
-2007,El Salvador,Urban,Female,10 +,1368337,203595,NA,1571932
 2007,El Salvador,Urban,Female,15 - 19,175245,5643,NA,180888
 2007,El Salvador,Urban,Female,20 - 24,157777,7551,NA,165328
 2007,El Salvador,Urban,Female,25 - 29,157728,10408,NA,168136
@@ -1560,7 +1461,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2007,El Salvador,Urban,Female,80 - 84,9470,8847,NA,18317
 2007,El Salvador,Urban,Female,85 +,8879,9594,NA,18473
 2007,El Salvador,Rural,Male,10 - 14,141370,12931,NA,154301
-2007,El Salvador,Rural,Male,10 +,599277,175940,NA,775217
 2007,El Salvador,Rural,Male,15 - 19,112157,11739,NA,123896
 2007,El Salvador,Rural,Male,20 - 24,72505,11717,NA,84222
 2007,El Salvador,Rural,Male,25 - 29,56222,12421,NA,68643
@@ -1577,7 +1477,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2007,El Salvador,Rural,Male,80 - 84,2634,5506,NA,8140
 2007,El Salvador,Rural,Male,85 +,2200,5107,NA,7307
 2007,El Salvador,Rural,Female,10 - 14,137847,9444,NA,147291
-2007,El Salvador,Rural,Female,10 +,611670,232942,NA,844612
 2007,El Salvador,Rural,Female,15 - 19,112062,9231,NA,121293
 2007,El Salvador,Rural,Female,20 - 24,81303,11910,NA,93213
 2007,El Salvador,Rural,Female,25 - 29,66975,15816,NA,82791
@@ -1594,7 +1493,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2007,El Salvador,Rural,Female,80 - 84,1705,6447,NA,8152
 2007,El Salvador,Rural,Female,85 +,1516,6370,NA,7886
 2011,Estonia,Urban,Male,10 - 14,18691,0,266,18957
-2011,Estonia,Urban,Male,10 +,343563,317,6321,350201
 2011,Estonia,Urban,Male,15 - 19,21331,10,47,21388
 2011,Estonia,Urban,Male,20 - 24,33811,18,344,34173
 2011,Estonia,Urban,Male,25 - 29,33938,47,935,34920
@@ -1611,7 +1509,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Estonia,Urban,Male,80 - 84,6751,11,102,6864
 2011,Estonia,Urban,Male,85 - 89,2451,4,42,2497
 2011,Estonia,Urban,Female,10 - 14,17527,0,227,17754
-2011,Estonia,Urban,Female,10 +,432878,410,4723,438011
 2011,Estonia,Urban,Female,15 - 19,21021,8,34,21063
 2011,Estonia,Urban,Female,20 - 24,34601,15,169,34785
 2011,Estonia,Urban,Female,25 - 29,33748,32,461,34241
@@ -1629,7 +1526,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Estonia,Urban,Female,85 - 89,9289,36,275,9600
 2011,Estonia,Urban,Female,90 - 94,2369,13,103,2485
 2011,Estonia,Rural,Male,10 - 14,11327,0,60,11387
-2011,Estonia,Rural,Male,10 +,174084,414,3283,177781
 2011,Estonia,Rural,Male,15 - 19,13254,7,24,13285
 2011,Estonia,Rural,Male,20 - 24,14122,21,237,14380
 2011,Estonia,Rural,Male,25 - 29,11945,45,455,12445
@@ -1646,7 +1542,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Estonia,Rural,Male,80 - 84,2801,8,58,2867
 2011,Estonia,Rural,Male,85 - 89,1051,1,22,1074
 2011,Estonia,Rural,Female,10 - 14,10481,0,57,10538
-2011,Estonia,Rural,Female,10 +,184693,349,2165,187207
 2011,Estonia,Rural,Female,15 - 19,11880,5,18,11903
 2011,Estonia,Rural,Female,20 - 24,10866,8,82,10956
 2011,Estonia,Rural,Female,25 - 29,11115,28,175,11318
@@ -1664,7 +1559,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Estonia,Rural,Female,85 - 89,4001,12,136,4149
 2011,Estonia,Rural,Female,90 - 94,1172,4,66,1242
 2014,Georgia,Urban,Male,10 - 14,62431,65,149,62645
-2014,Georgia,Urban,Male,10 +,815931,1289,12440,829660
 2014,Georgia,Urban,Male,15 - 19,66317,121,486,66924
 2014,Georgia,Urban,Male,20 - 24,77633,164,1303,79100
 2014,Georgia,Urban,Male,25 - 29,79129,172,1307,80608
@@ -1681,7 +1575,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2014,Georgia,Urban,Male,80 - 84,9887,41,178,10106
 2014,Georgia,Urban,Male,85 - 89,4061,14,79,4154
 2014,Georgia,Urban,Female,10 - 14,56477,61,104,56642
-2014,Georgia,Urban,Female,10 +,985621,1770,13505,1000896
 2014,Georgia,Urban,Female,15 - 19,62937,98,487,63522
 2014,Georgia,Urban,Female,20 - 24,82027,131,1078,83236
 2014,Georgia,Urban,Female,25 - 29,86630,146,1217,87993
@@ -1699,7 +1592,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2014,Georgia,Urban,Female,85 - 89,11534,72,197,11803
 2014,Georgia,Urban,Female,90 - 94,2675,25,61,2761
 2014,Georgia,Rural,Male,10 - 14,46491,79,266,46836
-2014,Georgia,Rural,Male,10 +,676330,3460,9469,689259
 2014,Georgia,Rural,Male,15 - 19,51160,210,583,51953
 2014,Georgia,Rural,Male,20 - 24,54798,313,1094,56205
 2014,Georgia,Rural,Male,25 - 29,57876,371,1090,59337
@@ -1716,7 +1608,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2014,Georgia,Rural,Male,80 - 84,14591,223,180,14994
 2014,Georgia,Rural,Male,85 - 89,5845,88,79,6012
 2014,Georgia,Rural,Female,10 - 14,39822,48,223,40093
-2014,Georgia,Rural,Female,10 +,692928,6057,9891,708876
 2014,Georgia,Rural,Female,15 - 19,43049,154,420,43623
 2014,Georgia,Rural,Female,20 - 24,46525,254,805,47584
 2014,Georgia,Rural,Female,25 - 29,49546,346,832,50724
@@ -1734,7 +1625,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2014,Georgia,Rural,Female,85 - 89,11981,349,209,12539
 2014,Georgia,Rural,Female,90 - 94,2917,137,60,3114
 2010,Ghana,Urban,Male,11 - 14,497828,13304,NA,511132
-2010,Ghana,Urban,Male,11 +,3916665,457572,NA,4374237
 2010,Ghana,Urban,Male,15 - 19,623979,27850,NA,651829
 2010,Ghana,Urban,Male,20 - 24,598581,43559,NA,642140
 2010,Ghana,Urban,Male,25 - 29,502951,50976,NA,553927
@@ -1753,7 +1643,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2010,Ghana,Urban,Male,90 - 94,3235,3750,NA,6985
 2010,Ghana,Urban,Male,95 +,1716,1699,NA,3415
 2010,Ghana,Urban,Female,11 - 14,532107,20545,NA,552652
-2010,Ghana,Urban,Female,11 +,3889401,1023095,NA,4912496
 2010,Ghana,Urban,Female,15 - 19,661019,51276,NA,712295
 2010,Ghana,Urban,Female,20 - 24,623999,90699,NA,714698
 2010,Ghana,Urban,Female,25 - 29,534364,106576,NA,640940
@@ -1772,7 +1661,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2010,Ghana,Urban,Female,90 - 94,3012,11273,NA,14285
 2010,Ghana,Urban,Female,95 +,1624,5230,NA,6854
 2010,Ghana,Rural,Male,11 - 14,522813,70684,NA,593497
-2010,Ghana,Rural,Male,11 +,2765391,1190902,NA,3956293
 2010,Ghana,Rural,Male,15 - 19,555931,103352,NA,659283
 2010,Ghana,Rural,Male,20 - 24,351422,107165,NA,458587
 2010,Ghana,Rural,Male,25 - 29,269863,119423,NA,389286
@@ -1791,7 +1679,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2010,Ghana,Rural,Male,90 - 94,2459,9560,NA,12019
 2010,Ghana,Rural,Male,95 +,1178,4157,NA,5335
 2010,Ghana,Rural,Female,11 - 14,466460,60689,NA,527149
-2010,Ghana,Rural,Female,11 +,2321330,1828499,NA,4149829
 2010,Ghana,Rural,Female,15 - 19,479374,107208,NA,586582
 2010,Ghana,Rural,Female,20 - 24,334484,173582,NA,508066
 2010,Ghana,Rural,Female,25 - 29,260601,205357,NA,465958
@@ -1809,164 +1696,218 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2010,Ghana,Rural,Female,85 - 89,3577,22520,NA,26097
 2010,Ghana,Rural,Female,90 - 94,1672,16120,NA,17792
 2010,Ghana,Rural,Female,95 +,837,6702,NA,7539
-2011,Greece,Urban,Male,10 - 14,105259,102811,NA,208070
-2011,Greece,Urban,Male,10 +,3439547,154946,NA,3594493
-2011,Greece,Urban,Male,15 - 19,224333,2349,NA,226682
-2011,Greece,Urban,Male,20 - 24,255935,3860,NA,259795
-2011,Greece,Urban,Male,25 - 29,290361,5519,NA,295880
-2011,Greece,Urban,Male,30 - 34,329435,5359,NA,334794
-2011,Greece,Urban,Male,35 - 39,319207,4614,NA,323821
-2011,Greece,Urban,Male,40 - 44,319864,3768,NA,323632
-2011,Greece,Urban,Male,45 - 49,280435,2956,NA,283391
-2011,Greece,Urban,Male,50 - 54,266262,2620,NA,268882
-2011,Greece,Urban,Male,55 - 59,238369,2356,NA,240725
-2011,Greece,Urban,Male,60 - 64,216808,2357,NA,219165
-2011,Greece,Urban,Male,65 - 69,165472,2085,NA,167557
-2011,Greece,Urban,Male,70 - 74,159245,3315,NA,162560
-2011,Greece,Urban,Male,75 - 79,129599,5092,NA,134691
-2011,Greece,Urban,Male,80 - 84,88276,3640,NA,91916
-2011,Greece,Urban,Male,85 - 89,36431,1491,NA,37922
-2011,Greece,Urban,Male,90 - 94,10962,551,NA,11513
-2011,Greece,Urban,Male,95 - 99,2907,174,NA,3081
-2011,Greece,Urban,Female,10 - 14,100877,98015,NA,198892
-2011,Greece,Urban,Female,10 +,3662880,190839,NA,3853719
-2011,Greece,Urban,Female,15 - 19,211859,2328,NA,214187
-2011,Greece,Urban,Female,20 - 24,247475,2797,NA,250272
-2011,Greece,Urban,Female,25 - 29,284236,3390,NA,287626
-2011,Greece,Urban,Female,30 - 34,327921,3430,NA,331351
-2011,Greece,Urban,Female,35 - 39,324987,3018,NA,328005
-2011,Greece,Urban,Female,40 - 44,336739,2960,NA,339699
-2011,Greece,Urban,Female,45 - 49,303800,2843,NA,306643
-2011,Greece,Urban,Female,50 - 54,294163,2941,NA,297104
-2011,Greece,Urban,Female,55 - 59,257829,2953,NA,260782
-2011,Greece,Urban,Female,60 - 64,236186,3898,NA,240084
-2011,Greece,Urban,Female,65 - 69,184268,4876,NA,189144
-2011,Greece,Urban,Female,70 - 74,188864,11709,NA,200573
-2011,Greece,Urban,Female,75 - 79,155759,19172,NA,174931
-2011,Greece,Urban,Female,80 - 84,123473,13825,NA,137298
-2011,Greece,Urban,Female,85 - 89,58762,7374,NA,66136
-2011,Greece,Urban,Female,90 - 94,19528,3567,NA,23095
-2011,Greece,Urban,Female,95 - 99,5342,1399,NA,6741
-2011,Greece,Urban,Female,100 +,812,344,NA,1156
-2011,Greece,Rural,Male,10 - 14,28700,29017,NA,57717
-2011,Greece,Rural,Male,10 +,1108149,63361,NA,1171510
-2011,Greece,Rural,Male,15 - 19,58768,936,NA,59704
-2011,Greece,Rural,Male,20 - 24,63807,1525,NA,65332
-2011,Greece,Rural,Male,25 - 29,73670,2067,NA,75737
-2011,Greece,Rural,Male,30 - 34,80936,2131,NA,83067
-2011,Greece,Rural,Male,35 - 39,84028,1832,NA,85860
-2011,Greece,Rural,Male,40 - 44,88760,1634,NA,90394
-2011,Greece,Rural,Male,45 - 49,82318,1377,NA,83695
-2011,Greece,Rural,Male,50 - 54,85263,1407,NA,86670
-2011,Greece,Rural,Male,55 - 59,79461,1280,NA,80741
-2011,Greece,Rural,Male,60 - 64,80978,1446,NA,82424
-2011,Greece,Rural,Male,65 - 69,72552,1723,NA,74275
-2011,Greece,Rural,Male,70 - 74,80195,3509,NA,83704
-2011,Greece,Rural,Male,75 - 79,68953,6339,NA,75292
-2011,Greece,Rural,Male,80 - 84,50239,4300,NA,54539
-2011,Greece,Rural,Male,85 - 89,21156,1855,NA,23011
-2011,Greece,Rural,Male,90 - 94,6544,703,NA,7247
-2011,Greece,Rural,Male,95 - 99,1633,234,NA,1867
-2011,Greece,Rural,Female,10 - 14,27591,27159,NA,54750
-2011,Greece,Rural,Female,10 +,1033364,113361,NA,1146725
-2011,Greece,Rural,Female,15 - 19,51994,709,NA,52703
-2011,Greece,Rural,Female,20 - 24,50793,905,NA,51698
-2011,Greece,Rural,Female,25 - 29,63342,1186,NA,64528
-2011,Greece,Rural,Female,30 - 34,72000,1263,NA,73263
-2011,Greece,Rural,Female,35 - 39,73858,1285,NA,75143
-2011,Greece,Rural,Female,40 - 44,77737,1204,NA,78941
-2011,Greece,Rural,Female,45 - 49,73509,1191,NA,74700
-2011,Greece,Rural,Female,50 - 54,77430,1400,NA,78830
-2011,Greece,Rural,Female,55 - 59,76520,1600,NA,78120
-2011,Greece,Rural,Female,60 - 64,81434,2662,NA,84096
-2011,Greece,Rural,Female,65 - 69,72431,4869,NA,77300
-2011,Greece,Rural,Female,70 - 74,81108,14220,NA,95328
-2011,Greece,Rural,Female,75 - 79,66858,23305,NA,90163
-2011,Greece,Rural,Female,80 - 84,52720,15900,NA,68620
-2011,Greece,Rural,Female,85 - 89,24107,8665,NA,32772
-2011,Greece,Rural,Female,90 - 94,7604,3986,NA,11590
-2011,Greece,Rural,Female,95 - 99,1984,1514,NA,3498
-2014,Guinea,Urban,Male,15 +,742284,367980,4346,1114610
-2014,Guinea,Urban,Female,15 +,486845,620205,428,1107478
-2014,Guinea,Rural,Male,15 +,433340,1148651,7945,1589936
-2014,Guinea,Rural,Female,15 +,199648,1809977,2528,2012153
-2022,Hungary,Urban,Male,10 - 14,160288,1644,0,161932
-2022,Hungary,Urban,Male,10 +,2879628,10577,0,2890205
-2022,Hungary,Urban,Male,15 - 19,169261,583,0,169844
-2022,Hungary,Urban,Male,20 - 24,180939,463,0,181402
-2022,Hungary,Urban,Male,25 - 29,204116,410,0,204526
-2022,Hungary,Urban,Male,30 - 34,224843,794,0,225637
-2022,Hungary,Urban,Male,35 - 39,223113,822,0,223935
-2022,Hungary,Urban,Male,40 - 44,261890,893,0,262783
-2022,Hungary,Urban,Male,45 - 49,301140,988,0,302128
-2022,Hungary,Urban,Male,50 - 54,245861,862,0,246723
-2022,Hungary,Urban,Male,55 - 59,192498,602,0,193100
-2022,Hungary,Urban,Male,60 - 64,173222,592,0,173814
-2022,Hungary,Urban,Male,65 - 69,196346,661,0,197007
-2022,Hungary,Urban,Male,70 - 74,146641,462,0,147103
-2022,Hungary,Urban,Male,75 - 79,102977,301,0,103278
-2022,Hungary,Urban,Male,80 - 84,59844,245,0,60089
-2022,Hungary,Urban,Male,85 - 89,26282,152,0,26434
-2022,Hungary,Urban,Male,90 - 94,8758,59,0,8817
-2022,Hungary,Urban,Male,95 - 99,1485,19,0,1504
-2022,Hungary,Urban,Female,10 - 14,152411,1398,0,153809
-2022,Hungary,Urban,Female,10 +,3222231,12971,0,3235202
-2022,Hungary,Urban,Female,15 - 19,162345,474,0,162819
-2022,Hungary,Urban,Female,20 - 24,175827,388,0,176215
-2022,Hungary,Urban,Female,25 - 29,194260,410,0,194670
-2022,Hungary,Urban,Female,30 - 34,212899,606,0,213505
-2022,Hungary,Urban,Female,35 - 39,215966,667,0,216633
-2022,Hungary,Urban,Female,40 - 44,258162,736,0,258898
-2022,Hungary,Urban,Female,45 - 49,299359,777,0,300136
-2022,Hungary,Urban,Female,50 - 54,249553,752,0,250305
-2022,Hungary,Urban,Female,55 - 59,207453,760,0,208213
-2022,Hungary,Urban,Female,60 - 64,209682,938,0,210620
-2022,Hungary,Urban,Female,65 - 69,265995,1072,0,267067
-2022,Hungary,Urban,Female,70 - 74,223623,976,0,224599
-2022,Hungary,Urban,Female,75 - 79,173230,892,0,174122
-2022,Hungary,Urban,Female,80 - 84,122770,861,0,123631
-2022,Hungary,Urban,Female,85 - 89,66552,796,0,67348
-2022,Hungary,Urban,Female,90 - 94,26235,337,0,26572
-2022,Hungary,Urban,Female,95 - 99,5399,104,0,5503
-2022,Hungary,Rural,Male,10 - 14,75843,684,0,76527
-2022,Hungary,Rural,Male,10 +,1246721,6622,0,1253343
-2022,Hungary,Rural,Male,15 - 19,78816,303,0,79119
-2022,Hungary,Rural,Male,20 - 24,78926,219,0,79145
-2022,Hungary,Rural,Male,25 - 29,87286,292,0,87578
-2022,Hungary,Rural,Male,30 - 34,93820,499,0,94319
-2022,Hungary,Rural,Male,35 - 39,93279,469,0,93748
-2022,Hungary,Rural,Male,40 - 44,108516,588,0,109104
-2022,Hungary,Rural,Male,45 - 49,125076,580,0,125656
-2022,Hungary,Rural,Male,50 - 54,108589,528,0,109117
-2022,Hungary,Rural,Male,55 - 59,92297,487,0,92784
-2022,Hungary,Rural,Male,60 - 64,87477,499,0,87976
-2022,Hungary,Rural,Male,65 - 69,88560,488,0,89048
-2022,Hungary,Rural,Male,70 - 74,60858,348,0,61206
-2022,Hungary,Rural,Male,75 - 79,35600,292,0,35892
-2022,Hungary,Rural,Male,80 - 84,20639,199,0,20838
-2022,Hungary,Rural,Male,85 - 89,8317,102,0,8419
-2022,Hungary,Rural,Male,90 - 94,2420,25,0,2445
-2022,Hungary,Rural,Female,10 - 14,71466,570,0,72036
-2022,Hungary,Rural,Female,10 +,1287625,8331,0,1295956
-2022,Hungary,Rural,Female,15 - 19,74062,208,0,74270
-2022,Hungary,Rural,Female,20 - 24,72257,162,0,72419
-2022,Hungary,Rural,Female,25 - 29,79309,228,0,79537
-2022,Hungary,Rural,Female,30 - 34,85317,355,0,85672
-2022,Hungary,Rural,Female,35 - 39,85733,375,0,86108
-2022,Hungary,Rural,Female,40 - 44,99129,421,0,99550
-2022,Hungary,Rural,Female,45 - 49,113312,497,0,113809
-2022,Hungary,Rural,Female,50 - 54,101301,485,0,101786
-2022,Hungary,Rural,Female,55 - 59,89948,565,0,90513
-2022,Hungary,Rural,Female,60 - 64,92131,712,0,92843
-2022,Hungary,Rural,Female,65 - 69,102470,832,0,103302
-2022,Hungary,Rural,Female,70 - 74,82081,839,0,82920
-2022,Hungary,Rural,Female,75 - 79,59042,666,0,59708
-2022,Hungary,Rural,Female,80 - 84,45237,628,0,45865
-2022,Hungary,Rural,Female,85 - 89,24225,522,0,24747
-2022,Hungary,Rural,Female,90 - 94,8825,210,0,9035
-2022,Hungary,Rural,Female,95 - 99,1627,43,0,1670
+2011,Greece,Urban,Male,10 - 14,105259,NA,NA,105259
+2011,Greece,Urban,Male,10 - 14,NA,102811,NA,102811
+2011,Greece,Urban,Male,15 - 19,224333,NA,NA,224333
+2011,Greece,Urban,Male,15 - 19,NA,2349,NA,2349
+2011,Greece,Urban,Male,20 - 24,255935,NA,NA,255935
+2011,Greece,Urban,Male,20 - 24,NA,3860,NA,3860
+2011,Greece,Urban,Male,25 - 29,290361,NA,NA,290361
+2011,Greece,Urban,Male,25 - 29,NA,5519,NA,5519
+2011,Greece,Urban,Male,30 - 34,329435,NA,NA,329435
+2011,Greece,Urban,Male,30 - 34,NA,5359,NA,5359
+2011,Greece,Urban,Male,35 - 39,319207,NA,NA,319207
+2011,Greece,Urban,Male,35 - 39,NA,4614,NA,4614
+2011,Greece,Urban,Male,40 - 44,319864,NA,NA,319864
+2011,Greece,Urban,Male,40 - 44,NA,3768,NA,3768
+2011,Greece,Urban,Male,45 - 49,280435,NA,NA,280435
+2011,Greece,Urban,Male,45 - 49,NA,2956,NA,2956
+2011,Greece,Urban,Male,50 - 54,266262,NA,NA,266262
+2011,Greece,Urban,Male,50 - 54,NA,2620,NA,2620
+2011,Greece,Urban,Male,55 - 59,238369,NA,NA,238369
+2011,Greece,Urban,Male,55 - 59,NA,2356,NA,2356
+2011,Greece,Urban,Male,60 - 64,216808,NA,NA,216808
+2011,Greece,Urban,Male,60 - 64,NA,2357,NA,2357
+2011,Greece,Urban,Male,65 - 69,165472,NA,NA,165472
+2011,Greece,Urban,Male,65 - 69,NA,2085,NA,2085
+2011,Greece,Urban,Male,70 - 74,159245,NA,NA,159245
+2011,Greece,Urban,Male,70 - 74,NA,3315,NA,3315
+2011,Greece,Urban,Male,75 - 79,129599,NA,NA,129599
+2011,Greece,Urban,Male,75 - 79,NA,5092,NA,5092
+2011,Greece,Urban,Male,80 - 84,88276,NA,NA,88276
+2011,Greece,Urban,Male,80 - 84,NA,3640,NA,3640
+2011,Greece,Urban,Male,85 - 89,36431,NA,NA,36431
+2011,Greece,Urban,Male,85 - 89,NA,1491,NA,1491
+2011,Greece,Urban,Male,90 - 94,10962,NA,NA,10962
+2011,Greece,Urban,Male,95 - 99,2907,NA,NA,2907
+2011,Greece,Urban,Female,10 - 14,100877,NA,NA,100877
+2011,Greece,Urban,Female,10 - 14,NA,98015,NA,98015
+2011,Greece,Urban,Female,15 - 19,211859,NA,NA,211859
+2011,Greece,Urban,Female,15 - 19,NA,2328,NA,2328
+2011,Greece,Urban,Female,20 - 24,247475,NA,NA,247475
+2011,Greece,Urban,Female,20 - 24,NA,2797,NA,2797
+2011,Greece,Urban,Female,25 - 29,284236,NA,NA,284236
+2011,Greece,Urban,Female,25 - 29,NA,3390,NA,3390
+2011,Greece,Urban,Female,30 - 34,327921,NA,NA,327921
+2011,Greece,Urban,Female,30 - 34,NA,3430,NA,3430
+2011,Greece,Urban,Female,35 - 39,324987,NA,NA,324987
+2011,Greece,Urban,Female,35 - 39,NA,3018,NA,3018
+2011,Greece,Urban,Female,40 - 44,336739,NA,NA,336739
+2011,Greece,Urban,Female,40 - 44,NA,2960,NA,2960
+2011,Greece,Urban,Female,45 - 49,303800,NA,NA,303800
+2011,Greece,Urban,Female,45 - 49,NA,2843,NA,2843
+2011,Greece,Urban,Female,50 - 54,294163,NA,NA,294163
+2011,Greece,Urban,Female,50 - 54,NA,2941,NA,2941
+2011,Greece,Urban,Female,55 - 59,257829,NA,NA,257829
+2011,Greece,Urban,Female,55 - 59,NA,2953,NA,2953
+2011,Greece,Urban,Female,60 - 64,236186,NA,NA,236186
+2011,Greece,Urban,Female,60 - 64,NA,3898,NA,3898
+2011,Greece,Urban,Female,65 - 69,184268,NA,NA,184268
+2011,Greece,Urban,Female,65 - 69,NA,4876,NA,4876
+2011,Greece,Urban,Female,70 - 74,188864,NA,NA,188864
+2011,Greece,Urban,Female,70 - 74,NA,11709,NA,11709
+2011,Greece,Urban,Female,75 - 79,155759,NA,NA,155759
+2011,Greece,Urban,Female,75 - 79,NA,19172,NA,19172
+2011,Greece,Urban,Female,80 - 84,123473,NA,NA,123473
+2011,Greece,Urban,Female,80 - 84,NA,13825,NA,13825
+2011,Greece,Urban,Female,85 - 89,58762,NA,NA,58762
+2011,Greece,Urban,Female,85 - 89,NA,7374,NA,7374
+2011,Greece,Urban,Female,90 - 94,19528,NA,NA,19528
+2011,Greece,Urban,Female,90 - 94,NA,3567,NA,3567
+2011,Greece,Urban,Female,95 - 99,5342,NA,NA,5342
+2011,Greece,Urban,Female,95 - 99,NA,1399,NA,1399
+2011,Greece,Rural,Male,10 - 14,28700,NA,NA,28700
+2011,Greece,Rural,Male,10 - 14,NA,29017,NA,29017
+2011,Greece,Rural,Male,15 - 19,58768,NA,NA,58768
+2011,Greece,Rural,Male,20 - 24,63807,NA,NA,63807
+2011,Greece,Rural,Male,20 - 24,NA,1525,NA,1525
+2011,Greece,Rural,Male,25 - 29,73670,NA,NA,73670
+2011,Greece,Rural,Male,25 - 29,NA,2067,NA,2067
+2011,Greece,Rural,Male,30 - 34,80936,NA,NA,80936
+2011,Greece,Rural,Male,30 - 34,NA,2131,NA,2131
+2011,Greece,Rural,Male,35 - 39,84028,NA,NA,84028
+2011,Greece,Rural,Male,35 - 39,NA,1832,NA,1832
+2011,Greece,Rural,Male,40 - 44,88760,NA,NA,88760
+2011,Greece,Rural,Male,40 - 44,NA,1634,NA,1634
+2011,Greece,Rural,Male,45 - 49,82318,NA,NA,82318
+2011,Greece,Rural,Male,45 - 49,NA,1377,NA,1377
+2011,Greece,Rural,Male,50 - 54,85263,NA,NA,85263
+2011,Greece,Rural,Male,50 - 54,NA,1407,NA,1407
+2011,Greece,Rural,Male,55 - 59,79461,NA,NA,79461
+2011,Greece,Rural,Male,55 - 59,NA,1280,NA,1280
+2011,Greece,Rural,Male,60 - 64,80978,NA,NA,80978
+2011,Greece,Rural,Male,60 - 64,NA,1446,NA,1446
+2011,Greece,Rural,Male,65 - 69,72552,NA,NA,72552
+2011,Greece,Rural,Male,65 - 69,NA,1723,NA,1723
+2011,Greece,Rural,Male,70 - 74,80195,NA,NA,80195
+2011,Greece,Rural,Male,70 - 74,NA,3509,NA,3509
+2011,Greece,Rural,Male,75 - 79,68953,NA,NA,68953
+2011,Greece,Rural,Male,75 - 79,NA,6339,NA,6339
+2011,Greece,Rural,Male,80 - 84,50239,NA,NA,50239
+2011,Greece,Rural,Male,80 - 84,NA,4300,NA,4300
+2011,Greece,Rural,Male,85 - 89,21156,NA,NA,21156
+2011,Greece,Rural,Male,85 - 89,NA,1855,NA,1855
+2011,Greece,Rural,Male,90 - 94,6544,NA,NA,6544
+2011,Greece,Rural,Male,95 - 99,1633,NA,NA,1633
+2011,Greece,Rural,Female,10 - 14,27591,NA,NA,27591
+2011,Greece,Rural,Female,10 - 14,NA,27159,NA,27159
+2011,Greece,Rural,Female,15 - 19,51994,NA,NA,51994
+2011,Greece,Rural,Female,20 - 24,50793,NA,NA,50793
+2011,Greece,Rural,Female,25 - 29,63342,NA,NA,63342
+2011,Greece,Rural,Female,25 - 29,NA,1186,NA,1186
+2011,Greece,Rural,Female,30 - 34,72000,NA,NA,72000
+2011,Greece,Rural,Female,30 - 34,NA,1263,NA,1263
+2011,Greece,Rural,Female,35 - 39,73858,NA,NA,73858
+2011,Greece,Rural,Female,35 - 39,NA,1285,NA,1285
+2011,Greece,Rural,Female,40 - 44,77737,NA,NA,77737
+2011,Greece,Rural,Female,40 - 44,NA,1204,NA,1204
+2011,Greece,Rural,Female,45 - 49,73509,NA,NA,73509
+2011,Greece,Rural,Female,45 - 49,NA,1191,NA,1191
+2011,Greece,Rural,Female,50 - 54,77430,NA,NA,77430
+2011,Greece,Rural,Female,50 - 54,NA,1400,NA,1400
+2011,Greece,Rural,Female,55 - 59,76520,NA,NA,76520
+2011,Greece,Rural,Female,55 - 59,NA,1600,NA,1600
+2011,Greece,Rural,Female,60 - 64,81434,NA,NA,81434
+2011,Greece,Rural,Female,60 - 64,NA,2662,NA,2662
+2011,Greece,Rural,Female,65 - 69,72431,NA,NA,72431
+2011,Greece,Rural,Female,65 - 69,NA,4869,NA,4869
+2011,Greece,Rural,Female,70 - 74,81108,NA,NA,81108
+2011,Greece,Rural,Female,70 - 74,NA,14220,NA,14220
+2011,Greece,Rural,Female,75 - 79,66858,NA,NA,66858
+2011,Greece,Rural,Female,75 - 79,NA,23305,NA,23305
+2011,Greece,Rural,Female,80 - 84,52720,NA,NA,52720
+2011,Greece,Rural,Female,80 - 84,NA,15900,NA,15900
+2011,Greece,Rural,Female,85 - 89,24107,NA,NA,24107
+2011,Greece,Rural,Female,85 - 89,NA,8665,NA,8665
+2011,Greece,Rural,Female,90 - 94,7604,NA,NA,7604
+2011,Greece,Rural,Female,90 - 94,NA,3986,NA,3986
+2011,Greece,Rural,Female,95 - 99,1984,NA,NA,1984
+2011,Greece,Rural,Female,95 - 99,NA,1514,NA,1514
+2022,Hungary,Urban,Male,10 - 14,160288,NA,NA,160288
+2022,Hungary,Urban,Male,10 - 14,NA,1644,0,1644
+2022,Hungary,Urban,Male,15 - 19,169261,NA,NA,169261
+2022,Hungary,Urban,Male,20 - 24,180939,NA,NA,180939
+2022,Hungary,Urban,Male,25 - 29,204116,NA,NA,204116
+2022,Hungary,Urban,Male,30 - 34,224843,NA,NA,224843
+2022,Hungary,Urban,Male,35 - 39,223113,NA,NA,223113
+2022,Hungary,Urban,Male,40 - 44,261890,NA,NA,261890
+2022,Hungary,Urban,Male,45 - 49,301140,NA,NA,301140
+2022,Hungary,Urban,Male,50 - 54,245861,NA,NA,245861
+2022,Hungary,Urban,Male,55 - 59,192498,NA,NA,192498
+2022,Hungary,Urban,Male,60 - 64,173222,NA,NA,173222
+2022,Hungary,Urban,Male,65 - 69,196346,NA,NA,196346
+2022,Hungary,Urban,Male,70 - 74,146641,NA,NA,146641
+2022,Hungary,Urban,Male,75 - 79,102977,NA,NA,102977
+2022,Hungary,Urban,Male,80 - 84,59844,NA,NA,59844
+2022,Hungary,Urban,Male,85 - 89,26282,NA,NA,26282
+2022,Hungary,Urban,Male,90 - 94,8758,NA,NA,8758
+2022,Hungary,Urban,Male,95 - 99,1485,NA,NA,1485
+2022,Hungary,Urban,Female,10 - 14,152411,NA,NA,152411
+2022,Hungary,Urban,Female,10 - 14,NA,1398,0,1398
+2022,Hungary,Urban,Female,15 - 19,162345,NA,NA,162345
+2022,Hungary,Urban,Female,20 - 24,175827,NA,NA,175827
+2022,Hungary,Urban,Female,25 - 29,194260,NA,NA,194260
+2022,Hungary,Urban,Female,30 - 34,212899,NA,NA,212899
+2022,Hungary,Urban,Female,35 - 39,215966,NA,NA,215966
+2022,Hungary,Urban,Female,40 - 44,258162,NA,NA,258162
+2022,Hungary,Urban,Female,45 - 49,299359,NA,NA,299359
+2022,Hungary,Urban,Female,50 - 54,249553,NA,NA,249553
+2022,Hungary,Urban,Female,55 - 59,207453,NA,NA,207453
+2022,Hungary,Urban,Female,60 - 64,209682,NA,NA,209682
+2022,Hungary,Urban,Female,65 - 69,265995,NA,NA,265995
+2022,Hungary,Urban,Female,65 - 69,NA,1072,0,1072
+2022,Hungary,Urban,Female,70 - 74,223623,NA,NA,223623
+2022,Hungary,Urban,Female,75 - 79,173230,NA,NA,173230
+2022,Hungary,Urban,Female,80 - 84,122770,NA,NA,122770
+2022,Hungary,Urban,Female,85 - 89,66552,NA,NA,66552
+2022,Hungary,Urban,Female,90 - 94,26235,NA,NA,26235
+2022,Hungary,Urban,Female,95 - 99,5399,NA,NA,5399
+2022,Hungary,Rural,Male,10 - 14,75843,NA,NA,75843
+2022,Hungary,Rural,Male,15 - 19,78816,NA,NA,78816
+2022,Hungary,Rural,Male,20 - 24,78926,NA,NA,78926
+2022,Hungary,Rural,Male,25 - 29,87286,NA,NA,87286
+2022,Hungary,Rural,Male,30 - 34,93820,NA,NA,93820
+2022,Hungary,Rural,Male,35 - 39,93279,NA,NA,93279
+2022,Hungary,Rural,Male,40 - 44,108516,NA,NA,108516
+2022,Hungary,Rural,Male,45 - 49,125076,NA,NA,125076
+2022,Hungary,Rural,Male,50 - 54,108589,NA,NA,108589
+2022,Hungary,Rural,Male,55 - 59,92297,NA,NA,92297
+2022,Hungary,Rural,Male,60 - 64,87477,NA,NA,87477
+2022,Hungary,Rural,Male,65 - 69,88560,NA,NA,88560
+2022,Hungary,Rural,Male,70 - 74,60858,NA,NA,60858
+2022,Hungary,Rural,Male,75 - 79,35600,NA,NA,35600
+2022,Hungary,Rural,Male,80 - 84,20639,NA,NA,20639
+2022,Hungary,Rural,Male,85 - 89,8317,NA,NA,8317
+2022,Hungary,Rural,Male,90 - 94,2420,NA,NA,2420
+2022,Hungary,Rural,Female,10 - 14,71466,NA,NA,71466
+2022,Hungary,Rural,Female,15 - 19,74062,NA,NA,74062
+2022,Hungary,Rural,Female,20 - 24,72257,NA,NA,72257
+2022,Hungary,Rural,Female,25 - 29,79309,NA,NA,79309
+2022,Hungary,Rural,Female,30 - 34,85317,NA,NA,85317
+2022,Hungary,Rural,Female,35 - 39,85733,NA,NA,85733
+2022,Hungary,Rural,Female,40 - 44,99129,NA,NA,99129
+2022,Hungary,Rural,Female,45 - 49,113312,NA,NA,113312
+2022,Hungary,Rural,Female,50 - 54,101301,NA,NA,101301
+2022,Hungary,Rural,Female,55 - 59,89948,NA,NA,89948
+2022,Hungary,Rural,Female,60 - 64,92131,NA,NA,92131
+2022,Hungary,Rural,Female,65 - 69,102470,NA,NA,102470
+2022,Hungary,Rural,Female,70 - 74,82081,NA,NA,82081
+2022,Hungary,Rural,Female,75 - 79,59042,NA,NA,59042
+2022,Hungary,Rural,Female,80 - 84,45237,NA,NA,45237
+2022,Hungary,Rural,Female,85 - 89,24225,NA,NA,24225
+2022,Hungary,Rural,Female,90 - 94,8825,NA,NA,8825
+2022,Hungary,Rural,Female,95 - 99,1627,NA,NA,1627
 2010,Indonesia,Urban,Male,10 - 14,5309368,51099,38844,5399311
-2010,Indonesia,Urban,Male,10 +,46751266,1080674,373244,48205184
 2010,Indonesia,Urban,Male,15 - 19,5228910,31066,83126,5343102
 2010,Indonesia,Urban,Male,20 - 24,5306376,27687,82525,5416588
 2010,Indonesia,Urban,Male,25 - 29,5664993,32837,54799,5752629
@@ -1985,7 +1926,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2010,Indonesia,Urban,Male,90 - 94,13943,9115,101,23159
 2010,Indonesia,Urban,Male,95 +,7395,4973,155,12523
 2010,Indonesia,Urban,Female,10 - 14,5066604,36844,39408,5142856
-2010,Indonesia,Urban,Female,10 +,45423510,2434653,215754,48073917
 2010,Indonesia,Urban,Female,15 - 19,5306538,22634,83312,5412484
 2010,Indonesia,Urban,Female,20 - 24,5425315,25240,36668,5487223
 2010,Indonesia,Urban,Female,25 - 29,5645055,35414,14404,5694873
@@ -2004,7 +1944,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2010,Indonesia,Urban,Female,90 - 94,18310,24886,134,43330
 2010,Indonesia,Urban,Female,95 +,10442,15539,109,26090
 2010,Indonesia,Rural,Male,10 - 14,6056289,181759,25058,6263106
-2010,Indonesia,Rural,Male,10 +,43722715,3899388,167163,47789266
 2010,Indonesia,Rural,Male,15 - 19,5094969,129625,46610,5271204
 2010,Indonesia,Rural,Male,20 - 24,4315502,122219,33404,4471125
 2010,Indonesia,Rural,Male,25 - 29,4706381,148166,24135,4878682
@@ -2023,7 +1962,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2010,Indonesia,Rural,Male,90 - 94,18345,22425,19,40789
 2010,Indonesia,Rural,Male,95 +,9804,13754,14,23572
 2010,Indonesia,Rural,Female,10 - 14,5704315,135528,25965,5865808
-2010,Indonesia,Rural,Female,10 +,40608605,6918358,113814,47640777
 2010,Indonesia,Rural,Female,15 - 19,4704213,103860,45871,4853944
 2010,Indonesia,Rural,Female,20 - 24,4363505,138200,14992,4516697
 2010,Indonesia,Rural,Female,25 - 29,4781625,193981,8653,4984259
@@ -2042,7 +1980,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2010,Indonesia,Rural,Female,90 - 94,15413,48191,17,63621
 2010,Indonesia,Rural,Female,95 +,9460,32995,14,42469
 2016,Iran (Islamic Republic of),Urban,Male,10 - 14,2055992,18404,790,2075186
-2016,Iran (Islamic Republic of),Urban,Male,10 +,23277549,1644194,20312,24942055
 2016,Iran (Islamic Republic of),Urban,Male,15 - 19,1969368,29794,1172,2000334
 2016,Iran (Islamic Republic of),Urban,Male,20 - 24,2214286,44998,1921,2261205
 2016,Iran (Islamic Republic of),Urban,Male,25 - 29,2956386,65194,2620,3024200
@@ -2062,7 +1999,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2016,Iran (Islamic Republic of),Urban,Male,95 - 99,1990,3465,6,5461
 2016,Iran (Islamic Republic of),Urban,Male,100 +,291,1385,4,1680
 2016,Iran (Islamic Republic of),Urban,Female,10 - 14,1961834,18507,716,1981057
-2016,Iran (Islamic Republic of),Urban,Female,10 +,21572305,3073326,10843,24656474
 2016,Iran (Islamic Republic of),Urban,Female,15 - 19,1923469,26119,716,1950304
 2016,Iran (Islamic Republic of),Urban,Female,20 - 24,2273405,45178,1145,2319728
 2016,Iran (Islamic Republic of),Urban,Female,25 - 29,2999191,75563,1660,3076414
@@ -2082,7 +2018,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2016,Iran (Islamic Republic of),Urban,Female,95 - 99,1159,5777,11,6947
 2016,Iran (Islamic Republic of),Urban,Female,100 +,173,1843,1,2017
 2016,Iran (Islamic Republic of),Rural,Male,10 - 14,815905,17905,325,834135
-2016,Iran (Islamic Republic of),Rural,Male,10 +,7139904,1451487,6715,8598106
 2016,Iran (Islamic Republic of),Rural,Male,15 - 19,754795,27821,443,783059
 2016,Iran (Islamic Republic of),Rural,Male,20 - 24,928796,43313,711,972820
 2016,Iran (Islamic Republic of),Rural,Male,25 - 29,1054188,61521,869,1116578
@@ -2102,7 +2037,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2016,Iran (Islamic Republic of),Rural,Male,95 - 99,301,2958,5,3264
 2016,Iran (Islamic Republic of),Rural,Male,100 +,89,1404,1,1494
 2016,Iran (Islamic Republic of),Rural,Female,10 - 14,774460,19230,317,794007
-2016,Iran (Islamic Republic of),Rural,Female,10 +,5811472,2369351,3489,8184312
 2016,Iran (Islamic Republic of),Rural,Female,15 - 19,689103,31756,302,721161
 2016,Iran (Islamic Republic of),Rural,Female,20 - 24,780231,53553,381,834165
 2016,Iran (Islamic Republic of),Rural,Female,25 - 29,891718,87150,412,979280
@@ -2122,7 +2056,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2016,Iran (Islamic Republic of),Rural,Female,95 - 99,53,2934,5,2992
 2016,Iran (Islamic Republic of),Rural,Female,100 +,25,1349,NA,1374
 2021,Italy,Urban,Male,10 - 14,1222820,665,0,1223485
-2021,Italy,Urban,Male,10 +,21712470,94757,0,21807227
 2021,Italy,Urban,Male,15 - 19,1242243,922,0,1243165
 2021,Italy,Urban,Male,20 - 24,1277807,2437,0,1280244
 2021,Italy,Urban,Male,25 - 29,1290384,3981,0,1294365
@@ -2142,7 +2075,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2021,Italy,Urban,Male,95 - 99,27280,508,0,27788
 2021,Italy,Urban,Male,100 +,2583,52,0,2635
 2021,Italy,Urban,Female,10 - 14,1151459,477,0,1151936
-2021,Italy,Urban,Female,10 +,23101278,139365,0,23240643
 2021,Italy,Urban,Female,15 - 19,1162137,182,0,1162319
 2021,Italy,Urban,Female,20 - 24,1162086,951,0,1163037
 2021,Italy,Urban,Female,25 - 29,1214283,2201,0,1216484
@@ -2162,7 +2094,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2021,Italy,Urban,Female,95 - 99,96087,2701,0,98788
 2021,Italy,Urban,Female,100 +,12623,408,0,13031
 2021,Italy,Rural,Male,10 - 14,230198,109,0,230307
-2021,Italy,Rural,Male,10 +,4592284,21251,0,4613535
 2021,Italy,Rural,Male,15 - 19,238754,118,0,238872
 2021,Italy,Rural,Male,20 - 24,251720,420,0,252140
 2021,Italy,Rural,Male,25 - 29,255564,689,0,256253
@@ -2181,7 +2112,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2021,Italy,Rural,Male,90 - 94,38704,1159,0,39863
 2021,Italy,Rural,Male,95 - 99,7374,278,0,7652
 2021,Italy,Rural,Female,10 - 14,217848,68,0,217916
-2021,Italy,Rural,Female,10 +,4665692,36885,0,4702577
 2021,Italy,Rural,Female,15 - 19,221713,48,0,221761
 2021,Italy,Rural,Female,20 - 24,227756,164,0,227920
 2021,Italy,Rural,Female,25 - 29,233854,389,0,234243
@@ -2201,7 +2131,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2021,Italy,Rural,Female,95 - 99,24753,1317,0,26070
 2021,Italy,Rural,Female,100 +,3218,178,0,3396
 2011,Kuwait,Urban,Male,10 - 14,102348,1686,NA,104034
-2011,Kuwait,Urban,Male,10 +,1374940,108466,NA,1483406
 2011,Kuwait,Urban,Male,15 - 19,95613,518,NA,96131
 2011,Kuwait,Urban,Male,20 - 24,124820,7841,NA,132661
 2011,Kuwait,Urban,Male,25 - 29,203844,15587,NA,219431
@@ -2214,7 +2143,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Kuwait,Urban,Male,60 - 64,23432,1830,NA,25262
 2011,Kuwait,Urban,Male,65 +,25037,4230,NA,29267
 2011,Kuwait,Urban,Female,10 - 14,96561,1540,NA,98101
-2011,Kuwait,Urban,Female,10 +,979483,109933,NA,1089416
 2011,Kuwait,Urban,Female,15 - 19,86976,425,NA,87401
 2011,Kuwait,Urban,Female,20 - 24,118256,9784,NA,128040
 2011,Kuwait,Urban,Female,25 - 29,156725,16584,NA,173309
@@ -2227,7 +2155,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Kuwait,Urban,Female,60 - 64,14435,4253,NA,18688
 2011,Kuwait,Urban,Female,65 +,15676,11547,NA,27223
 2009,Kyrgyzstan,Urban,Male,10 - 14,78473,131,NA,78604
-2009,Kyrgyzstan,Urban,Male,10 +,703148,1464,NA,704612
 2009,Kyrgyzstan,Urban,Male,15 - 19,103468,171,NA,103639
 2009,Kyrgyzstan,Urban,Male,20 - 24,105535,168,NA,105703
 2009,Kyrgyzstan,Urban,Male,25 - 29,77232,120,NA,77352
@@ -2240,7 +2167,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2009,Kyrgyzstan,Urban,Male,60 - 64,14773,26,NA,14799
 2009,Kyrgyzstan,Urban,Male,65 +,31878,600,NA,32478
 2009,Kyrgyzstan,Urban,Female,10 - 14,76942,105,NA,77047
-2009,Kyrgyzstan,Urban,Female,10 +,807453,3185,NA,810638
 2009,Kyrgyzstan,Urban,Female,15 - 19,109809,116,NA,109925
 2009,Kyrgyzstan,Urban,Female,20 - 24,116613,112,NA,116725
 2009,Kyrgyzstan,Urban,Female,25 - 29,81534,89,NA,81623
@@ -2253,7 +2179,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2009,Kyrgyzstan,Urban,Female,60 - 64,21363,130,NA,21493
 2009,Kyrgyzstan,Urban,Female,65 +,56515,2278,NA,58793
 2009,Kyrgyzstan,Rural,Male,10 - 14,201142,584,NA,201726
-2009,Kyrgyzstan,Rural,Male,10 +,1385964,8049,NA,1394013
 2009,Kyrgyzstan,Rural,Male,15 - 19,202752,752,NA,203504
 2009,Kyrgyzstan,Rural,Male,20 - 24,185719,679,NA,186398
 2009,Kyrgyzstan,Rural,Male,25 - 29,148367,522,NA,148889
@@ -2266,7 +2191,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2009,Kyrgyzstan,Rural,Male,60 - 64,23752,138,NA,23890
 2009,Kyrgyzstan,Rural,Male,65 +,66158,3781,NA,69939
 2009,Kyrgyzstan,Rural,Female,10 - 14,192823,414,NA,193237
-2009,Kyrgyzstan,Rural,Female,10 +,1362683,16894,NA,1379577
 2009,Kyrgyzstan,Rural,Female,15 - 19,191093,487,NA,191580
 2009,Kyrgyzstan,Rural,Female,20 - 24,174075,473,NA,174548
 2009,Kyrgyzstan,Rural,Female,25 - 29,138999,393,NA,139392
@@ -2279,7 +2203,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2009,Kyrgyzstan,Rural,Female,60 - 64,27448,585,NA,28033
 2009,Kyrgyzstan,Rural,Female,65 +,82485,12640,NA,95125
 2015,Lao People's Democratic Republic,Urban,Male,10 - 14,93970,2123,NA,96093
-2015,Lao People's Democratic Republic,Urban,Male,10 +,858557,32219,NA,890776
 2015,Lao People's Democratic Republic,Urban,Male,15 - 19,110717,2214,NA,112931
 2015,Lao People's Democratic Republic,Urban,Male,20 - 24,123379,2626,NA,126005
 2015,Lao People's Democratic Republic,Urban,Male,25 - 29,114872,2689,NA,117561
@@ -2297,7 +2220,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2015,Lao People's Democratic Republic,Urban,Male,85 - 89,1890,566,NA,2456
 2015,Lao People's Democratic Republic,Urban,Male,90 - 94,771,313,NA,1084
 2015,Lao People's Democratic Republic,Urban,Female,10 - 14,91805,1809,NA,93614
-2015,Lao People's Democratic Republic,Urban,Female,10 +,808649,74167,NA,882816
 2015,Lao People's Democratic Republic,Urban,Female,15 - 19,107072,2596,NA,109668
 2015,Lao People's Democratic Republic,Urban,Female,20 - 24,117399,3721,NA,121120
 2015,Lao People's Democratic Republic,Urban,Female,25 - 29,109096,4809,NA,113905
@@ -2316,7 +2238,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2015,Lao People's Democratic Republic,Urban,Female,90 - 94,575,763,NA,1338
 2015,Lao People's Democratic Republic,Urban,Female,95 +,502,591,NA,1093
 2015,Lao People's Democratic Republic,Rural,Male,10 - 14,248906,18027,NA,266933
-2015,Lao People's Democratic Republic,Rural,Male,10 +,1463379,208773,NA,1672152
 2015,Lao People's Democratic Republic,Rural,Male,15 - 19,225046,16383,NA,241429
 2015,Lao People's Democratic Republic,Rural,Male,20 - 24,182771,16825,NA,199596
 2015,Lao People's Democratic Republic,Rural,Male,25 - 29,171939,19488,NA,191427
@@ -2335,7 +2256,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2015,Lao People's Democratic Republic,Rural,Male,90 - 94,1025,932,NA,1957
 2015,Lao People's Democratic Republic,Rural,Male,95 +,657,661,NA,1318
 2015,Lao People's Democratic Republic,Rural,Female,10 - 14,240938,21028,NA,261966
-2015,Lao People's Democratic Republic,Rural,Female,10 +,1280643,404649,NA,1685292
 2015,Lao People's Democratic Republic,Rural,Female,15 - 19,209068,25914,NA,234982
 2015,Lao People's Democratic Republic,Rural,Female,20 - 24,175611,31705,NA,207316
 2015,Lao People's Democratic Republic,Rural,Female,25 - 29,153393,39702,NA,193095
@@ -2354,7 +2274,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2015,Lao People's Democratic Republic,Rural,Female,90 - 94,769,1888,NA,2657
 2015,Lao People's Democratic Republic,Rural,Female,95 +,566,1617,NA,2183
 2011,Latvia,Urban,Male,10 - 14,28704,68,NA,28772
-2011,Latvia,Urban,Male,10 +,554601,392,NA,554993
 2011,Latvia,Urban,Male,15 - 19,37318,45,NA,37363
 2011,Latvia,Urban,Male,20 - 24,51599,59,NA,51658
 2011,Latvia,Urban,Male,25 - 29,52979,46,NA,53025
@@ -2371,7 +2290,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Latvia,Urban,Male,80 - 84,10489,5,NA,10494
 2011,Latvia,Urban,Male,85 - 89,3421,0,NA,3421
 2011,Latvia,Urban,Female,10 - 14,27398,38,NA,27436
-2011,Latvia,Urban,Female,10 +,711482,384,NA,711866
 2011,Latvia,Urban,Female,15 - 19,36540,29,NA,36569
 2011,Latvia,Urban,Female,20 - 24,51984,49,NA,52033
 2011,Latvia,Urban,Female,25 - 29,53139,36,NA,53175
@@ -2389,7 +2307,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Latvia,Urban,Female,85 - 89,14680,10,NA,14690
 2011,Latvia,Urban,Female,90 +,4195,11,NA,4206
 2011,Latvia,Rural,Male,10 - 14,17214,60,NA,17274
-2011,Latvia,Rural,Male,10 +,285967,682,NA,286649
 2011,Latvia,Rural,Male,15 - 19,24047,79,NA,24126
 2011,Latvia,Rural,Male,20 - 24,27296,95,NA,27391
 2011,Latvia,Rural,Male,25 - 29,22338,87,NA,22425
@@ -2406,7 +2323,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Latvia,Rural,Male,80 - 84,4220,2,NA,4222
 2011,Latvia,Rural,Male,85 - 89,1339,0,NA,1339
 2011,Latvia,Rural,Female,10 - 14,16242,50,NA,16292
-2011,Latvia,Rural,Female,10 +,311880,607,NA,312487
 2011,Latvia,Rural,Female,15 - 19,22262,51,NA,22313
 2011,Latvia,Rural,Female,20 - 24,23766,46,NA,23812
 2011,Latvia,Rural,Female,25 - 29,19290,63,NA,19353
@@ -2424,7 +2340,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Latvia,Rural,Female,85 - 89,6386,15,NA,6401
 2011,Latvia,Rural,Female,90 +,1931,6,NA,1937
 2016,Lesotho,Urban,Male,15 - 19,32263,237,NA,32500
-2016,Lesotho,Urban,Male,15 +,223439,3641,NA,227080
 2016,Lesotho,Urban,Male,20 - 24,32511,312,NA,32823
 2016,Lesotho,Urban,Male,25 - 29,34509,370,NA,34879
 2016,Lesotho,Urban,Male,30 - 34,33057,512,NA,33569
@@ -2438,7 +2353,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2016,Lesotho,Urban,Male,70 - 74,2432,112,NA,2544
 2016,Lesotho,Urban,Male,75 - 79,1430,86,NA,1516
 2016,Lesotho,Urban,Female,15 - 19,37259,82,NA,37341
-2016,Lesotho,Urban,Female,15 +,262094,1782,NA,263876
 2016,Lesotho,Urban,Female,20 - 24,41039,88,NA,41127
 2016,Lesotho,Urban,Female,25 - 29,40900,108,NA,41008
 2016,Lesotho,Urban,Female,30 - 34,35490,163,NA,35653
@@ -2454,7 +2368,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2016,Lesotho,Urban,Female,80 - 84,2111,137,NA,2248
 2016,Lesotho,Urban,Female,85 +,1603,136,NA,1739
 2016,Lesotho,Rural,Male,15 - 19,70757,2911,NA,73668
-2016,Lesotho,Rural,Male,15 +,412951,23287,NA,436238
 2016,Lesotho,Rural,Male,20 - 24,63260,2732,NA,65992
 2016,Lesotho,Rural,Male,25 - 29,58107,2798,NA,60905
 2016,Lesotho,Rural,Male,30 - 34,50487,2877,NA,53364
@@ -2470,7 +2383,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2016,Lesotho,Rural,Male,80 - 84,4128,405,NA,4533
 2016,Lesotho,Rural,Male,85 +,2103,249,NA,2352
 2016,Lesotho,Rural,Female,15 - 19,65882,346,NA,66228
-2016,Lesotho,Rural,Female,15 +,433446,8662,NA,442108
 2016,Lesotho,Rural,Female,20 - 24,58904,391,NA,59295
 2016,Lesotho,Rural,Female,25 - 29,51686,429,NA,52115
 2016,Lesotho,Rural,Female,30 - 34,44969,539,NA,45508
@@ -2486,7 +2398,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2016,Lesotho,Rural,Female,80 - 84,10040,905,NA,10945
 2016,Lesotho,Rural,Female,85 +,6267,770,NA,7037
 2011,Lithuania,Urban,Male,10 - 14,53933,48,1,53982
-2011,Lithuania,Urban,Male,10 +,814307,960,112,815379
 2011,Lithuania,Urban,Male,15 - 19,67910,66,0,67976
 2011,Lithuania,Urban,Male,20 - 24,73136,127,3,73266
 2011,Lithuania,Urban,Male,25 - 29,68902,126,2,69030
@@ -2504,7 +2415,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Lithuania,Urban,Male,85 - 89,5543,9,0,5552
 2011,Lithuania,Urban,Male,90 - 94,1243,0,0,1243
 2011,Lithuania,Urban,Female,10 - 14,51152,31,0,51183
-2011,Lithuania,Urban,Female,10 +,1024417,972,89,1025478
 2011,Lithuania,Urban,Female,15 - 19,66538,54,0,66592
 2011,Lithuania,Urban,Female,20 - 24,74914,113,0,75027
 2011,Lithuania,Urban,Female,25 - 29,70836,99,1,70936
@@ -2523,7 +2433,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Lithuania,Urban,Female,90 - 94,4537,11,0,4548
 2011,Lithuania,Urban,Female,95 - 99,1127,8,0,1135
 2011,Lithuania,Rural,Male,10 - 14,32342,24,0,32366
-2011,Lithuania,Rural,Male,10 +,439552,1520,7,441079
 2011,Lithuania,Rural,Male,15 - 19,41115,45,0,41160
 2011,Lithuania,Rural,Male,20 - 24,38168,103,2,38273
 2011,Lithuania,Rural,Male,25 - 29,28776,118,3,28897
@@ -2540,7 +2449,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Lithuania,Rural,Male,80 - 84,8561,27,0,8588
 2011,Lithuania,Rural,Male,85 - 89,3258,11,0,3269
 2011,Lithuania,Rural,Female,10 - 14,30297,24,0,30321
-2011,Lithuania,Rural,Female,10 +,474673,1451,9,476133
 2011,Lithuania,Rural,Female,15 - 19,37638,28,0,37666
 2011,Lithuania,Rural,Female,20 - 24,31308,86,2,31396
 2011,Lithuania,Rural,Female,25 - 29,24379,115,5,24499
@@ -2558,7 +2466,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Lithuania,Rural,Female,85 - 89,11342,38,0,11380
 2011,Lithuania,Rural,Female,90 - 94,2805,12,0,2817
 2014,Maldives,Urban,Male,10 - 14,3971,37,94,4102
-2014,Maldives,Urban,Male,10 +,69700,2627,1155,73482
 2014,Maldives,Urban,Male,15 - 19,6535,82,67,6684
 2014,Maldives,Urban,Male,20 - 24,11745,499,197,12441
 2014,Maldives,Urban,Male,25 - 29,13428,664,205,14297
@@ -2570,7 +2477,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2014,Maldives,Urban,Male,55 - 59,1994,27,40,2061
 2014,Maldives,Urban,Male,60 - 64,1134,22,24,1180
 2014,Maldives,Urban,Female,10 - 14,3852,23,71,3946
-2014,Maldives,Urban,Female,10 +,55671,871,672,57214
 2014,Maldives,Urban,Female,15 - 19,6686,28,80,6794
 2014,Maldives,Urban,Female,20 - 24,8484,53,117,8654
 2014,Maldives,Urban,Female,25 - 29,8750,122,103,8975
@@ -2582,7 +2488,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2014,Maldives,Urban,Female,55 - 59,2029,38,18,2085
 2014,Maldives,Urban,Female,60 - 64,1021,14,15,1050
 2014,Maldives,Rural,Male,10 - 14,9184,90,161,9435
-2014,Maldives,Rural,Male,10 +,110376,6024,2484,118884
 2014,Maldives,Rural,Male,15 - 19,9676,193,117,9986
 2014,Maldives,Rural,Male,20 - 24,14993,864,349,16206
 2014,Maldives,Rural,Male,25 - 29,18989,1318,693,21000
@@ -2597,7 +2502,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2014,Maldives,Rural,Male,70 - 74,1710,131,17,1858
 2014,Maldives,Rural,Male,75 - 79,1408,129,25,1562
 2014,Maldives,Rural,Female,10 - 14,8596,72,124,8792
-2014,Maldives,Rural,Female,10 +,81800,1591,762,84153
 2014,Maldives,Rural,Female,15 - 19,8363,59,72,8494
 2014,Maldives,Rural,Female,20 - 24,9775,119,93,9987
 2014,Maldives,Rural,Female,25 - 29,12153,154,127,12434
@@ -2612,7 +2516,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2014,Maldives,Rural,Female,70 - 74,1523,150,10,1683
 2014,Maldives,Rural,Female,75 - 79,1121,154,8,1283
 2009,Mali,Urban,Male,12 - 14,77092,14599,14999,106690
-2009,Mali,Urban,Male,12 +,661015,295726,113503,1070244
 2009,Mali,Urban,Male,15 - 19,149052,30045,15061,194158
 2009,Mali,Urban,Male,20 - 24,120692,36700,14311,171703
 2009,Mali,Urban,Male,25 - 29,77816,40310,14001,132127
@@ -2628,7 +2531,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2009,Mali,Urban,Male,75 - 79,1748,3369,1189,6306
 2009,Mali,Urban,Male,80 +,1407,3382,1220,6009
 2009,Mali,Urban,Female,12 - 14,74318,28521,18972,121811
-2009,Mali,Urban,Female,12 +,474339,431808,159469,1065616
 2009,Mali,Urban,Female,15 - 19,130255,74005,29136,233396
 2009,Mali,Urban,Female,20 - 24,88689,59998,20882,169569
 2009,Mali,Urban,Female,25 - 29,55817,60318,19637,135772
@@ -2644,7 +2546,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2009,Mali,Urban,Female,75 - 79,570,4027,1968,6565
 2009,Mali,Urban,Female,80 +,616,5108,2513,8237
 2009,Mali,Rural,Male,12 - 14,180281,175291,56979,412551
-2009,Mali,Rural,Male,12 +,906242,1877878,290042,3074162
 2009,Mali,Rural,Male,15 - 19,222972,263215,52181,538368
 2009,Mali,Rural,Male,20 - 24,110707,214027,33098,357832
 2009,Mali,Rural,Male,25 - 29,80504,209418,27050,316972
@@ -2660,7 +2561,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2009,Mali,Rural,Male,75 - 79,3951,26804,3843,34598
 2009,Mali,Rural,Male,80 +,3603,27738,4642,35983
 2009,Mali,Rural,Female,12 - 14,128655,189832,51531,370018
-2009,Mali,Rural,Female,12 +,491904,2430090,366994,3288988
 2009,Mali,Rural,Female,15 - 19,140756,352838,56630,550224
 2009,Mali,Rural,Female,20 - 24,65127,334593,43079,442799
 2009,Mali,Rural,Female,25 - 29,41893,328179,40759,410831
@@ -2676,7 +2576,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2009,Mali,Rural,Female,75 - 79,1259,22754,5619,29632
 2009,Mali,Rural,Female,80 +,1558,26251,7556,35365
 2021,Malta,Urban,Male,10 - 14,11104,226,0,11330
-2021,Malta,Urban,Male,10 +,229117,12087,0,241204
 2021,Malta,Urban,Male,15 - 19,11299,120,0,11419
 2021,Malta,Urban,Male,20 - 24,15755,173,0,15928
 2021,Malta,Urban,Male,25 - 29,23176,279,0,23455
@@ -2693,7 +2592,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2021,Malta,Urban,Male,80 - 84,4015,614,0,4629
 2021,Malta,Urban,Male,85 - 89,2129,380,0,2509
 2021,Malta,Urban,Female,10 - 14,10538,119,0,10657
-2021,Malta,Urban,Female,10 +,214686,8068,0,222754
 2021,Malta,Urban,Female,15 - 19,10207,44,0,10251
 2021,Malta,Urban,Female,20 - 24,12872,62,0,12934
 2021,Malta,Urban,Female,25 - 29,18545,111,0,18656
@@ -2710,10 +2608,7 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2021,Malta,Urban,Female,80 - 84,5695,772,0,6467
 2021,Malta,Urban,Female,85 - 89,3586,760,0,4346
 2021,Malta,Urban,Female,90 - 94,1419,336,0,1755
-2021,Malta,Rural,Male,10 +,5088,197,0,5285
-2021,Malta,Rural,Female,10 +,4950,101,0,5051
 2022,Mauritius,Urban,Male,10 - 14,12127,139,NA,12266
-2022,Mauritius,Urban,Male,10 +,206834,6996,NA,213830
 2022,Mauritius,Urban,Male,15 - 19,15012,148,NA,15160
 2022,Mauritius,Urban,Male,20 - 24,16220,191,NA,16411
 2022,Mauritius,Urban,Male,25 - 29,19375,250,NA,19625
@@ -2728,7 +2623,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Mauritius,Urban,Male,70 - 74,8712,526,NA,9238
 2022,Mauritius,Urban,Male,75 +,9046,1054,NA,10100
 2022,Mauritius,Urban,Female,10 - 14,12664,80,NA,12744
-2022,Mauritius,Urban,Female,10 +,212222,12020,NA,224242
 2022,Mauritius,Urban,Female,15 - 19,15558,83,NA,15641
 2022,Mauritius,Urban,Female,20 - 24,16289,191,NA,16480
 2022,Mauritius,Urban,Female,25 - 29,17654,237,NA,17891
@@ -2743,7 +2637,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Mauritius,Urban,Female,70 - 74,9984,1804,NA,11788
 2022,Mauritius,Urban,Female,75 +,12002,4111,NA,16113
 2022,Mauritius,Rural,Male,10 - 14,22234,309,NA,22543
-2022,Mauritius,Rural,Male,10 +,315477,20961,NA,336438
 2022,Mauritius,Rural,Male,15 - 19,26719,427,NA,27146
 2022,Mauritius,Rural,Male,20 - 24,28218,517,NA,28735
 2022,Mauritius,Rural,Male,25 - 29,30189,570,NA,30759
@@ -2758,7 +2651,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Mauritius,Rural,Male,70 - 74,10165,1772,NA,11937
 2022,Mauritius,Rural,Male,75 +,7502,2442,NA,9944
 2022,Mauritius,Rural,Female,10 - 14,22737,172,NA,22909
-2022,Mauritius,Rural,Female,10 +,307286,33632,NA,340918
 2022,Mauritius,Rural,Female,15 - 19,26929,183,NA,27112
 2022,Mauritius,Rural,Female,20 - 24,27626,314,NA,27940
 2022,Mauritius,Rural,Female,25 - 29,28691,358,NA,29049
@@ -2773,7 +2665,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Mauritius,Rural,Female,70 - 74,9303,5319,NA,14622
 2022,Mauritius,Rural,Female,75 +,7605,8567,NA,16172
 2020,Mexico,Urban,Male,10 - 14,4123568,45365,18220,4187153
-2020,Mexico,Urban,Male,10 +,39196842,926244,116494,40239580
 2020,Mexico,Urban,Male,15 - 19,4170165,28169,17024,4215358
 2020,Mexico,Urban,Male,20 - 24,4087421,31438,19048,4137907
 2020,Mexico,Urban,Male,25 - 29,3883684,34549,11219,3929452
@@ -2793,7 +2684,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2020,Mexico,Urban,Male,95 - 99,17189,7003,41,24233
 2020,Mexico,Urban,Male,100 +,2246,1535,13,3794
 2020,Mexico,Urban,Female,10 - 14,4014572,32036,17151,4063759
-2020,Mexico,Urban,Female,10 +,41706455,1442927,107401,43256783
 2020,Mexico,Urban,Female,15 - 19,4082793,19235,18320,4120348
 2020,Mexico,Urban,Female,20 - 24,4138665,23732,19833,4182230
 2020,Mexico,Urban,Female,25 - 29,4069558,28168,9892,4107618
@@ -2813,7 +2703,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2020,Mexico,Urban,Female,95 - 99,27288,15891,74,43253
 2020,Mexico,Urban,Female,100 +,4139,3483,12,7634
 2020,Mexico,Rural,Male,10 - 14,1333413,30561,3133,1367107
-2020,Mexico,Rural,Male,10 +,9624891,928921,13231,10567043
 2020,Mexico,Rural,Male,15 - 19,1223765,20908,2119,1246792
 2020,Mexico,Rural,Male,20 - 24,999689,26034,2254,1027977
 2020,Mexico,Rural,Male,25 - 29,900678,30179,1095,931952
@@ -2833,7 +2722,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2020,Mexico,Rural,Male,95 - 99,5405,6972,5,12382
 2020,Mexico,Rural,Male,100 +,868,1979,3,2850
 2020,Mexico,Rural,Female,10 - 14,1299053,23566,2902,1325521
-2020,Mexico,Rural,Female,10 +,9563141,1289867,12480,10865488
 2020,Mexico,Rural,Female,15 - 19,1203090,18705,2397,1224192
 2020,Mexico,Rural,Female,20 - 24,1045613,25806,2562,1073981
 2020,Mexico,Rural,Female,25 - 29,991129,31832,1018,1023979
@@ -2853,7 +2741,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2020,Mexico,Rural,Female,95 - 99,4203,11132,2,15337
 2020,Mexico,Rural,Female,100 +,705,3312,0,4017
 2011,Montenegro,Urban,Male,10 - 14,13570,128,0,13698
-2011,Montenegro,Urban,Male,10 +,166680,791,0,167471
 2011,Montenegro,Urban,Male,15 - 19,14530,124,0,14654
 2011,Montenegro,Urban,Male,20 - 24,14250,97,0,14347
 2011,Montenegro,Urban,Male,25 - 29,15217,73,0,15290
@@ -2869,7 +2756,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Montenegro,Urban,Male,75 - 79,4018,23,0,4041
 2011,Montenegro,Urban,Male,80 - 84,2092,20,0,2112
 2011,Montenegro,Urban,Female,10 - 14,12709,119,0,12828
-2011,Montenegro,Urban,Female,10 +,178958,2777,0,181735
 2011,Montenegro,Urban,Female,15 - 19,13560,162,0,13722
 2011,Montenegro,Urban,Female,20 - 24,13724,147,0,13871
 2011,Montenegro,Urban,Female,25 - 29,15655,138,0,15793
@@ -2886,7 +2772,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Montenegro,Urban,Female,80 - 84,2916,347,0,3263
 2011,Montenegro,Urban,Female,85 - 89,1130,209,0,1339
 2011,Montenegro,Rural,Male,10 - 14,7654,37,0,7691
-2011,Montenegro,Rural,Male,10 +,97620,768,0,98388
 2011,Montenegro,Rural,Male,15 - 19,8128,33,0,8161
 2011,Montenegro,Rural,Male,20 - 24,7704,33,0,7737
 2011,Montenegro,Rural,Male,25 - 29,7973,36,0,8009
@@ -2902,7 +2787,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Montenegro,Rural,Male,75 - 79,3132,78,0,3210
 2011,Montenegro,Rural,Male,80 - 84,1852,86,0,1938
 2011,Montenegro,Rural,Female,10 - 14,7126,28,0,7154
-2011,Montenegro,Rural,Female,10 +,91242,3813,0,95055
 2011,Montenegro,Rural,Female,15 - 19,7514,42,0,7556
 2011,Montenegro,Rural,Female,20 - 24,6814,47,0,6861
 2011,Montenegro,Rural,Female,25 - 29,6659,42,0,6701
@@ -2919,7 +2803,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Montenegro,Rural,Female,80 - 84,1869,839,0,2708
 2011,Montenegro,Rural,Female,85 - 89,743,333,0,1076
 2017,Mozambique,Urban,Male,10 - 14,427549,104949,6044,538542
-2017,Mozambique,Urban,Male,10 +,2597648,366445,24698,2988791
 2017,Mozambique,Urban,Male,15 - 19,443631,45726,4800,494157
 2017,Mozambique,Urban,Male,20 - 24,387572,30745,3573,421890
 2017,Mozambique,Urban,Male,25 - 29,324233,27336,2474,354043
@@ -2935,7 +2818,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2017,Mozambique,Urban,Male,75 - 79,11435,5686,149,17270
 2017,Mozambique,Urban,Male,80 +,14713,7536,336,22585
 2017,Mozambique,Urban,Female,10 - 14,460033,107882,6661,574576
-2017,Mozambique,Urban,Female,10 +,2448831,770771,23802,3243404
 2017,Mozambique,Urban,Female,15 - 19,457484,65375,4644,527503
 2017,Mozambique,Urban,Female,20 - 24,425518,73834,3356,502708
 2017,Mozambique,Urban,Female,25 - 29,316259,69508,1990,387757
@@ -2951,7 +2833,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2017,Mozambique,Urban,Female,75 - 79,6078,16057,194,22329
 2017,Mozambique,Urban,Female,80 +,10305,23172,410,33887
 2017,Mozambique,Rural,Male,10 - 14,610893,555578,16353,1182824
-2017,Mozambique,Rural,Male,10 +,3246278,2107772,53403,5407453
 2017,Mozambique,Rural,Male,15 - 19,577314,279936,10058,867308
 2017,Mozambique,Rural,Male,20 - 24,458692,193165,6144,658001
 2017,Mozambique,Rural,Male,25 - 29,353080,160203,3809,517092
@@ -2967,7 +2848,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2017,Mozambique,Rural,Male,75 - 79,21060,32691,513,54264
 2017,Mozambique,Rural,Male,80 +,23669,42021,962,66652
 2017,Mozambique,Rural,Female,10 - 14,588421,531860,15811,1136092
-2017,Mozambique,Rural,Female,10 +,2437656,3661960,53462,6153078
 2017,Mozambique,Rural,Female,15 - 19,547850,427917,10216,985983
 2017,Mozambique,Rural,Female,20 - 24,421891,409188,6379,837458
 2017,Mozambique,Rural,Female,25 - 29,262219,348501,3931,614651
@@ -2983,7 +2863,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2017,Mozambique,Rural,Female,75 - 79,6452,58708,518,65678
 2017,Mozambique,Rural,Female,80 +,8619,76342,1021,85982
 2011,Namibia,Urban,Male,10 - 14,37878,1529,NA,39407
-2011,Namibia,Urban,Male,10 +,326077,13447,NA,339524
 2011,Namibia,Urban,Male,15 - 19,39053,1027,NA,40080
 2011,Namibia,Urban,Male,20 - 24,51465,1326,NA,52791
 2011,Namibia,Urban,Male,25 - 29,46486,1220,NA,47706
@@ -2998,7 +2877,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Namibia,Urban,Male,70 - 74,2087,442,NA,2529
 2011,Namibia,Urban,Male,75 - 79,1339,326,NA,1665
 2011,Namibia,Urban,Female,10 - 14,41735,1456,NA,43191
-2011,Namibia,Urban,Female,10 +,347880,16879,NA,364759
 2011,Namibia,Urban,Female,15 - 19,46559,1000,NA,47559
 2011,Namibia,Urban,Female,20 - 24,56548,1227,NA,57775
 2011,Namibia,Urban,Female,25 - 29,49221,1302,NA,50523
@@ -3015,7 +2893,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Namibia,Urban,Female,80 - 84,1285,470,NA,1755
 2011,Namibia,Urban,Female,85 - 89,747,318,NA,1065
 2011,Namibia,Rural,Male,10 - 14,73811,8417,NA,82228
-2011,Namibia,Rural,Male,10 +,346614,62159,NA,408773
 2011,Namibia,Rural,Male,15 - 19,70270,6303,NA,76573
 2011,Namibia,Rural,Male,20 - 24,45903,5811,NA,51714
 2011,Namibia,Rural,Male,25 - 29,31864,5141,NA,37005
@@ -3034,7 +2911,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Namibia,Rural,Male,90 - 94,949,998,NA,1947
 2011,Namibia,Rural,Male,95 +,667,798,NA,1465
 2011,Namibia,Rural,Female,10 - 14,74098,6285,NA,80383
-2011,Namibia,Rural,Female,10 +,381475,74912,NA,456387
 2011,Namibia,Rural,Female,15 - 19,69143,4220,NA,73363
 2011,Namibia,Rural,Female,20 - 24,46361,4223,NA,50584
 2011,Namibia,Rural,Female,25 - 29,35109,4129,NA,39238
@@ -3053,7 +2929,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Namibia,Rural,Female,90 - 94,1308,2425,NA,3733
 2011,Namibia,Rural,Female,95 +,1143,2210,NA,3353
 2021,Nepal,Urban,Male,10 - 14,930162,30583,173,960918
-2021,Nepal,Urban,Male,10 +,6519194,1175520,1072,7695786
 2021,Nepal,Urban,Male,15 - 19,948140,38790,129,987059
 2021,Nepal,Urban,Male,20 - 24,835848,46690,128,882666
 2021,Nepal,Urban,Male,25 - 29,707460,55356,135,762951
@@ -3068,7 +2943,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2021,Nepal,Urban,Male,70 - 74,86027,96155,40,182222
 2021,Nepal,Urban,Male,75 +,80542,111482,76,192100
 2021,Nepal,Urban,Female,10 - 14,857935,33043,143,891121
-2021,Nepal,Urban,Female,10 +,5795400,2482878,1546,8279824
 2021,Nepal,Urban,Female,15 - 19,905581,48186,131,953898
 2021,Nepal,Urban,Female,20 - 24,906567,89021,153,995741
 2021,Nepal,Urban,Female,25 - 29,792997,127229,150,920376
@@ -3083,7 +2957,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2021,Nepal,Urban,Female,70 - 74,27402,171771,138,199311
 2021,Nepal,Urban,Female,75 +,22622,192209,166,214997
 2021,Nepal,Rural,Male,10 - 14,516658,18238,140,535036
-2021,Nepal,Rural,Male,10 +,3003652,819265,918,3823835
 2021,Nepal,Rural,Male,15 - 19,485482,21867,115,507464
 2021,Nepal,Rural,Male,20 - 24,391164,27045,143,418352
 2021,Nepal,Rural,Male,25 - 29,325189,34002,100,359291
@@ -3098,7 +2971,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2021,Nepal,Rural,Male,70 - 74,38714,71083,35,109832
 2021,Nepal,Rural,Male,75 +,32908,81144,50,114102
 2021,Nepal,Rural,Female,10 - 14,503097,19582,111,522790
-2021,Nepal,Rural,Female,10 +,2556783,1601439,1201,4159423
 2021,Nepal,Rural,Female,15 - 19,489495,28365,123,517983
 2021,Nepal,Rural,Female,20 - 24,431298,54846,157,486301
 2021,Nepal,Rural,Female,25 - 29,333791,82832,108,416731
@@ -3112,12 +2984,7 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2021,Nepal,Rural,Female,65 - 69,15323,127717,80,143120
 2021,Nepal,Rural,Female,70 - 74,8249,109685,71,118005
 2021,Nepal,Rural,Female,75 +,5899,113526,102,119527
-2012,Niger,Urban,Male,15 +,510965,NA,NA,510965
-2012,Niger,Urban,Female,15 +,384184,NA,NA,384184
-2012,Niger,Rural,Male,15 +,1039927,NA,NA,1039927
-2012,Niger,Rural,Female,15 +,559319,NA,NA,559319
 2021,North Macedonia,Urban,Male,10 - 14,0,0,31505,31505
-2021,North Macedonia,Urban,Male,10 +,440871,2974,46345,490190
 2021,North Macedonia,Urban,Male,15 - 19,29411,221,1027,30659
 2021,North Macedonia,Urban,Male,20 - 24,28909,197,1828,30934
 2021,North Macedonia,Urban,Male,25 - 29,32068,242,2404,34714
@@ -3134,7 +3001,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2021,North Macedonia,Urban,Male,80 - 84,9225,94,104,9423
 2021,North Macedonia,Urban,Male,85 - 89,4376,60,50,4486
 2021,North Macedonia,Urban,Female,10 - 14,0,0,29827,29827
-2021,North Macedonia,Urban,Female,10 +,468545,6749,44119,519413
 2021,North Macedonia,Urban,Female,15 - 19,27890,200,1130,29220
 2021,North Macedonia,Urban,Female,20 - 24,27977,196,1719,29892
 2021,North Macedonia,Urban,Female,25 - 29,31852,277,2126,34255
@@ -3152,7 +3018,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2021,North Macedonia,Urban,Female,85 - 89,5994,447,83,6524
 2021,North Macedonia,Urban,Female,90 - 94,1434,147,36,1617
 2021,North Macedonia,Rural,Male,10 - 14,0,0,22892,22892
-2021,North Macedonia,Rural,Male,10 +,280863,2543,31141,314547
 2021,North Macedonia,Rural,Male,15 - 19,22139,99,508,22746
 2021,North Macedonia,Rural,Male,20 - 24,22624,96,871,23591
 2021,North Macedonia,Rural,Male,25 - 29,23352,137,1151,24640
@@ -3169,7 +3034,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2021,North Macedonia,Rural,Male,80 - 84,5276,162,57,5495
 2021,North Macedonia,Rural,Male,85 - 89,2149,116,27,2292
 2021,North Macedonia,Rural,Female,10 - 14,0,0,21284,21284
-2021,North Macedonia,Rural,Female,10 +,271016,6631,29077,306724
 2021,North Macedonia,Rural,Female,15 - 19,20853,76,481,21410
 2021,North Macedonia,Rural,Female,20 - 24,21008,108,1020,22136
 2021,North Macedonia,Rural,Female,25 - 29,21216,141,1179,22536
@@ -3186,7 +3050,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2021,North Macedonia,Rural,Female,80 - 84,6128,781,74,6983
 2021,North Macedonia,Rural,Female,85 - 89,2545,696,53,3294
 2020,Oman,Urban,Male,10 - 14,124624,453,3432,128509
-2020,Oman,Urban,Male,10 +,1925093,24023,16579,1965695
 2020,Oman,Urban,Male,15 - 19,96841,296,2614,99751
 2020,Oman,Urban,Male,20 - 24,139994,408,3150,143552
 2020,Oman,Urban,Male,25 - 29,306960,873,2709,310542
@@ -3204,7 +3067,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2020,Oman,Urban,Male,85 - 89,1828,1022,38,2888
 2020,Oman,Urban,Male,90 - 94,663,378,36,1077
 2020,Oman,Urban,Female,10 - 14,120441,276,3093,123810
-2020,Oman,Urban,Female,10 +,1016166,46165,13492,1075823
 2020,Oman,Urban,Female,15 - 19,92927,219,2244,95390
 2020,Oman,Urban,Female,20 - 24,93941,301,2127,96369
 2020,Oman,Urban,Female,25 - 29,128667,646,1923,131236
@@ -3222,7 +3084,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2020,Oman,Urban,Female,85 - 89,2176,1545,10,3731
 2020,Oman,Urban,Female,90 - 94,1006,754,5,1765
 2020,Oman,Rural,Male,10 - 14,39625,139,329,40093
-2020,Oman,Rural,Male,10 +,374868,13696,2058,390622
 2020,Oman,Rural,Male,15 - 19,31809,115,146,32070
 2020,Oman,Rural,Male,20 - 24,38105,153,163,38421
 2020,Oman,Rural,Male,25 - 29,57519,284,142,57945
@@ -3239,7 +3100,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2020,Oman,Rural,Male,80 - 84,2182,1458,66,3706
 2020,Oman,Rural,Male,85 - 89,985,707,28,1720
 2020,Oman,Rural,Female,10 - 14,37828,99,262,38189
-2020,Oman,Rural,Female,10 +,291531,22342,1488,315361
 2020,Oman,Rural,Female,15 - 19,30878,108,139,31125
 2020,Oman,Rural,Female,20 - 24,32897,174,71,33142
 2020,Oman,Rural,Female,25 - 29,39238,275,68,39581
@@ -3256,35 +3116,30 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2020,Oman,Rural,Female,80 - 84,1868,1465,6,3339
 2020,Oman,Rural,Female,85 - 89,1000,833,2,1835
 2023,Pakistan,Urban,Male,10 - 12,2930724,NA,NA,2930724
-2023,Pakistan,Urban,Male,10 +,28214857,NA,NA,28214857
 2023,Pakistan,Urban,Male,13 - 14,1913695,NA,NA,1913695
 2023,Pakistan,Urban,Male,15 - 24,7476361,NA,NA,7476361
 2023,Pakistan,Urban,Male,25 - 40,8358065,NA,NA,8358065
 2023,Pakistan,Urban,Male,41 - 60,5817189,NA,NA,5817189
 2023,Pakistan,Urban,Male,61 +,1718823,NA,NA,1718823
 2023,Pakistan,Urban,Female,10 - 12,2639587,NA,NA,2639587
-2023,Pakistan,Urban,Female,10 +,23096823,NA,NA,23096823
 2023,Pakistan,Urban,Female,13 - 14,1755957,NA,NA,1755957
 2023,Pakistan,Urban,Female,15 - 24,6686303,NA,NA,6686303
 2023,Pakistan,Urban,Female,25 - 40,7260347,NA,NA,7260347
 2023,Pakistan,Urban,Female,41 - 60,3893278,NA,NA,3893278
 2023,Pakistan,Urban,Female,61 +,861351,NA,NA,861351
 2023,Pakistan,Rural,Male,10 - 12,4217215,NA,NA,4217215
-2023,Pakistan,Rural,Male,10 +,31972729,NA,NA,31972729
 2023,Pakistan,Rural,Male,13 - 14,2675537,NA,NA,2675537
 2023,Pakistan,Rural,Male,15 - 24,9346500,NA,NA,9346500
 2023,Pakistan,Rural,Male,25 - 40,8829796,NA,NA,8829796
 2023,Pakistan,Rural,Male,41 - 60,5425850,NA,NA,5425850
 2023,Pakistan,Rural,Male,61 +,1477831,NA,NA,1477831
 2023,Pakistan,Rural,Female,10 - 12,3372200,NA,NA,3372200
-2023,Pakistan,Rural,Female,10 +,20855523,NA,NA,20855523
 2023,Pakistan,Rural,Female,13 - 14,2105732,NA,NA,2105732
 2023,Pakistan,Rural,Female,15 - 24,6910397,NA,NA,6910397
 2023,Pakistan,Rural,Female,25 - 40,5713284,NA,NA,5713284
 2023,Pakistan,Rural,Female,41 - 60,2331177,NA,NA,2331177
 2023,Pakistan,Rural,Female,61 +,422733,NA,NA,422733
 2017,Peru,Urban,Male,10 - 14,974061,10822,NA,984883
-2017,Peru,Urban,Male,10 +,9248653,140979,NA,9389632
 2017,Peru,Urban,Male,15 - 19,943131,5821,NA,948952
 2017,Peru,Urban,Male,20 - 24,1015291,6466,NA,1021757
 2017,Peru,Urban,Male,25 - 29,950716,6913,NA,957629
@@ -3303,7 +3158,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2017,Peru,Urban,Male,90 - 94,19093,2285,NA,21378
 2017,Peru,Urban,Male,95 - 99,4674,755,NA,5429
 2017,Peru,Urban,Female,10 - 14,953634,8911,NA,962545
-2017,Peru,Urban,Female,10 +,9583327,431950,NA,10015277
 2017,Peru,Urban,Female,15 - 19,948753,4916,NA,953669
 2017,Peru,Urban,Female,20 - 24,1056779,6678,NA,1063457
 2017,Peru,Urban,Female,25 - 29,1014913,9130,NA,1024043
@@ -3323,7 +3177,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2017,Peru,Urban,Female,95 - 99,6152,3206,NA,9358
 2017,Peru,Urban,Female,100 +,954,673,NA,1627
 2017,Peru,Rural,Male,10 - 14,334889,4346,NA,339235
-2017,Peru,Rural,Male,10 +,2250345,196486,NA,2446831
 2017,Peru,Rural,Male,15 - 19,264860,3707,NA,268567
 2017,Peru,Rural,Male,20 - 24,205311,4974,NA,210285
 2017,Peru,Rural,Male,25 - 29,195920,6400,NA,202320
@@ -3342,7 +3195,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2017,Peru,Rural,Male,90 - 94,3241,2570,NA,5811
 2017,Peru,Rural,Male,95 - 99,705,804,NA,1509
 2017,Peru,Rural,Female,10 - 14,322649,4115,NA,326764
-2017,Peru,Rural,Female,10 +,1868666,520854,NA,2389520
 2017,Peru,Rural,Female,15 - 19,246894,4396,NA,251290
 2017,Peru,Rural,Female,20 - 24,205370,7867,NA,213237
 2017,Peru,Rural,Female,25 - 29,189214,13114,NA,202328
@@ -3361,7 +3213,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2017,Peru,Rural,Female,90 - 94,1394,6524,NA,7918
 2017,Peru,Rural,Female,95 - 99,380,2153,NA,2533
 2020,Philippines,Urban,Male,10 - 14,2912824,20405,NA,2933229
-2020,Philippines,Urban,Male,10 +,23277529,189193,NA,23466722
 2020,Philippines,Urban,Male,15 - 19,2745403,15085,NA,2760488
 2020,Philippines,Urban,Male,20 - 24,2784714,16304,NA,2801018
 2020,Philippines,Urban,Male,25 - 29,2631677,16482,NA,2648159
@@ -3381,7 +3232,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2020,Philippines,Urban,Male,95 - 99,2414,293,NA,2707
 2020,Philippines,Urban,Male,100 +,1009,133,NA,1142
 2020,Philippines,Urban,Female,10 - 14,2738624,14285,NA,2752909
-2020,Philippines,Urban,Female,10 +,23417686,178173,NA,23595859
 2020,Philippines,Urban,Female,15 - 19,2660264,11242,NA,2671506
 2020,Philippines,Urban,Female,20 - 24,2748324,11638,NA,2759962
 2020,Philippines,Urban,Female,25 - 29,2583021,12649,NA,2595670
@@ -3401,7 +3251,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2020,Philippines,Urban,Female,95 - 99,7357,842,NA,8199
 2020,Philippines,Urban,Female,100 +,2045,289,NA,2334
 2020,Philippines,Rural,Male,10 - 14,2748016,35219,NA,2783235
-2020,Philippines,Rural,Male,10 +,19529517,468432,NA,19997949
 2020,Philippines,Rural,Male,15 - 19,2555374,28670,NA,2584044
 2020,Philippines,Rural,Male,20 - 24,2239937,32926,NA,2272863
 2020,Philippines,Rural,Male,25 - 29,1984729,36600,NA,2021329
@@ -3421,7 +3270,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2020,Philippines,Rural,Male,95 - 99,3054,757,NA,3811
 2020,Philippines,Rural,Male,100 +,1028,337,NA,1365
 2020,Philippines,Rural,Female,10 - 14,2585449,25893,NA,2611342
-2020,Philippines,Rural,Female,10 +,18865054,407929,NA,19272983
 2020,Philippines,Rural,Female,15 - 19,2421914,21234,NA,2443148
 2020,Philippines,Rural,Female,20 - 24,2112969,23034,NA,2136003
 2020,Philippines,Rural,Female,25 - 29,1882022,25716,NA,1907738
@@ -3441,7 +3289,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2020,Philippines,Rural,Female,95 - 99,7900,1935,NA,9835
 2020,Philippines,Rural,Female,100 +,1933,728,NA,2661
 2021,Portugal,Urban,Male,10 - 14,159395,657,NA,160052
-2021,Portugal,Urban,Male,10 +,2656260,38634,NA,2694894
 2021,Portugal,Urban,Male,15 - 19,168366,430,NA,168796
 2021,Portugal,Urban,Male,20 - 24,176922,840,NA,177762
 2021,Portugal,Urban,Male,25 - 29,175397,1150,NA,176547
@@ -3460,7 +3307,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2021,Portugal,Urban,Male,90 - 94,13160,1698,NA,14858
 2021,Portugal,Urban,Male,95 - 99,2512,364,NA,2876
 2021,Portugal,Urban,Female,10 - 14,152094,460,NA,152554
-2021,Portugal,Urban,Female,10 +,2991401,87459,NA,3078860
 2021,Portugal,Urban,Female,15 - 19,161051,280,NA,161331
 2021,Portugal,Urban,Female,20 - 24,172263,520,NA,172783
 2021,Portugal,Urban,Female,25 - 29,177080,823,NA,177903
@@ -3480,7 +3326,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2021,Portugal,Urban,Female,95 - 99,7111,2727,NA,9838
 2021,Portugal,Urban,Female,100 +,886,364,NA,1250
 2021,Portugal,Rural,Male,10 - 14,91196,315,NA,91511
-2021,Portugal,Rural,Male,10 +,1738863,55782,NA,1794645
 2021,Portugal,Rural,Male,15 - 19,101722,193,NA,101915
 2021,Portugal,Rural,Male,20 - 24,107286,414,NA,107700
 2021,Portugal,Rural,Male,25 - 29,96201,690,NA,96891
@@ -3499,7 +3344,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2021,Portugal,Rural,Male,90 - 94,10228,3708,NA,13936
 2021,Portugal,Rural,Male,95 - 99,1812,741,NA,2553
 2021,Portugal,Rural,Female,10 - 14,86542,241,NA,86783
-2021,Portugal,Rural,Female,10 +,1823445,110934,NA,1934379
 2021,Portugal,Rural,Female,15 - 19,96005,143,NA,96148
 2021,Portugal,Rural,Female,20 - 24,101330,322,NA,101652
 2021,Portugal,Rural,Female,25 - 29,90058,462,NA,90520
@@ -3519,7 +3363,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2021,Portugal,Rural,Female,95 - 99,4030,4077,NA,8107
 2021,Portugal,Rural,Female,100 +,495,552,NA,1047
 2014,Republic of Moldova,Urban,Male,10 - 14,20419,1434,NA,21853
-2014,Republic of Moldova,Urban,Male,10 +,387390,2638,NA,390028
 2014,Republic of Moldova,Urban,Male,15 - 19,29420,75,NA,29495
 2014,Republic of Moldova,Urban,Male,20 - 24,37682,117,NA,37799
 2014,Republic of Moldova,Urban,Male,25 - 29,44551,109,NA,44660
@@ -3536,7 +3379,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2014,Republic of Moldova,Urban,Male,80 - 84,3204,57,NA,3261
 2014,Republic of Moldova,Urban,Male,85 - 89,1306,28,NA,1334
 2014,Republic of Moldova,Urban,Female,10 - 14,19002,1328,NA,20330
-2014,Republic of Moldova,Urban,Female,10 +,447653,3759,NA,451412
 2014,Republic of Moldova,Urban,Female,15 - 19,28180,93,NA,28273
 2014,Republic of Moldova,Urban,Female,20 - 24,39409,112,NA,39521
 2014,Republic of Moldova,Urban,Female,25 - 29,45257,133,NA,45390
@@ -3553,7 +3395,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2014,Republic of Moldova,Urban,Female,80 - 84,6635,347,NA,6982
 2014,Republic of Moldova,Urban,Female,85 - 89,3311,248,NA,3559
 2014,Republic of Moldova,Rural,Male,10 - 14,51816,3606,NA,55422
-2014,Republic of Moldova,Rural,Male,10 +,784509,6796,NA,791305
 2014,Republic of Moldova,Rural,Male,15 - 19,64180,52,NA,64232
 2014,Republic of Moldova,Rural,Male,20 - 24,80411,166,NA,80577
 2014,Republic of Moldova,Rural,Male,25 - 29,84842,269,NA,85111
@@ -3570,7 +3411,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2014,Republic of Moldova,Rural,Male,80 - 84,9008,274,NA,9282
 2014,Republic of Moldova,Rural,Male,85 - 89,3318,149,NA,3467
 2014,Republic of Moldova,Rural,Female,10 - 14,49113,3309,NA,52422
-2014,Republic of Moldova,Rural,Female,10 +,828032,11348,NA,839380
 2014,Republic of Moldova,Rural,Female,15 - 19,61640,52,NA,61692
 2014,Republic of Moldova,Rural,Female,20 - 24,73139,117,NA,73256
 2014,Republic of Moldova,Rural,Female,25 - 29,76134,170,NA,76304
@@ -3587,68 +3427,116 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2014,Republic of Moldova,Rural,Female,80 - 84,16728,1727,NA,18455
 2014,Republic of Moldova,Rural,Female,85 - 89,6706,1436,NA,8142
 2014,Republic of Moldova,Rural,Female,90 - 94,1469,702,NA,2171
-2011,Romania,Urban,Male,10 - 14,251911,1715,NA,253626
-2011,Romania,Urban,Male,10 +,4619745,25527,NA,4645272
-2011,Romania,Urban,Male,15 - 19,273438,1412,NA,274850
-2011,Romania,Urban,Male,20 - 24,396179,3167,NA,399346
-2011,Romania,Urban,Male,25 - 29,390560,3545,NA,394105
-2011,Romania,Urban,Male,30 - 34,443137,3493,NA,446630
-2011,Romania,Urban,Male,35 - 39,416484,2406,NA,418890
-2011,Romania,Urban,Male,40 - 44,478167,1803,NA,479970
-2011,Romania,Urban,Male,45 - 49,297078,1148,NA,298226
-2011,Romania,Urban,Male,50 - 54,377040,1229,NA,378269
-2011,Romania,Urban,Male,55 - 59,410526,1114,NA,411640
-2011,Romania,Urban,Male,60 - 64,310813,893,NA,311706
-2011,Romania,Urban,Male,65 - 69,187265,752,NA,188017
-2011,Romania,Urban,Male,70 - 74,165025,885,NA,165910
-2011,Romania,Urban,Male,75 +,222122,1965,NA,224087
-2011,Romania,Urban,Female,10 - 14,240906,1662,NA,242568
-2011,Romania,Urban,Female,10 +,5119555,43269,NA,5162824
-2011,Romania,Urban,Female,15 - 19,267278,1474,NA,268752
-2011,Romania,Urban,Female,20 - 24,392405,3073,NA,395478
-2011,Romania,Urban,Female,25 - 29,386255,3958,NA,390213
-2011,Romania,Urban,Female,30 - 34,444843,4075,NA,448918
-2011,Romania,Urban,Female,35 - 39,427725,3096,NA,430821
-2011,Romania,Urban,Female,40 - 44,515475,2262,NA,517737
-2011,Romania,Urban,Female,45 - 49,330654,1714,NA,332368
-2011,Romania,Urban,Female,50 - 54,430326,1926,NA,432252
-2011,Romania,Urban,Female,55 - 59,462479,1896,NA,464375
-2011,Romania,Urban,Female,60 - 64,361251,1764,NA,363015
-2011,Romania,Urban,Female,65 - 69,238425,1659,NA,240084
-2011,Romania,Urban,Female,70 - 74,236979,3127,NA,240106
-2011,Romania,Urban,Female,75 +,384554,11583,NA,396137
-2011,Romania,Rural,Male,10 - 14,302713,3033,NA,305746
-2011,Romania,Rural,Male,10 +,4006437,57929,NA,4064366
-2011,Romania,Rural,Male,15 - 19,290593,2629,NA,293222
-2011,Romania,Rural,Male,20 - 24,299669,5337,NA,305006
-2011,Romania,Rural,Male,25 - 29,266624,5947,NA,272571
-2011,Romania,Rural,Male,30 - 34,320218,6164,NA,326382
-2011,Romania,Rural,Male,35 - 39,359327,4626,NA,363953
-2011,Romania,Rural,Male,40 - 44,403844,3755,NA,407599
-2011,Romania,Rural,Male,45 - 49,243422,2647,NA,246069
-2011,Romania,Rural,Male,50 - 54,273357,3115,NA,276472
-2011,Romania,Rural,Male,55 - 59,274357,2907,NA,277264
-2011,Romania,Rural,Male,60 - 64,258758,2384,NA,261142
-2011,Romania,Rural,Male,65 - 69,202691,2311,NA,205002
-2011,Romania,Rural,Male,70 - 74,201408,3598,NA,205006
-2011,Romania,Rural,Male,75 +,309456,9476,NA,318932
-2011,Romania,Rural,Female,10 - 14,285631,2655,NA,288286
-2011,Romania,Rural,Female,10 +,4031097,118662,NA,4149759
-2011,Romania,Rural,Female,15 - 19,269160,2469,NA,271629
-2011,Romania,Rural,Female,20 - 24,261250,5294,NA,266544
-2011,Romania,Rural,Female,25 - 29,239560,6628,NA,246188
-2011,Romania,Rural,Female,30 - 34,293923,6866,NA,300789
-2011,Romania,Rural,Female,35 - 39,319989,5244,NA,325233
-2011,Romania,Rural,Female,40 - 44,334123,4449,NA,338572
-2011,Romania,Rural,Female,45 - 49,196280,3315,NA,199595
-2011,Romania,Rural,Female,50 - 54,241090,4183,NA,245273
-2011,Romania,Rural,Female,55 - 59,290484,4280,NA,294764
-2011,Romania,Rural,Female,60 - 64,304018,4405,NA,308423
-2011,Romania,Rural,Female,65 - 69,251974,5263,NA,257237
-2011,Romania,Rural,Female,70 - 74,277098,13250,NA,290348
-2011,Romania,Rural,Female,75 +,466517,50361,NA,516878
+2011,Romania,Urban,Male,10 - 14,251911,NA,NA,251911
+2011,Romania,Urban,Male,10 - 14,NA,1715,NA,1715
+2011,Romania,Urban,Male,15 - 19,273438,NA,NA,273438
+2011,Romania,Urban,Male,15 - 19,NA,1412,NA,1412
+2011,Romania,Urban,Male,20 - 24,396179,NA,NA,396179
+2011,Romania,Urban,Male,20 - 24,NA,3167,NA,3167
+2011,Romania,Urban,Male,25 - 29,390560,NA,NA,390560
+2011,Romania,Urban,Male,25 - 29,NA,3545,NA,3545
+2011,Romania,Urban,Male,30 - 34,443137,NA,NA,443137
+2011,Romania,Urban,Male,30 - 34,NA,3493,NA,3493
+2011,Romania,Urban,Male,35 - 39,416484,NA,NA,416484
+2011,Romania,Urban,Male,35 - 39,NA,2406,NA,2406
+2011,Romania,Urban,Male,40 - 44,478167,NA,NA,478167
+2011,Romania,Urban,Male,40 - 44,NA,1803,NA,1803
+2011,Romania,Urban,Male,45 - 49,297078,NA,NA,297078
+2011,Romania,Urban,Male,45 - 49,NA,1148,NA,1148
+2011,Romania,Urban,Male,50 - 54,377040,NA,NA,377040
+2011,Romania,Urban,Male,50 - 54,NA,1229,NA,1229
+2011,Romania,Urban,Male,55 - 59,410526,NA,NA,410526
+2011,Romania,Urban,Male,55 - 59,NA,1114,NA,1114
+2011,Romania,Urban,Male,60 - 64,310813,NA,NA,310813
+2011,Romania,Urban,Male,65 - 69,187265,NA,NA,187265
+2011,Romania,Urban,Male,70 - 74,165025,NA,NA,165025
+2011,Romania,Urban,Male,75 +,222122,NA,NA,222122
+2011,Romania,Urban,Male,75 +,NA,1965,NA,1965
+2011,Romania,Urban,Female,10 - 14,240906,NA,NA,240906
+2011,Romania,Urban,Female,10 - 14,NA,1662,NA,1662
+2011,Romania,Urban,Female,15 - 19,267278,NA,NA,267278
+2011,Romania,Urban,Female,15 - 19,NA,1474,NA,1474
+2011,Romania,Urban,Female,20 - 24,392405,NA,NA,392405
+2011,Romania,Urban,Female,20 - 24,NA,3073,NA,3073
+2011,Romania,Urban,Female,25 - 29,386255,NA,NA,386255
+2011,Romania,Urban,Female,25 - 29,NA,3958,NA,3958
+2011,Romania,Urban,Female,30 - 34,444843,NA,NA,444843
+2011,Romania,Urban,Female,30 - 34,NA,4075,NA,4075
+2011,Romania,Urban,Female,35 - 39,427725,NA,NA,427725
+2011,Romania,Urban,Female,35 - 39,NA,3096,NA,3096
+2011,Romania,Urban,Female,40 - 44,515475,NA,NA,515475
+2011,Romania,Urban,Female,40 - 44,NA,2262,NA,2262
+2011,Romania,Urban,Female,45 - 49,330654,NA,NA,330654
+2011,Romania,Urban,Female,45 - 49,NA,1714,NA,1714
+2011,Romania,Urban,Female,50 - 54,430326,NA,NA,430326
+2011,Romania,Urban,Female,50 - 54,NA,1926,NA,1926
+2011,Romania,Urban,Female,55 - 59,462479,NA,NA,462479
+2011,Romania,Urban,Female,55 - 59,NA,1896,NA,1896
+2011,Romania,Urban,Female,60 - 64,361251,NA,NA,361251
+2011,Romania,Urban,Female,60 - 64,NA,1764,NA,1764
+2011,Romania,Urban,Female,65 - 69,238425,NA,NA,238425
+2011,Romania,Urban,Female,65 - 69,NA,1659,NA,1659
+2011,Romania,Urban,Female,70 - 74,236979,NA,NA,236979
+2011,Romania,Urban,Female,70 - 74,NA,3127,NA,3127
+2011,Romania,Urban,Female,75 +,384554,NA,NA,384554
+2011,Romania,Urban,Female,75 +,NA,11583,NA,11583
+2011,Romania,Rural,Male,10 - 14,302713,NA,NA,302713
+2011,Romania,Rural,Male,10 - 14,NA,3033,NA,3033
+2011,Romania,Rural,Male,15 - 19,290593,NA,NA,290593
+2011,Romania,Rural,Male,15 - 19,NA,2629,NA,2629
+2011,Romania,Rural,Male,20 - 24,299669,NA,NA,299669
+2011,Romania,Rural,Male,20 - 24,NA,5337,NA,5337
+2011,Romania,Rural,Male,25 - 29,266624,NA,NA,266624
+2011,Romania,Rural,Male,25 - 29,NA,5947,NA,5947
+2011,Romania,Rural,Male,30 - 34,320218,NA,NA,320218
+2011,Romania,Rural,Male,30 - 34,NA,6164,NA,6164
+2011,Romania,Rural,Male,35 - 39,359327,NA,NA,359327
+2011,Romania,Rural,Male,35 - 39,NA,4626,NA,4626
+2011,Romania,Rural,Male,40 - 44,403844,NA,NA,403844
+2011,Romania,Rural,Male,40 - 44,NA,3755,NA,3755
+2011,Romania,Rural,Male,45 - 49,243422,NA,NA,243422
+2011,Romania,Rural,Male,45 - 49,NA,2647,NA,2647
+2011,Romania,Rural,Male,50 - 54,273357,NA,NA,273357
+2011,Romania,Rural,Male,50 - 54,NA,3115,NA,3115
+2011,Romania,Rural,Male,55 - 59,274357,NA,NA,274357
+2011,Romania,Rural,Male,55 - 59,NA,2907,NA,2907
+2011,Romania,Rural,Male,60 - 64,258758,NA,NA,258758
+2011,Romania,Rural,Male,60 - 64,NA,2384,NA,2384
+2011,Romania,Rural,Male,65 - 69,202691,NA,NA,202691
+2011,Romania,Rural,Male,65 - 69,NA,2311,NA,2311
+2011,Romania,Rural,Male,70 - 74,201408,NA,NA,201408
+2011,Romania,Rural,Male,70 - 74,NA,3598,NA,3598
+2011,Romania,Rural,Male,75 +,309456,NA,NA,309456
+2011,Romania,Rural,Male,75 +,NA,9476,NA,9476
+2011,Romania,Rural,Female,10 - 14,285631,NA,NA,285631
+2011,Romania,Rural,Female,10 - 14,NA,2655,NA,2655
+2011,Romania,Rural,Female,15 - 19,269160,NA,NA,269160
+2011,Romania,Rural,Female,15 - 19,NA,2469,NA,2469
+2011,Romania,Rural,Female,20 - 24,261250,NA,NA,261250
+2011,Romania,Rural,Female,20 - 24,NA,5294,NA,5294
+2011,Romania,Rural,Female,25 - 29,239560,NA,NA,239560
+2011,Romania,Rural,Female,25 - 29,NA,6628,NA,6628
+2011,Romania,Rural,Female,30 - 34,293923,NA,NA,293923
+2011,Romania,Rural,Female,30 - 34,NA,6866,NA,6866
+2011,Romania,Rural,Female,35 - 39,319989,NA,NA,319989
+2011,Romania,Rural,Female,35 - 39,NA,5244,NA,5244
+2011,Romania,Rural,Female,40 - 44,334123,NA,NA,334123
+2011,Romania,Rural,Female,40 - 44,NA,4449,NA,4449
+2011,Romania,Rural,Female,45 - 49,196280,NA,NA,196280
+2011,Romania,Rural,Female,45 - 49,NA,3315,NA,3315
+2011,Romania,Rural,Female,50 - 54,241090,NA,NA,241090
+2011,Romania,Rural,Female,50 - 54,NA,4183,NA,4183
+2011,Romania,Rural,Female,55 - 59,290484,NA,NA,290484
+2011,Romania,Rural,Female,55 - 59,NA,4280,NA,4280
+2011,Romania,Rural,Female,60 - 64,304018,NA,NA,304018
+2011,Romania,Rural,Female,60 - 64,NA,4405,NA,4405
+2011,Romania,Rural,Female,65 - 69,251974,NA,NA,251974
+2011,Romania,Rural,Female,65 - 69,NA,5263,NA,5263
+2011,Romania,Rural,Female,70 - 74,277098,NA,NA,277098
+2011,Romania,Rural,Female,70 - 74,NA,13250,NA,13250
+2011,Romania,Rural,Female,75 +,466517,NA,NA,466517
+2011,Romania,Rural,Female,75 +,NA,50361,NA,50361
 2010,Russian Federation,Urban,Male,10 - 14,2237555,5497,73183,2316235
-2010,Russian Federation,Urban,Male,10 +,41008606,64115,1625145,42697866
 2010,Russian Federation,Urban,Male,15 - 19,3022382,6757,94842,3123981
 2010,Russian Federation,Urban,Male,20 - 24,4431543,8936,158755,4599234
 2010,Russian Federation,Urban,Male,25 - 29,4369610,8103,175272,4552985
@@ -3669,7 +3557,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2010,Russian Federation,Urban,Male,100 +,870,23,293,1186
 2010,Russian Federation,Urban,Male,Unknown,756,6,15372,16134
 2010,Russian Federation,Urban,Female,10 - 14,2130952,3992,72122,2207066
-2010,Russian Federation,Urban,Female,10 +,50058054,92117,1888978,52039149
 2010,Russian Federation,Urban,Female,15 - 19,2956442,4983,92532,3053957
 2010,Russian Federation,Urban,Female,20 - 24,4410508,6687,159787,4576982
 2010,Russian Federation,Urban,Female,25 - 29,4419805,6412,185927,4612144
@@ -3690,7 +3577,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2010,Russian Federation,Urban,Female,100 +,2997,421,527,3945
 2010,Russian Federation,Urban,Female,Unknown,530,4,16523,17057
 2010,Russian Federation,Rural,Male,10 - 14,1059442,4808,4683,1068933
-2010,Russian Federation,Rural,Male,10 +,15448999,91024,95113,15635136
 2010,Russian Federation,Rural,Male,15 - 19,1140488,7300,6124,1153912
 2010,Russian Federation,Rural,Male,20 - 24,1549495,11330,10115,1570940
 2010,Russian Federation,Rural,Male,25 - 29,1435109,10336,11341,1456786
@@ -3709,7 +3595,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2010,Russian Federation,Rural,Male,90 - 94,7959,292,62,8313
 2010,Russian Federation,Rural,Male,95 - 99,1642,123,14,1779
 2010,Russian Federation,Rural,Female,10 - 14,1009554,3388,4646,1017588
-2010,Russian Federation,Rural,Female,10 +,17191367,141873,92667,17425907
 2010,Russian Federation,Rural,Female,15 - 19,1046597,4848,6099,1057544
 2010,Russian Federation,Rural,Female,20 - 24,1404892,7298,10111,1422301
 2010,Russian Federation,Rural,Female,25 - 29,1342201,7113,10856,1360170
@@ -3729,7 +3614,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2010,Russian Federation,Rural,Female,95 - 99,10730,3699,102,14531
 2010,Russian Federation,Rural,Female,100 +,1064,875,3,1942
 2022,Rwanda,Urban,Male,15 - 19,171705,11473,NA,183178
-2022,Rwanda,Urban,Male,15 +,1109200,111627,NA,1220827
 2022,Rwanda,Urban,Male,20 - 24,181165,11028,NA,192193
 2022,Rwanda,Urban,Male,25 - 29,178196,10996,NA,189192
 2022,Rwanda,Urban,Male,30 - 34,165336,13629,NA,178965
@@ -3745,7 +3629,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Rwanda,Urban,Male,80 - 84,2285,1343,NA,3628
 2022,Rwanda,Urban,Male,85 +,1969,1220,NA,3189
 2022,Rwanda,Urban,Female,15 - 19,201412,8374,NA,209786
-2022,Rwanda,Urban,Female,15 +,1074889,137441,NA,1212330
 2022,Rwanda,Urban,Female,20 - 24,192510,8225,NA,200735
 2022,Rwanda,Urban,Female,25 - 29,173351,9210,NA,182561
 2022,Rwanda,Urban,Female,30 - 34,152208,14311,NA,166519
@@ -3761,7 +3644,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Rwanda,Urban,Female,80 - 84,2808,3804,NA,6612
 2022,Rwanda,Urban,Female,85 +,2548,4517,NA,7065
 2022,Rwanda,Rural,Male,15 - 19,481597,85388,NA,566985
-2022,Rwanda,Rural,Male,15 +,2089842,637268,NA,2727110
 2022,Rwanda,Rural,Male,20 - 24,322994,57356,NA,380350
 2022,Rwanda,Rural,Male,25 - 29,256579,48823,NA,305402
 2022,Rwanda,Rural,Male,30 - 34,224967,61812,NA,286779
@@ -3777,7 +3659,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Rwanda,Rural,Male,80 - 84,8287,8493,NA,16780
 2022,Rwanda,Rural,Male,85 +,6407,8819,NA,15226
 2022,Rwanda,Rural,Female,15 - 19,504048,45344,NA,549392
-2022,Rwanda,Rural,Female,15 +,2255207,874108,NA,3129315
 2022,Rwanda,Rural,Female,20 - 24,359390,41881,NA,401271
 2022,Rwanda,Rural,Female,25 - 29,285674,44478,NA,330152
 2022,Rwanda,Rural,Female,30 - 34,246527,71957,NA,318484
@@ -3793,20 +3674,17 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Rwanda,Rural,Female,80 - 84,6141,24838,NA,30979
 2022,Rwanda,Rural,Female,85 +,4649,24856,NA,29505
 2016,Samoa,Urban,Male,15 - 19,1857,5,NA,1862
-2016,Samoa,Urban,Male,15 +,11845,45,NA,11890
 2016,Samoa,Urban,Male,20 - 24,1688,4,NA,1692
 2016,Samoa,Urban,Male,25 - 29,1354,1,NA,1355
 2016,Samoa,Urban,Male,30 - 34,1221,1,NA,1222
 2016,Samoa,Urban,Male,35 - 39,1104,2,NA,1106
 2016,Samoa,Urban,Female,15 - 19,1891,1,NA,1892
-2016,Samoa,Urban,Female,15 +,12078,45,NA,12123
 2016,Samoa,Urban,Female,20 - 24,1685,2,NA,1687
 2016,Samoa,Urban,Female,25 - 29,1408,3,NA,1411
 2016,Samoa,Urban,Female,30 - 34,1240,3,NA,1243
 2016,Samoa,Urban,Female,35 - 39,1029,1,NA,1030
 2016,Samoa,Urban,Female,40 - 44,999,3,NA,1002
 2016,Samoa,Rural,Male,15 - 19,7925,28,NA,7953
-2016,Samoa,Rural,Male,15 +,48008,299,NA,48307
 2016,Samoa,Rural,Male,20 - 24,6310,23,NA,6333
 2016,Samoa,Rural,Male,25 - 29,5198,20,NA,5218
 2016,Samoa,Rural,Male,30 - 34,4704,23,NA,4727
@@ -3818,7 +3696,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2016,Samoa,Rural,Male,60 - 64,2039,14,NA,2053
 2016,Samoa,Rural,Male,65 - 69,1221,19,NA,1240
 2016,Samoa,Rural,Female,15 - 19,6980,25,NA,7005
-2016,Samoa,Rural,Female,15 +,45225,322,NA,45547
 2016,Samoa,Rural,Female,20 - 24,5941,18,NA,5959
 2016,Samoa,Rural,Female,25 - 29,5131,17,NA,5148
 2016,Samoa,Rural,Female,30 - 34,4532,15,NA,4547
@@ -3831,7 +3708,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2016,Samoa,Rural,Female,65 - 69,1293,13,NA,1306
 2016,Samoa,Rural,Female,70 - 74,1000,26,NA,1026
 2012,Sao Tome and Principe,Urban,Male,10 - 14,6867,161,NA,7028
-2012,Sao Tome and Principe,Urban,Male,10 +,39417,1550,NA,40967
 2012,Sao Tome and Principe,Urban,Male,15 - 19,5975,140,NA,6115
 2012,Sao Tome and Principe,Urban,Male,20 - 24,5139,150,NA,5289
 2012,Sao Tome and Principe,Urban,Male,25 - 29,4805,175,NA,4980
@@ -3842,7 +3718,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2012,Sao Tome and Principe,Urban,Male,50 - 54,1683,86,NA,1769
 2012,Sao Tome and Principe,Urban,Male,55 - 59,1175,79,NA,1254
 2012,Sao Tome and Principe,Urban,Female,10 - 14,7094,140,NA,7234
-2012,Sao Tome and Principe,Urban,Female,10 +,38733,4807,NA,43540
 2012,Sao Tome and Principe,Urban,Female,15 - 19,6079,167,NA,6246
 2012,Sao Tome and Principe,Urban,Female,20 - 24,5313,238,NA,5551
 2012,Sao Tome and Principe,Urban,Female,25 - 29,4954,292,NA,5246
@@ -3853,7 +3728,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2012,Sao Tome and Principe,Urban,Female,50 - 54,1467,468,NA,1935
 2012,Sao Tome and Principe,Urban,Female,55 - 59,888,521,NA,1409
 2012,Sao Tome and Principe,Rural,Male,10 - 14,3577,121,NA,3698
-2012,Sao Tome and Principe,Rural,Male,10 +,19875,1333,NA,21208
 2012,Sao Tome and Principe,Rural,Male,15 - 19,3140,98,NA,3238
 2012,Sao Tome and Principe,Rural,Male,20 - 24,2575,114,NA,2689
 2012,Sao Tome and Principe,Rural,Male,25 - 29,2276,110,NA,2386
@@ -3862,7 +3736,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2012,Sao Tome and Principe,Rural,Male,40 - 44,1341,63,NA,1404
 2012,Sao Tome and Principe,Rural,Male,45 - 49,965,49,NA,1014
 2012,Sao Tome and Principe,Rural,Female,10 - 14,3401,66,NA,3467
-2012,Sao Tome and Principe,Rural,Female,10 +,16774,3058,NA,19832
 2012,Sao Tome and Principe,Rural,Female,15 - 19,2772,86,NA,2858
 2012,Sao Tome and Principe,Rural,Female,20 - 24,2316,129,NA,2445
 2012,Sao Tome and Principe,Rural,Female,25 - 29,2018,185,NA,2203
@@ -3870,7 +3743,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2012,Sao Tome and Principe,Rural,Female,35 - 39,1423,159,NA,1582
 2012,Sao Tome and Principe,Rural,Female,40 - 44,1084,155,NA,1239
 2022,Serbia,Urban,Male,10 - 14,105898,154,NA,106052
-2022,Serbia,Urban,Male,10 +,1743495,4316,NA,1747811
 2022,Serbia,Urban,Male,15 - 19,105903,209,NA,106112
 2022,Serbia,Urban,Male,20 - 24,105642,261,NA,105903
 2022,Serbia,Urban,Male,25 - 29,118271,343,NA,118614
@@ -3888,7 +3760,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Serbia,Urban,Male,85 - 89,19375,50,NA,19425
 2022,Serbia,Urban,Male,90 - 94,4664,49,NA,4713
 2022,Serbia,Urban,Female,10 - 14,99793,164,NA,99957
-2022,Serbia,Urban,Female,10 +,1953925,10418,NA,1964343
 2022,Serbia,Urban,Female,15 - 19,102216,188,NA,102404
 2022,Serbia,Urban,Female,20 - 24,103926,261,NA,104187
 2022,Serbia,Urban,Female,25 - 29,118808,387,NA,119195
@@ -3907,7 +3778,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Serbia,Urban,Female,90 - 94,9080,612,NA,9692
 2022,Serbia,Urban,Female,95 - 99,1278,104,NA,1382
 2022,Serbia,Rural,Male,10 - 14,60518,170,NA,60688
-2022,Serbia,Rural,Male,10 +,1152008,6660,NA,1158668
 2022,Serbia,Rural,Male,15 - 19,66708,166,NA,66874
 2022,Serbia,Rural,Male,20 - 24,65790,320,NA,66110
 2022,Serbia,Rural,Male,25 - 29,71374,426,NA,71800
@@ -3925,7 +3795,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Serbia,Rural,Male,85 - 89,13228,288,NA,13516
 2022,Serbia,Rural,Male,90 - 94,3464,130,NA,3594
 2022,Serbia,Rural,Female,10 - 14,56506,119,NA,56625
-2022,Serbia,Rural,Female,10 +,1127489,16562,NA,1144051
 2022,Serbia,Rural,Female,15 - 19,61824,137,NA,61961
 2022,Serbia,Rural,Female,20 - 24,60676,229,NA,60905
 2022,Serbia,Rural,Female,25 - 29,63090,388,NA,63478
@@ -3943,7 +3812,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Serbia,Rural,Female,85 - 89,19713,3153,NA,22866
 2022,Serbia,Rural,Female,90 - 94,5149,1394,NA,6543
 2022,South Africa,Urban,Male,10 - 14,550419,933731,14739,1498889
-2022,South Africa,Urban,Male,10 +,12912936,2135671,800544,15849151
 2022,South Africa,Urban,Male,15 - 19,1300506,68092,39099,1407697
 2022,South Africa,Urban,Male,20 - 24,1567130,68806,52689,1688625
 2022,South Africa,Urban,Male,25 - 29,1679809,91828,84136,1855773
@@ -3962,7 +3830,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,South Africa,Urban,Male,90 - 94,5420,2474,1047,8941
 2022,South Africa,Urban,Male,95 - 99,1913,1037,897,3847
 2022,South Africa,Urban,Female,10 - 14,640911,842605,12495,1496011
-2022,South Africa,Urban,Female,10 +,13745970,2174068,701598,16621636
 2022,South Africa,Urban,Female,15 - 19,1343067,42201,40356,1425624
 2022,South Africa,Urban,Female,20 - 24,1571687,47010,44738,1663435
 2022,South Africa,Urban,Female,25 - 29,1722612,66922,64036,1853570
@@ -3982,7 +3849,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,South Africa,Urban,Female,95 - 99,3229,3147,1478,7854
 2022,South Africa,Urban,Female,100 +,677,1424,391,2492
 2022,South Africa,Rural,Male,10 - 14,422202,751905,9840,1183947
-2022,South Africa,Rural,Male,10 +,5701763,2032870,525544,8260177
 2022,South Africa,Rural,Male,15 - 19,960028,67382,22022,1049432
 2022,South Africa,Rural,Male,20 - 24,825866,58464,35675,920005
 2022,South Africa,Rural,Male,25 - 29,755702,88255,59809,903766
@@ -4002,7 +3868,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,South Africa,Rural,Male,95 - 99,1025,2341,695,4061
 2022,South Africa,Rural,Male,100 +,194,1004,143,1341
 2022,South Africa,Rural,Female,10 - 14,514687,643785,8331,1166803
-2022,South Africa,Rural,Female,10 +,6541910,2400383,494718,9437011
 2022,South Africa,Rural,Female,15 - 19,945853,38842,20321,1005016
 2022,South Africa,Rural,Female,20 - 24,848675,41431,28955,919061
 2022,South Africa,Rural,Female,25 - 29,874624,72018,47267,993909
@@ -4022,7 +3887,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,South Africa,Rural,Female,95 - 99,1383,9328,1322,12033
 2022,South Africa,Rural,Female,100 +,327,5377,557,6261
 2012,Sri Lanka,Urban,Male,10 - 14,144955,685,NA,145640
-2012,Sri Lanka,Urban,Male,10 +,1485943,24806,NA,1510749
 2012,Sri Lanka,Urban,Male,15 - 19,154644,902,NA,155546
 2012,Sri Lanka,Urban,Male,20 - 24,150719,947,NA,151666
 2012,Sri Lanka,Urban,Male,25 - 29,141077,1310,NA,142387
@@ -4038,7 +3902,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2012,Sri Lanka,Urban,Male,75 - 79,20264,772,NA,21036
 2012,Sri Lanka,Urban,Male,80 +,18964,945,NA,19909
 2012,Sri Lanka,Urban,Female,10 - 14,140448,565,NA,141013
-2012,Sri Lanka,Urban,Female,10 +,1573298,46236,NA,1619534
 2012,Sri Lanka,Urban,Female,15 - 19,150345,763,NA,151108
 2012,Sri Lanka,Urban,Female,20 - 24,156041,898,NA,156939
 2012,Sri Lanka,Urban,Female,25 - 29,147280,1158,NA,148438
@@ -4054,7 +3917,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2012,Sri Lanka,Urban,Female,75 - 79,27894,3157,NA,31051
 2012,Sri Lanka,Urban,Female,80 +,29278,3890,NA,33168
 2012,Sri Lanka,Rural,Male,10 - 14,678362,5067,NA,683429
-2012,Sri Lanka,Rural,Male,10 +,6355344,229210,NA,6584554
 2012,Sri Lanka,Rural,Male,15 - 19,658583,5798,NA,664381
 2012,Sri Lanka,Rural,Male,20 - 24,583589,7061,NA,590650
 2012,Sri Lanka,Rural,Male,25 - 29,592104,9019,NA,601123
@@ -4070,7 +3932,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2012,Sri Lanka,Rural,Male,75 - 79,85560,9793,NA,95353
 2012,Sri Lanka,Rural,Male,80 +,77795,10520,NA,88315
 2012,Sri Lanka,Rural,Female,10 - 14,665834,4136,NA,669970
-2012,Sri Lanka,Rural,Female,10 +,6727682,425306,NA,7152988
 2012,Sri Lanka,Rural,Female,15 - 19,668401,4813,NA,673214
 2012,Sri Lanka,Rural,Female,20 - 24,627396,6232,NA,633628
 2012,Sri Lanka,Rural,Female,25 - 29,652144,8756,NA,660900
@@ -4086,7 +3947,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2012,Sri Lanka,Rural,Female,75 - 79,100178,35568,NA,135746
 2012,Sri Lanka,Rural,Female,80 +,94139,38243,NA,132382
 2017,State of Palestine,Urban,Male,10 - 14,237437,1511,39,238987
-2017,State of Palestine,Urban,Male,10 +,1443942,21794,14796,1480532
 2017,State of Palestine,Urban,Male,15 - 19,210622,1338,55,212015
 2017,State of Palestine,Urban,Male,20 - 24,206777,1547,74,208398
 2017,State of Palestine,Urban,Male,25 - 29,174842,1412,118,176372
@@ -4104,7 +3964,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2017,State of Palestine,Urban,Male,85 - 89,1561,999,1,2561
 2017,State of Palestine,Urban,Male,Unknown,0,0,13842,13842
 2017,State of Palestine,Urban,Female,10 - 14,227166,1073,41,228280
-2017,State of Palestine,Urban,Female,10 +,1371216,56012,9673,1436901
 2017,State of Palestine,Urban,Female,15 - 19,202025,961,48,203034
 2017,State of Palestine,Urban,Female,20 - 24,198951,979,19,199949
 2017,State of Palestine,Urban,Female,25 - 29,168471,1086,40,169597
@@ -4123,7 +3982,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2017,State of Palestine,Urban,Female,90 - 94,242,1251,1,1494
 2017,State of Palestine,Urban,Female,Unknown,0,0,9273,9273
 2017,State of Palestine,Rural,Male,10 - 14,39283,240,3,39526
-2017,State of Palestine,Rural,Male,10 +,250247,4547,4597,259391
 2017,State of Palestine,Rural,Male,15 - 19,36898,241,5,37144
 2017,State of Palestine,Rural,Male,20 - 24,36139,230,2,36371
 2017,State of Palestine,Rural,Male,25 - 29,30069,207,4,30280
@@ -4140,7 +3998,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2017,State of Palestine,Rural,Male,80 - 84,692,379,0,1071
 2017,State of Palestine,Rural,Male,Unknown,0,0,4564,4564
 2017,State of Palestine,Rural,Female,10 - 14,37665,200,1,37866
-2017,State of Palestine,Rural,Female,10 +,230136,16121,3988,250245
 2017,State of Palestine,Rural,Female,15 - 19,35487,172,3,35662
 2017,State of Palestine,Rural,Female,20 - 24,33544,185,2,33731
 2017,State of Palestine,Rural,Female,25 - 29,27885,203,4,28092
@@ -4157,7 +4014,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2017,State of Palestine,Rural,Female,80 - 84,152,1524,0,1676
 2017,State of Palestine,Rural,Female,Unknown,0,0,3966,3966
 2020,Tajikistan,Urban,Male,10 - 14,129617,393,NA,130010
-2020,Tajikistan,Urban,Male,10 +,1004675,1716,NA,1006391
 2020,Tajikistan,Urban,Male,15 - 19,132407,225,NA,132632
 2020,Tajikistan,Urban,Male,20 - 24,146074,192,NA,146266
 2020,Tajikistan,Urban,Male,25 - 29,104452,161,NA,104613
@@ -4171,7 +4027,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2020,Tajikistan,Urban,Male,65 - 69,19881,38,NA,19919
 2020,Tajikistan,Urban,Male,70 +,21083,48,NA,21131
 2020,Tajikistan,Urban,Female,10 - 14,123808,391,NA,124199
-2020,Tajikistan,Urban,Female,10 +,991105,2203,NA,993308
 2020,Tajikistan,Urban,Female,15 - 19,122885,261,NA,123146
 2020,Tajikistan,Urban,Female,20 - 24,129651,223,NA,129874
 2020,Tajikistan,Urban,Female,25 - 29,102923,224,NA,103147
@@ -4185,7 +4040,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2020,Tajikistan,Urban,Female,65 - 69,22076,63,NA,22139
 2020,Tajikistan,Urban,Female,70 +,23480,103,NA,23583
 2020,Tajikistan,Rural,Male,10 - 14,387186,1352,NA,388538
-2020,Tajikistan,Rural,Male,10 +,2599503,4667,NA,2604170
 2020,Tajikistan,Rural,Male,15 - 19,282467,497,NA,282964
 2020,Tajikistan,Rural,Male,20 - 24,304487,480,NA,304967
 2020,Tajikistan,Rural,Male,25 - 29,307558,430,NA,307988
@@ -4199,7 +4053,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2020,Tajikistan,Rural,Male,65 - 69,52923,113,NA,53036
 2020,Tajikistan,Rural,Male,70 +,64594,180,NA,64774
 2020,Tajikistan,Rural,Female,10 - 14,358331,1199,NA,359530
-2020,Tajikistan,Rural,Female,10 +,2554919,5415,NA,2560334
 2020,Tajikistan,Rural,Female,15 - 19,302788,567,NA,303355
 2020,Tajikistan,Rural,Female,20 - 24,310604,605,NA,311209
 2020,Tajikistan,Rural,Female,25 - 29,298047,499,NA,298546
@@ -4213,7 +4066,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2020,Tajikistan,Rural,Female,65 - 69,53590,137,NA,53727
 2020,Tajikistan,Rural,Female,70 +,62929,323,NA,63252
 2010,Thailand,Urban,Male,10 - 14,923213,6240,79,929532
-2010,Thailand,Urban,Male,10 +,12181687,435451,64773,12681911
 2010,Thailand,Urban,Male,15 - 19,1049546,22731,3235,1075512
 2010,Thailand,Urban,Male,20 - 24,1143562,57400,6553,1207515
 2010,Thailand,Urban,Male,25 - 29,1228817,76983,8629,1314429
@@ -4227,7 +4079,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2010,Thailand,Urban,Male,65 - 69,335805,17020,2312,355137
 2010,Thailand,Urban,Male,70 +,587525,36933,7261,631719
 2010,Thailand,Urban,Female,10 - 14,884660,5782,32,890474
-2010,Thailand,Urban,Female,10 +,13142781,410040,70799,13623620
 2010,Thailand,Urban,Female,15 - 19,1078937,25741,2806,1107484
 2010,Thailand,Urban,Female,20 - 24,1207458,59907,7164,1274529
 2010,Thailand,Urban,Female,25 - 29,1309078,64684,10242,1384004
@@ -4241,7 +4092,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2010,Thailand,Urban,Female,65 - 69,398771,13592,2640,415003
 2010,Thailand,Urban,Female,70 +,787357,72839,10749,870945
 2010,Thailand,Rural,Male,10 - 14,1554445,10468,25,1564938
-2010,Thailand,Rural,Male,10 +,15144564,499853,11910,15656327
 2010,Thailand,Rural,Male,15 - 19,1362162,26360,769,1389291
 2010,Thailand,Rural,Male,20 - 24,1097021,55134,1618,1153773
 2010,Thailand,Rural,Male,25 - 29,1143870,69484,1857,1215211
@@ -4255,7 +4105,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2010,Thailand,Rural,Male,65 - 69,527701,19625,220,547546
 2010,Thailand,Rural,Male,70 +,934496,67901,1482,1003879
 2010,Thailand,Rural,Female,10 - 14,1471342,7937,21,1479300
-2010,Thailand,Rural,Female,10 +,15607902,581691,8683,16198276
 2010,Thailand,Rural,Female,15 - 19,1304334,23648,318,1328300
 2010,Thailand,Rural,Female,20 - 24,1000116,54647,931,1055694
 2010,Thailand,Rural,Female,25 - 29,1118711,58976,1280,1178967
@@ -4269,7 +4118,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2010,Thailand,Rural,Female,65 - 69,585458,30079,141,615678
 2010,Thailand,Rural,Female,70 +,1162972,138292,1645,1302909
 2022,Timor-Leste,Urban,Male,10 - 14,17602,1796,NA,19398
-2022,Timor-Leste,Urban,Male,10 +,133323,16076,NA,149399
 2022,Timor-Leste,Urban,Male,15 - 19,21232,1518,NA,22750
 2022,Timor-Leste,Urban,Male,20 - 24,21824,1532,NA,23356
 2022,Timor-Leste,Urban,Male,25 - 29,16796,1381,NA,18177
@@ -4283,7 +4131,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Timor-Leste,Urban,Male,65 - 69,1220,651,NA,1871
 2022,Timor-Leste,Urban,Male,70 - 74,651,574,NA,1225
 2022,Timor-Leste,Urban,Female,10 - 14,16824,1478,NA,18302
-2022,Timor-Leste,Urban,Female,10 +,127541,19129,NA,146670
 2022,Timor-Leste,Urban,Female,15 - 19,21771,1268,NA,23039
 2022,Timor-Leste,Urban,Female,20 - 24,23292,1318,NA,24610
 2022,Timor-Leste,Urban,Female,25 - 29,17626,1267,NA,18893
@@ -4298,7 +4145,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Timor-Leste,Urban,Female,70 - 74,420,1145,NA,1565
 2022,Timor-Leste,Urban,Female,75 - 79,238,836,NA,1074
 2022,Timor-Leste,Rural,Male,10 - 14,46163,10002,NA,56165
-2022,Timor-Leste,Rural,Male,10 +,253150,114604,NA,367754
 2022,Timor-Leste,Rural,Male,15 - 19,48553,8965,NA,57518
 2022,Timor-Leste,Rural,Male,20 - 24,35699,8041,NA,43740
 2022,Timor-Leste,Rural,Male,25 - 29,28343,8179,NA,36522
@@ -4315,7 +4161,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Timor-Leste,Rural,Male,80 - 84,347,3015,NA,3362
 2022,Timor-Leste,Rural,Male,85 +,169,1459,NA,1628
 2022,Timor-Leste,Rural,Female,10 - 14,45496,8150,NA,53646
-2022,Timor-Leste,Rural,Female,10 +,225322,132336,NA,357658
 2022,Timor-Leste,Rural,Female,15 - 19,47083,7061,NA,54144
 2022,Timor-Leste,Rural,Female,20 - 24,33761,7074,NA,40835
 2022,Timor-Leste,Rural,Female,25 - 29,27843,8118,NA,35961
@@ -4332,7 +4177,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Timor-Leste,Rural,Female,80 - 84,172,3792,NA,3964
 2022,Timor-Leste,Rural,Female,85 +,79,2034,NA,2113
 2022,Togo,Urban,Male,10 - 14,194128,6466,475,201069
-2022,Togo,Urban,Male,10 +,1168308,91682,2715,1262705
 2022,Togo,Urban,Male,15 - 19,182061,7637,416,190114
 2022,Togo,Urban,Male,20 - 24,155039,9043,393,164475
 2022,Togo,Urban,Male,25 - 29,123970,8002,259,132231
@@ -4350,7 +4194,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Togo,Urban,Male,85 - 89,734,450,4,1188
 2022,Togo,Urban,Male,Unknown,6996,0,0,6996
 2022,Togo,Urban,Female,10 - 14,202951,8614,521,212086
-2022,Togo,Urban,Female,10 +,1116553,249896,2943,1369392
 2022,Togo,Urban,Female,15 - 19,189320,12240,446,202006
 2022,Togo,Urban,Female,20 - 24,161410,17310,363,179083
 2022,Togo,Urban,Female,25 - 29,129286,21297,291,150874
@@ -4371,7 +4214,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Togo,Urban,Female,100 +,300,945,8,1253
 2022,Togo,Urban,Female,Unknown,5975,0,0,5975
 2022,Togo,Rural,Male,10 - 14,292326,45874,335,338535
-2022,Togo,Rural,Male,10 +,1111791,389708,1442,1502941
 2022,Togo,Rural,Male,15 - 19,196224,30019,209,226452
 2022,Togo,Rural,Male,20 - 24,117655,28566,183,146404
 2022,Togo,Rural,Male,25 - 29,91650,30399,135,122184
@@ -4392,7 +4234,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Togo,Rural,Male,100 +,372,1622,0,1994
 2022,Togo,Rural,Male,Unknown,5236,0,0,5236
 2022,Togo,Rural,Female,10 - 14,255561,43307,267,299135
-2022,Togo,Rural,Female,10 +,909451,736364,1542,1647357
 2022,Togo,Rural,Female,15 - 19,169014,40171,226,209411
 2022,Togo,Rural,Female,20 - 24,122871,60798,191,183860
 2022,Togo,Rural,Female,25 - 29,87740,68466,132,156338
@@ -4413,15 +4254,12 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,Togo,Rural,Female,100 +,349,3194,2,3545
 2022,Togo,Rural,Female,Unknown,5975,0,0,5975
 2016,Tonga,Urban,Male,10 - 14,1219,42,NA,1261
-2016,Tonga,Urban,Male,10 +,8256,626,NA,8882
 2016,Tonga,Urban,Male,15 - 19,1208,63,NA,1271
 2016,Tonga,Urban,Male,20 - 24,982,54,NA,1036
 2016,Tonga,Urban,Female,10 - 14,1250,55,NA,1305
-2016,Tonga,Urban,Female,10 +,8825,572,NA,9397
 2016,Tonga,Urban,Female,15 - 19,1111,34,NA,1145
 2016,Tonga,Urban,Female,20 - 24,1016,44,NA,1060
 2016,Tonga,Rural,Male,10 - 14,4843,29,NA,4872
-2016,Tonga,Rural,Male,10 +,27820,428,NA,28248
 2016,Tonga,Rural,Male,15 - 19,4142,29,NA,4171
 2016,Tonga,Rural,Male,20 - 24,3019,30,NA,3049
 2016,Tonga,Rural,Male,25 - 29,2204,38,NA,2242
@@ -4432,7 +4270,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2016,Tonga,Rural,Male,50 - 54,1547,36,NA,1583
 2016,Tonga,Rural,Male,55 - 59,1163,26,NA,1189
 2016,Tonga,Rural,Female,10 - 14,4413,22,NA,4435
-2016,Tonga,Rural,Female,10 +,28722,376,NA,29098
 2016,Tonga,Rural,Female,15 - 19,3873,33,NA,3906
 2016,Tonga,Rural,Female,20 - 24,3028,29,NA,3057
 2016,Tonga,Rural,Female,25 - 29,2535,35,NA,2570
@@ -4444,7 +4281,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2016,Tonga,Rural,Female,55 - 59,1218,23,NA,1241
 2016,Tonga,Rural,Female,60 - 64,1035,14,NA,1049
 2022,United Republic of Tanzania,Urban,Male,10 - 14,1099181,56853,NA,1156034
-2022,United Republic of Tanzania,Urban,Male,10 +,7217864,351628,NA,7569492
 2022,United Republic of Tanzania,Urban,Male,15 - 19,997460,37351,NA,1034811
 2022,United Republic of Tanzania,Urban,Male,20 - 24,1007422,36687,NA,1044109
 2022,United Republic of Tanzania,Urban,Male,25 - 29,937336,30293,NA,967629
@@ -4460,7 +4296,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,United Republic of Tanzania,Urban,Male,75 - 79,35722,7121,NA,42843
 2022,United Republic of Tanzania,Urban,Male,80 +,39578,14672,NA,54250
 2022,United Republic of Tanzania,Urban,Female,10 - 14,1180940,43465,NA,1224405
-2022,United Republic of Tanzania,Urban,Female,10 +,7766048,637471,NA,8403519
 2022,United Republic of Tanzania,Urban,Female,15 - 19,1182384,38572,NA,1220956
 2022,United Republic of Tanzania,Urban,Female,20 - 24,1224941,49545,NA,1274486
 2022,United Republic of Tanzania,Urban,Female,25 - 29,1063605,43826,NA,1107431
@@ -4476,7 +4311,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,United Republic of Tanzania,Urban,Female,75 - 79,29870,23915,NA,53785
 2022,United Republic of Tanzania,Urban,Female,80 +,41964,53733,NA,95697
 2022,United Republic of Tanzania,Rural,Male,10 - 14,2291207,588345,NA,2879552
-2022,United Republic of Tanzania,Rural,Male,10 +,10810570,2515504,NA,13326074
 2022,United Republic of Tanzania,Rural,Male,15 - 19,1738359,323415,NA,2061774
 2022,United Republic of Tanzania,Rural,Male,20 - 24,1256695,259980,NA,1516675
 2022,United Republic of Tanzania,Rural,Male,25 - 29,1063803,189120,NA,1252923
@@ -4492,7 +4326,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,United Republic of Tanzania,Rural,Male,75 - 79,80948,42585,NA,123533
 2022,United Republic of Tanzania,Rural,Male,80 +,104177,88007,NA,192184
 2022,United Republic of Tanzania,Rural,Female,10 - 14,2325039,412209,NA,2737248
-2022,United Republic of Tanzania,Rural,Female,10 +,10438399,3600886,NA,14039285
 2022,United Republic of Tanzania,Rural,Female,15 - 19,1669215,295637,NA,1964852
 2022,United Republic of Tanzania,Rural,Female,20 - 24,1381537,349148,NA,1730685
 2022,United Republic of Tanzania,Rural,Female,25 - 29,1118314,281854,NA,1400168
@@ -4508,7 +4341,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2022,United Republic of Tanzania,Rural,Female,75 - 79,50897,103264,NA,154161
 2022,United Republic of Tanzania,Rural,Female,80 +,72689,220903,NA,293592
 2011,Uruguay,Urban,Male,10 - 14,118244,2101,3767,124112
-2011,Uruguay,Urban,Male,10 +,1193163,21669,40927,1255759
 2011,Uruguay,Urban,Male,15 - 19,119974,1450,4231,125655
 2011,Uruguay,Urban,Male,20 - 24,107644,1203,3779,112626
 2011,Uruguay,Urban,Male,25 - 29,101267,1283,3386,105936
@@ -4526,7 +4358,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Uruguay,Urban,Male,85 - 89,9486,698,704,10888
 2011,Uruguay,Urban,Male,90 - 94,2858,257,317,3432
 2011,Uruguay,Urban,Female,10 - 14,114596,1076,3551,119223
-2011,Uruguay,Urban,Female,10 +,1354655,16380,47466,1418501
 2011,Uruguay,Urban,Female,15 - 19,118376,679,3863,122918
 2011,Uruguay,Urban,Female,20 - 24,112264,707,3457,116428
 2011,Uruguay,Urban,Female,25 - 29,106593,684,3328,110605
@@ -4545,7 +4376,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Uruguay,Urban,Female,90 - 94,8147,532,1488,10167
 2011,Uruguay,Urban,Female,95 - 99,2036,169,522,2727
 2011,Uruguay,Rural,Male,10 - 14,6483,83,159,6725
-2011,Uruguay,Rural,Male,10 +,74169,2688,10091,86948
 2011,Uruguay,Rural,Male,15 - 19,6448,74,865,7387
 2011,Uruguay,Rural,Male,20 - 24,5151,55,2096,7302
 2011,Uruguay,Rural,Male,25 - 29,4922,75,1919,6916
@@ -4561,7 +4391,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Uruguay,Rural,Male,75 - 79,2173,258,95,2526
 2011,Uruguay,Rural,Male,80 - 84,1283,184,52,1519
 2011,Uruguay,Rural,Female,10 - 14,5978,37,93,6108
-2011,Uruguay,Rural,Female,10 +,62838,1022,2012,65872
 2011,Uruguay,Rural,Female,15 - 19,5582,26,123,5731
 2011,Uruguay,Rural,Female,20 - 24,4482,39,129,4650
 2011,Uruguay,Rural,Female,25 - 29,4740,39,149,4928
@@ -4577,7 +4406,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Uruguay,Rural,Female,75 - 79,1826,96,69,1991
 2011,Uruguay,Rural,Female,80 - 84,1255,75,69,1399
 2011,Venezuela (Bolivarian Republic of),Urban,Male,10 - 14,1094992,26679,NA,1121671
-2011,Venezuela (Bolivarian Republic of),Urban,Male,10 +,9366532,366862,NA,9733394
 2011,Venezuela (Bolivarian Republic of),Urban,Male,15 - 19,1139212,25780,NA,1164992
 2011,Venezuela (Bolivarian Republic of),Urban,Male,20 - 24,1106352,27938,NA,1134290
 2011,Venezuela (Bolivarian Republic of),Urban,Male,25 - 29,1004670,25966,NA,1030636
@@ -4596,7 +4424,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Venezuela (Bolivarian Republic of),Urban,Male,90 - 94,9037,3767,NA,12804
 2011,Venezuela (Bolivarian Republic of),Urban,Male,95 +,2449,1703,NA,4152
 2011,Venezuela (Bolivarian Republic of),Urban,Female,10 - 14,1040713,17523,NA,1058236
-2011,Venezuela (Bolivarian Republic of),Urban,Female,10 +,9850225,383536,NA,10233761
 2011,Venezuela (Bolivarian Republic of),Urban,Female,15 - 19,1137888,15008,NA,1152896
 2011,Venezuela (Bolivarian Republic of),Urban,Female,20 - 24,1139140,16298,NA,1155438
 2011,Venezuela (Bolivarian Republic of),Urban,Female,25 - 29,1058089,15610,NA,1073699
@@ -4615,7 +4442,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Venezuela (Bolivarian Republic of),Urban,Female,90 - 94,14806,8550,NA,23356
 2011,Venezuela (Bolivarian Republic of),Urban,Female,95 +,5027,4043,NA,9070
 2011,Venezuela (Bolivarian Republic of),Rural,Male,10 - 14,165415,11105,NA,176520
-2011,Venezuela (Bolivarian Republic of),Rural,Male,10 +,1118375,207558,NA,1325933
 2011,Venezuela (Bolivarian Republic of),Rural,Male,15 - 19,157879,13288,NA,171167
 2011,Venezuela (Bolivarian Republic of),Rural,Male,20 - 24,131471,14364,NA,145835
 2011,Venezuela (Bolivarian Republic of),Rural,Male,25 - 29,114668,14096,NA,128764
@@ -4633,7 +4459,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Venezuela (Bolivarian Republic of),Rural,Male,85 - 89,2405,3270,NA,5675
 2011,Venezuela (Bolivarian Republic of),Rural,Male,90 - 94,751,1320,NA,2071
 2011,Venezuela (Bolivarian Republic of),Rural,Female,10 - 14,153170,7182,NA,160352
-2011,Venezuela (Bolivarian Republic of),Rural,Female,10 +,951097,143750,NA,1094847
 2011,Venezuela (Bolivarian Republic of),Rural,Female,15 - 19,145272,6993,NA,152265
 2011,Venezuela (Bolivarian Republic of),Rural,Female,20 - 24,117783,7303,NA,125086
 2011,Venezuela (Bolivarian Republic of),Rural,Female,25 - 29,103634,7599,NA,111233
@@ -4651,35 +4476,30 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2011,Venezuela (Bolivarian Republic of),Rural,Female,85 - 89,1559,3756,NA,5315
 2011,Venezuela (Bolivarian Republic of),Rural,Female,90 - 94,521,1618,NA,2139
 2009,Viet Nam,Urban,Male,15 - 17,653093,8850,426,662369
-2009,Viet Nam,Urban,Male,15 +,9335895,171923,7560,9515378
 2009,Viet Nam,Urban,Male,18 - 19,554529,7077,563,562169
 2009,Viet Nam,Urban,Male,20 - 29,2470658,38229,2067,2510954
 2009,Viet Nam,Urban,Male,30 - 39,2042635,45580,1698,2089913
 2009,Viet Nam,Urban,Male,40 - 49,1706259,28879,1199,1736337
 2009,Viet Nam,Urban,Male,50 +,1908721,43308,1607,1953636
 2009,Viet Nam,Urban,Female,15 - 17,642381,6158,442,648981
-2009,Viet Nam,Urban,Female,15 +,10065514,375524,12046,10453084
 2009,Viet Nam,Urban,Female,18 - 19,620825,4952,632,626409
 2009,Viet Nam,Urban,Female,20 - 29,2731749,34283,2390,2768422
 2009,Viet Nam,Urban,Female,30 - 39,2083375,49074,1818,2134267
 2009,Viet Nam,Urban,Female,40 - 49,1764977,43407,1475,1809859
 2009,Viet Nam,Urban,Female,50 +,2222207,237650,5289,2465146
 2009,Viet Nam,Rural,Male,15 - 17,1974262,44198,824,2019284
-2009,Viet Nam,Rural,Male,15 +,20972814,1061909,16625,22051348
 2009,Viet Nam,Rural,Male,18 - 19,1297591,35898,603,1334092
 2009,Viet Nam,Rural,Male,20 - 29,5415376,228743,3275,5647394
 2009,Viet Nam,Rural,Male,30 - 39,4384448,283470,3340,4671258
 2009,Viet Nam,Rural,Male,40 - 49,3689150,182714,2199,3874063
 2009,Viet Nam,Rural,Male,50 +,4211987,286886,6384,4505257
 2009,Viet Nam,Rural,Female,15 - 17,1855620,49834,683,1906137
-2009,Viet Nam,Rural,Female,15 +,20507388,2295035,31505,22833928
 2009,Viet Nam,Rural,Female,18 - 19,1158576,45168,717,1204461
 2009,Viet Nam,Rural,Female,20 - 29,4968019,324190,3891,5296100
 2009,Viet Nam,Rural,Female,30 - 39,4129060,371390,3877,4504327
 2009,Viet Nam,Rural,Female,40 - 49,3694660,299818,3047,3997525
 2009,Viet Nam,Rural,Female,50 +,4701453,1204635,19290,5925378
 2010,Zambia,Urban,Male,10 - 14,276685,34171,NA,310856
-2010,Zambia,Urban,Male,10 +,1676346,82290,NA,1758636
 2010,Zambia,Urban,Male,15 - 19,288197,6924,NA,295121
 2010,Zambia,Urban,Male,20 - 24,228872,6636,NA,235508
 2010,Zambia,Urban,Male,25 - 29,216249,7108,NA,223357
@@ -4692,7 +4512,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2010,Zambia,Urban,Male,60 - 64,26032,1626,NA,27658
 2010,Zambia,Urban,Male,65 +,36571,6288,NA,42859
 2010,Zambia,Urban,Female,10 - 14,307770,34439,NA,342209
-2010,Zambia,Urban,Female,10 +,1696228,161567,NA,1857795
 2010,Zambia,Urban,Female,15 - 19,319459,10307,NA,329766
 2010,Zambia,Urban,Female,20 - 24,268919,14779,NA,283698
 2010,Zambia,Urban,Female,25 - 29,236847,16559,NA,253406
@@ -4705,7 +4524,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2010,Zambia,Urban,Female,60 - 64,18662,8517,NA,27179
 2010,Zambia,Urban,Female,65 +,24398,24818,NA,49216
 2010,Zambia,Rural,Male,10 - 14,348990,180988,NA,529978
-2010,Zambia,Rural,Male,10 +,1831340,500610,NA,2331950
 2010,Zambia,Rural,Male,15 - 19,347657,50081,NA,397738
 2010,Zambia,Rural,Male,20 - 24,227556,41812,NA,269368
 2010,Zambia,Rural,Male,25 - 29,194623,46513,NA,241136
@@ -4718,7 +4536,6 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2010,Zambia,Rural,Male,60 - 64,35322,10439,NA,45761
 2010,Zambia,Rural,Male,65 +,78299,36473,NA,114772
 2010,Zambia,Rural,Female,10 - 14,353034,162965,NA,515999
-2010,Zambia,Rural,Female,10 +,1690604,816106,NA,2506710
 2010,Zambia,Rural,Female,15 - 19,338279,66980,NA,405259
 2010,Zambia,Rural,Female,20 - 24,239166,89736,NA,328902
 2010,Zambia,Rural,Female,25 - 29,192791,95554,NA,288345
