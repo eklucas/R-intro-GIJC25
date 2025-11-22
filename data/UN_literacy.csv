@@ -1809,237 +1809,162 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2010,Ghana,Rural,Female,85 - 89,3577,22520,NA,26097
 2010,Ghana,Rural,Female,90 - 94,1672,16120,NA,17792
 2010,Ghana,Rural,Female,95 +,837,6702,NA,7539
-2011,Greece,Urban,Male,10 - 14,105259,NA,NA,105259
-2011,Greece,Urban,Male,10 - 14,NA,102811,NA,102811
-2011,Greece,Urban,Male,10 +,3439547,NA,NA,3439547
-2011,Greece,Urban,Male,10 +,NA,154946,NA,154946
-2011,Greece,Urban,Male,15 - 19,224333,NA,NA,224333
-2011,Greece,Urban,Male,15 - 19,NA,2349,NA,2349
-2011,Greece,Urban,Male,20 - 24,255935,NA,NA,255935
-2011,Greece,Urban,Male,20 - 24,NA,3860,NA,3860
-2011,Greece,Urban,Male,25 - 29,290361,NA,NA,290361
-2011,Greece,Urban,Male,25 - 29,NA,5519,NA,5519
-2011,Greece,Urban,Male,30 - 34,329435,NA,NA,329435
-2011,Greece,Urban,Male,30 - 34,NA,5359,NA,5359
-2011,Greece,Urban,Male,35 - 39,319207,NA,NA,319207
-2011,Greece,Urban,Male,35 - 39,NA,4614,NA,4614
-2011,Greece,Urban,Male,40 - 44,319864,NA,NA,319864
-2011,Greece,Urban,Male,40 - 44,NA,3768,NA,3768
-2011,Greece,Urban,Male,45 - 49,280435,NA,NA,280435
-2011,Greece,Urban,Male,45 - 49,NA,2956,NA,2956
-2011,Greece,Urban,Male,50 - 54,266262,NA,NA,266262
-2011,Greece,Urban,Male,50 - 54,NA,2620,NA,2620
-2011,Greece,Urban,Male,55 - 59,238369,NA,NA,238369
-2011,Greece,Urban,Male,55 - 59,NA,2356,NA,2356
-2011,Greece,Urban,Male,60 - 64,216808,NA,NA,216808
-2011,Greece,Urban,Male,60 - 64,NA,2357,NA,2357
-2011,Greece,Urban,Male,65 - 69,165472,NA,NA,165472
-2011,Greece,Urban,Male,65 - 69,NA,2085,NA,2085
-2011,Greece,Urban,Male,70 - 74,159245,NA,NA,159245
-2011,Greece,Urban,Male,70 - 74,NA,3315,NA,3315
-2011,Greece,Urban,Male,75 - 79,129599,NA,NA,129599
-2011,Greece,Urban,Male,75 - 79,NA,5092,NA,5092
-2011,Greece,Urban,Male,80 - 84,88276,NA,NA,88276
-2011,Greece,Urban,Male,80 - 84,NA,3640,NA,3640
-2011,Greece,Urban,Male,85 - 89,36431,NA,NA,36431
-2011,Greece,Urban,Male,85 - 89,NA,1491,NA,1491
-2011,Greece,Urban,Male,90 - 94,10962,NA,NA,10962
-2011,Greece,Urban,Male,95 - 99,2907,NA,NA,2907
-2011,Greece,Urban,Female,10 - 14,100877,NA,NA,100877
-2011,Greece,Urban,Female,10 - 14,NA,98015,NA,98015
-2011,Greece,Urban,Female,10 +,3662880,NA,NA,3662880
-2011,Greece,Urban,Female,10 +,NA,190839,NA,190839
-2011,Greece,Urban,Female,15 - 19,211859,NA,NA,211859
-2011,Greece,Urban,Female,15 - 19,NA,2328,NA,2328
-2011,Greece,Urban,Female,20 - 24,247475,NA,NA,247475
-2011,Greece,Urban,Female,20 - 24,NA,2797,NA,2797
-2011,Greece,Urban,Female,25 - 29,284236,NA,NA,284236
-2011,Greece,Urban,Female,25 - 29,NA,3390,NA,3390
-2011,Greece,Urban,Female,30 - 34,327921,NA,NA,327921
-2011,Greece,Urban,Female,30 - 34,NA,3430,NA,3430
-2011,Greece,Urban,Female,35 - 39,324987,NA,NA,324987
-2011,Greece,Urban,Female,35 - 39,NA,3018,NA,3018
-2011,Greece,Urban,Female,40 - 44,336739,NA,NA,336739
-2011,Greece,Urban,Female,40 - 44,NA,2960,NA,2960
-2011,Greece,Urban,Female,45 - 49,303800,NA,NA,303800
-2011,Greece,Urban,Female,45 - 49,NA,2843,NA,2843
-2011,Greece,Urban,Female,50 - 54,294163,NA,NA,294163
-2011,Greece,Urban,Female,50 - 54,NA,2941,NA,2941
-2011,Greece,Urban,Female,55 - 59,257829,NA,NA,257829
-2011,Greece,Urban,Female,55 - 59,NA,2953,NA,2953
-2011,Greece,Urban,Female,60 - 64,236186,NA,NA,236186
-2011,Greece,Urban,Female,60 - 64,NA,3898,NA,3898
-2011,Greece,Urban,Female,65 - 69,184268,NA,NA,184268
-2011,Greece,Urban,Female,65 - 69,NA,4876,NA,4876
-2011,Greece,Urban,Female,70 - 74,188864,NA,NA,188864
-2011,Greece,Urban,Female,70 - 74,NA,11709,NA,11709
-2011,Greece,Urban,Female,75 - 79,155759,NA,NA,155759
-2011,Greece,Urban,Female,75 - 79,NA,19172,NA,19172
-2011,Greece,Urban,Female,80 - 84,123473,NA,NA,123473
-2011,Greece,Urban,Female,80 - 84,NA,13825,NA,13825
-2011,Greece,Urban,Female,85 - 89,58762,NA,NA,58762
-2011,Greece,Urban,Female,85 - 89,NA,7374,NA,7374
-2011,Greece,Urban,Female,90 - 94,19528,NA,NA,19528
-2011,Greece,Urban,Female,90 - 94,NA,3567,NA,3567
-2011,Greece,Urban,Female,95 - 99,5342,NA,NA,5342
-2011,Greece,Urban,Female,95 - 99,NA,1399,NA,1399
-2011,Greece,Rural,Male,10 - 14,28700,NA,NA,28700
-2011,Greece,Rural,Male,10 - 14,NA,29017,NA,29017
-2011,Greece,Rural,Male,10 +,1108149,NA,NA,1108149
-2011,Greece,Rural,Male,10 +,NA,63361,NA,63361
-2011,Greece,Rural,Male,15 - 19,58768,NA,NA,58768
-2011,Greece,Rural,Male,20 - 24,63807,NA,NA,63807
-2011,Greece,Rural,Male,20 - 24,NA,1525,NA,1525
-2011,Greece,Rural,Male,25 - 29,73670,NA,NA,73670
-2011,Greece,Rural,Male,25 - 29,NA,2067,NA,2067
-2011,Greece,Rural,Male,30 - 34,80936,NA,NA,80936
-2011,Greece,Rural,Male,30 - 34,NA,2131,NA,2131
-2011,Greece,Rural,Male,35 - 39,84028,NA,NA,84028
-2011,Greece,Rural,Male,35 - 39,NA,1832,NA,1832
-2011,Greece,Rural,Male,40 - 44,88760,NA,NA,88760
-2011,Greece,Rural,Male,40 - 44,NA,1634,NA,1634
-2011,Greece,Rural,Male,45 - 49,82318,NA,NA,82318
-2011,Greece,Rural,Male,45 - 49,NA,1377,NA,1377
-2011,Greece,Rural,Male,50 - 54,85263,NA,NA,85263
-2011,Greece,Rural,Male,50 - 54,NA,1407,NA,1407
-2011,Greece,Rural,Male,55 - 59,79461,NA,NA,79461
-2011,Greece,Rural,Male,55 - 59,NA,1280,NA,1280
-2011,Greece,Rural,Male,60 - 64,80978,NA,NA,80978
-2011,Greece,Rural,Male,60 - 64,NA,1446,NA,1446
-2011,Greece,Rural,Male,65 - 69,72552,NA,NA,72552
-2011,Greece,Rural,Male,65 - 69,NA,1723,NA,1723
-2011,Greece,Rural,Male,70 - 74,80195,NA,NA,80195
-2011,Greece,Rural,Male,70 - 74,NA,3509,NA,3509
-2011,Greece,Rural,Male,75 - 79,68953,NA,NA,68953
-2011,Greece,Rural,Male,75 - 79,NA,6339,NA,6339
-2011,Greece,Rural,Male,80 - 84,50239,NA,NA,50239
-2011,Greece,Rural,Male,80 - 84,NA,4300,NA,4300
-2011,Greece,Rural,Male,85 - 89,21156,NA,NA,21156
-2011,Greece,Rural,Male,85 - 89,NA,1855,NA,1855
-2011,Greece,Rural,Male,90 - 94,6544,NA,NA,6544
-2011,Greece,Rural,Male,95 - 99,1633,NA,NA,1633
-2011,Greece,Rural,Female,10 - 14,27591,NA,NA,27591
-2011,Greece,Rural,Female,10 - 14,NA,27159,NA,27159
-2011,Greece,Rural,Female,10 +,1033364,NA,NA,1033364
-2011,Greece,Rural,Female,10 +,NA,113361,NA,113361
-2011,Greece,Rural,Female,15 - 19,51994,NA,NA,51994
-2011,Greece,Rural,Female,20 - 24,50793,NA,NA,50793
-2011,Greece,Rural,Female,25 - 29,63342,NA,NA,63342
-2011,Greece,Rural,Female,25 - 29,NA,1186,NA,1186
-2011,Greece,Rural,Female,30 - 34,72000,NA,NA,72000
-2011,Greece,Rural,Female,30 - 34,NA,1263,NA,1263
-2011,Greece,Rural,Female,35 - 39,73858,NA,NA,73858
-2011,Greece,Rural,Female,35 - 39,NA,1285,NA,1285
-2011,Greece,Rural,Female,40 - 44,77737,NA,NA,77737
-2011,Greece,Rural,Female,40 - 44,NA,1204,NA,1204
-2011,Greece,Rural,Female,45 - 49,73509,NA,NA,73509
-2011,Greece,Rural,Female,45 - 49,NA,1191,NA,1191
-2011,Greece,Rural,Female,50 - 54,77430,NA,NA,77430
-2011,Greece,Rural,Female,50 - 54,NA,1400,NA,1400
-2011,Greece,Rural,Female,55 - 59,76520,NA,NA,76520
-2011,Greece,Rural,Female,55 - 59,NA,1600,NA,1600
-2011,Greece,Rural,Female,60 - 64,81434,NA,NA,81434
-2011,Greece,Rural,Female,60 - 64,NA,2662,NA,2662
-2011,Greece,Rural,Female,65 - 69,72431,NA,NA,72431
-2011,Greece,Rural,Female,65 - 69,NA,4869,NA,4869
-2011,Greece,Rural,Female,70 - 74,81108,NA,NA,81108
-2011,Greece,Rural,Female,70 - 74,NA,14220,NA,14220
-2011,Greece,Rural,Female,75 - 79,66858,NA,NA,66858
-2011,Greece,Rural,Female,75 - 79,NA,23305,NA,23305
-2011,Greece,Rural,Female,80 - 84,52720,NA,NA,52720
-2011,Greece,Rural,Female,80 - 84,NA,15900,NA,15900
-2011,Greece,Rural,Female,85 - 89,24107,NA,NA,24107
-2011,Greece,Rural,Female,85 - 89,NA,8665,NA,8665
-2011,Greece,Rural,Female,90 - 94,7604,NA,NA,7604
-2011,Greece,Rural,Female,90 - 94,NA,3986,NA,3986
-2011,Greece,Rural,Female,95 - 99,1984,NA,NA,1984
-2011,Greece,Rural,Female,95 - 99,NA,1514,NA,1514
+2011,Greece,Urban,Male,10 - 14,105259,102811,NA,208070
+2011,Greece,Urban,Male,10 +,3439547,154946,NA,3594493
+2011,Greece,Urban,Male,15 - 19,224333,2349,NA,226682
+2011,Greece,Urban,Male,20 - 24,255935,3860,NA,259795
+2011,Greece,Urban,Male,25 - 29,290361,5519,NA,295880
+2011,Greece,Urban,Male,30 - 34,329435,5359,NA,334794
+2011,Greece,Urban,Male,35 - 39,319207,4614,NA,323821
+2011,Greece,Urban,Male,40 - 44,319864,3768,NA,323632
+2011,Greece,Urban,Male,45 - 49,280435,2956,NA,283391
+2011,Greece,Urban,Male,50 - 54,266262,2620,NA,268882
+2011,Greece,Urban,Male,55 - 59,238369,2356,NA,240725
+2011,Greece,Urban,Male,60 - 64,216808,2357,NA,219165
+2011,Greece,Urban,Male,65 - 69,165472,2085,NA,167557
+2011,Greece,Urban,Male,70 - 74,159245,3315,NA,162560
+2011,Greece,Urban,Male,75 - 79,129599,5092,NA,134691
+2011,Greece,Urban,Male,80 - 84,88276,3640,NA,91916
+2011,Greece,Urban,Male,85 - 89,36431,1491,NA,37922
+2011,Greece,Urban,Male,90 - 94,10962,551,NA,11513
+2011,Greece,Urban,Male,95 - 99,2907,174,NA,3081
+2011,Greece,Urban,Female,10 - 14,100877,98015,NA,198892
+2011,Greece,Urban,Female,10 +,3662880,190839,NA,3853719
+2011,Greece,Urban,Female,15 - 19,211859,2328,NA,214187
+2011,Greece,Urban,Female,20 - 24,247475,2797,NA,250272
+2011,Greece,Urban,Female,25 - 29,284236,3390,NA,287626
+2011,Greece,Urban,Female,30 - 34,327921,3430,NA,331351
+2011,Greece,Urban,Female,35 - 39,324987,3018,NA,328005
+2011,Greece,Urban,Female,40 - 44,336739,2960,NA,339699
+2011,Greece,Urban,Female,45 - 49,303800,2843,NA,306643
+2011,Greece,Urban,Female,50 - 54,294163,2941,NA,297104
+2011,Greece,Urban,Female,55 - 59,257829,2953,NA,260782
+2011,Greece,Urban,Female,60 - 64,236186,3898,NA,240084
+2011,Greece,Urban,Female,65 - 69,184268,4876,NA,189144
+2011,Greece,Urban,Female,70 - 74,188864,11709,NA,200573
+2011,Greece,Urban,Female,75 - 79,155759,19172,NA,174931
+2011,Greece,Urban,Female,80 - 84,123473,13825,NA,137298
+2011,Greece,Urban,Female,85 - 89,58762,7374,NA,66136
+2011,Greece,Urban,Female,90 - 94,19528,3567,NA,23095
+2011,Greece,Urban,Female,95 - 99,5342,1399,NA,6741
+2011,Greece,Urban,Female,100 +,812,344,NA,1156
+2011,Greece,Rural,Male,10 - 14,28700,29017,NA,57717
+2011,Greece,Rural,Male,10 +,1108149,63361,NA,1171510
+2011,Greece,Rural,Male,15 - 19,58768,936,NA,59704
+2011,Greece,Rural,Male,20 - 24,63807,1525,NA,65332
+2011,Greece,Rural,Male,25 - 29,73670,2067,NA,75737
+2011,Greece,Rural,Male,30 - 34,80936,2131,NA,83067
+2011,Greece,Rural,Male,35 - 39,84028,1832,NA,85860
+2011,Greece,Rural,Male,40 - 44,88760,1634,NA,90394
+2011,Greece,Rural,Male,45 - 49,82318,1377,NA,83695
+2011,Greece,Rural,Male,50 - 54,85263,1407,NA,86670
+2011,Greece,Rural,Male,55 - 59,79461,1280,NA,80741
+2011,Greece,Rural,Male,60 - 64,80978,1446,NA,82424
+2011,Greece,Rural,Male,65 - 69,72552,1723,NA,74275
+2011,Greece,Rural,Male,70 - 74,80195,3509,NA,83704
+2011,Greece,Rural,Male,75 - 79,68953,6339,NA,75292
+2011,Greece,Rural,Male,80 - 84,50239,4300,NA,54539
+2011,Greece,Rural,Male,85 - 89,21156,1855,NA,23011
+2011,Greece,Rural,Male,90 - 94,6544,703,NA,7247
+2011,Greece,Rural,Male,95 - 99,1633,234,NA,1867
+2011,Greece,Rural,Female,10 - 14,27591,27159,NA,54750
+2011,Greece,Rural,Female,10 +,1033364,113361,NA,1146725
+2011,Greece,Rural,Female,15 - 19,51994,709,NA,52703
+2011,Greece,Rural,Female,20 - 24,50793,905,NA,51698
+2011,Greece,Rural,Female,25 - 29,63342,1186,NA,64528
+2011,Greece,Rural,Female,30 - 34,72000,1263,NA,73263
+2011,Greece,Rural,Female,35 - 39,73858,1285,NA,75143
+2011,Greece,Rural,Female,40 - 44,77737,1204,NA,78941
+2011,Greece,Rural,Female,45 - 49,73509,1191,NA,74700
+2011,Greece,Rural,Female,50 - 54,77430,1400,NA,78830
+2011,Greece,Rural,Female,55 - 59,76520,1600,NA,78120
+2011,Greece,Rural,Female,60 - 64,81434,2662,NA,84096
+2011,Greece,Rural,Female,65 - 69,72431,4869,NA,77300
+2011,Greece,Rural,Female,70 - 74,81108,14220,NA,95328
+2011,Greece,Rural,Female,75 - 79,66858,23305,NA,90163
+2011,Greece,Rural,Female,80 - 84,52720,15900,NA,68620
+2011,Greece,Rural,Female,85 - 89,24107,8665,NA,32772
+2011,Greece,Rural,Female,90 - 94,7604,3986,NA,11590
+2011,Greece,Rural,Female,95 - 99,1984,1514,NA,3498
 2014,Guinea,Urban,Male,15 +,742284,367980,4346,1114610
 2014,Guinea,Urban,Female,15 +,486845,620205,428,1107478
 2014,Guinea,Rural,Male,15 +,433340,1148651,7945,1589936
 2014,Guinea,Rural,Female,15 +,199648,1809977,2528,2012153
-2022,Hungary,Urban,Male,10 - 14,160288,NA,NA,160288
-2022,Hungary,Urban,Male,10 - 14,NA,1644,0,1644
-2022,Hungary,Urban,Male,10 +,2879628,NA,NA,2879628
-2022,Hungary,Urban,Male,10 +,NA,10577,0,10577
-2022,Hungary,Urban,Male,15 - 19,169261,NA,NA,169261
-2022,Hungary,Urban,Male,20 - 24,180939,NA,NA,180939
-2022,Hungary,Urban,Male,25 - 29,204116,NA,NA,204116
-2022,Hungary,Urban,Male,30 - 34,224843,NA,NA,224843
-2022,Hungary,Urban,Male,35 - 39,223113,NA,NA,223113
-2022,Hungary,Urban,Male,40 - 44,261890,NA,NA,261890
-2022,Hungary,Urban,Male,45 - 49,301140,NA,NA,301140
-2022,Hungary,Urban,Male,50 - 54,245861,NA,NA,245861
-2022,Hungary,Urban,Male,55 - 59,192498,NA,NA,192498
-2022,Hungary,Urban,Male,60 - 64,173222,NA,NA,173222
-2022,Hungary,Urban,Male,65 - 69,196346,NA,NA,196346
-2022,Hungary,Urban,Male,70 - 74,146641,NA,NA,146641
-2022,Hungary,Urban,Male,75 - 79,102977,NA,NA,102977
-2022,Hungary,Urban,Male,80 - 84,59844,NA,NA,59844
-2022,Hungary,Urban,Male,85 - 89,26282,NA,NA,26282
-2022,Hungary,Urban,Male,90 - 94,8758,NA,NA,8758
-2022,Hungary,Urban,Male,95 - 99,1485,NA,NA,1485
-2022,Hungary,Urban,Female,10 - 14,152411,NA,NA,152411
-2022,Hungary,Urban,Female,10 - 14,NA,1398,0,1398
-2022,Hungary,Urban,Female,10 +,3222231,NA,NA,3222231
-2022,Hungary,Urban,Female,10 +,NA,12971,0,12971
-2022,Hungary,Urban,Female,15 - 19,162345,NA,NA,162345
-2022,Hungary,Urban,Female,20 - 24,175827,NA,NA,175827
-2022,Hungary,Urban,Female,25 - 29,194260,NA,NA,194260
-2022,Hungary,Urban,Female,30 - 34,212899,NA,NA,212899
-2022,Hungary,Urban,Female,35 - 39,215966,NA,NA,215966
-2022,Hungary,Urban,Female,40 - 44,258162,NA,NA,258162
-2022,Hungary,Urban,Female,45 - 49,299359,NA,NA,299359
-2022,Hungary,Urban,Female,50 - 54,249553,NA,NA,249553
-2022,Hungary,Urban,Female,55 - 59,207453,NA,NA,207453
-2022,Hungary,Urban,Female,60 - 64,209682,NA,NA,209682
-2022,Hungary,Urban,Female,65 - 69,265995,NA,NA,265995
-2022,Hungary,Urban,Female,65 - 69,NA,1072,0,1072
-2022,Hungary,Urban,Female,70 - 74,223623,NA,NA,223623
-2022,Hungary,Urban,Female,75 - 79,173230,NA,NA,173230
-2022,Hungary,Urban,Female,80 - 84,122770,NA,NA,122770
-2022,Hungary,Urban,Female,85 - 89,66552,NA,NA,66552
-2022,Hungary,Urban,Female,90 - 94,26235,NA,NA,26235
-2022,Hungary,Urban,Female,95 - 99,5399,NA,NA,5399
-2022,Hungary,Rural,Male,10 - 14,75843,NA,NA,75843
-2022,Hungary,Rural,Male,10 +,1246721,NA,NA,1246721
-2022,Hungary,Rural,Male,10 +,NA,6622,0,6622
-2022,Hungary,Rural,Male,15 - 19,78816,NA,NA,78816
-2022,Hungary,Rural,Male,20 - 24,78926,NA,NA,78926
-2022,Hungary,Rural,Male,25 - 29,87286,NA,NA,87286
-2022,Hungary,Rural,Male,30 - 34,93820,NA,NA,93820
-2022,Hungary,Rural,Male,35 - 39,93279,NA,NA,93279
-2022,Hungary,Rural,Male,40 - 44,108516,NA,NA,108516
-2022,Hungary,Rural,Male,45 - 49,125076,NA,NA,125076
-2022,Hungary,Rural,Male,50 - 54,108589,NA,NA,108589
-2022,Hungary,Rural,Male,55 - 59,92297,NA,NA,92297
-2022,Hungary,Rural,Male,60 - 64,87477,NA,NA,87477
-2022,Hungary,Rural,Male,65 - 69,88560,NA,NA,88560
-2022,Hungary,Rural,Male,70 - 74,60858,NA,NA,60858
-2022,Hungary,Rural,Male,75 - 79,35600,NA,NA,35600
-2022,Hungary,Rural,Male,80 - 84,20639,NA,NA,20639
-2022,Hungary,Rural,Male,85 - 89,8317,NA,NA,8317
-2022,Hungary,Rural,Male,90 - 94,2420,NA,NA,2420
-2022,Hungary,Rural,Female,10 - 14,71466,NA,NA,71466
-2022,Hungary,Rural,Female,10 +,1287625,NA,NA,1287625
-2022,Hungary,Rural,Female,10 +,NA,8331,0,8331
-2022,Hungary,Rural,Female,15 - 19,74062,NA,NA,74062
-2022,Hungary,Rural,Female,20 - 24,72257,NA,NA,72257
-2022,Hungary,Rural,Female,25 - 29,79309,NA,NA,79309
-2022,Hungary,Rural,Female,30 - 34,85317,NA,NA,85317
-2022,Hungary,Rural,Female,35 - 39,85733,NA,NA,85733
-2022,Hungary,Rural,Female,40 - 44,99129,NA,NA,99129
-2022,Hungary,Rural,Female,45 - 49,113312,NA,NA,113312
-2022,Hungary,Rural,Female,50 - 54,101301,NA,NA,101301
-2022,Hungary,Rural,Female,55 - 59,89948,NA,NA,89948
-2022,Hungary,Rural,Female,60 - 64,92131,NA,NA,92131
-2022,Hungary,Rural,Female,65 - 69,102470,NA,NA,102470
-2022,Hungary,Rural,Female,70 - 74,82081,NA,NA,82081
-2022,Hungary,Rural,Female,75 - 79,59042,NA,NA,59042
-2022,Hungary,Rural,Female,80 - 84,45237,NA,NA,45237
-2022,Hungary,Rural,Female,85 - 89,24225,NA,NA,24225
-2022,Hungary,Rural,Female,90 - 94,8825,NA,NA,8825
-2022,Hungary,Rural,Female,95 - 99,1627,NA,NA,1627
+2022,Hungary,Urban,Male,10 - 14,160288,1644,0,161932
+2022,Hungary,Urban,Male,10 +,2879628,10577,0,2890205
+2022,Hungary,Urban,Male,15 - 19,169261,583,0,169844
+2022,Hungary,Urban,Male,20 - 24,180939,463,0,181402
+2022,Hungary,Urban,Male,25 - 29,204116,410,0,204526
+2022,Hungary,Urban,Male,30 - 34,224843,794,0,225637
+2022,Hungary,Urban,Male,35 - 39,223113,822,0,223935
+2022,Hungary,Urban,Male,40 - 44,261890,893,0,262783
+2022,Hungary,Urban,Male,45 - 49,301140,988,0,302128
+2022,Hungary,Urban,Male,50 - 54,245861,862,0,246723
+2022,Hungary,Urban,Male,55 - 59,192498,602,0,193100
+2022,Hungary,Urban,Male,60 - 64,173222,592,0,173814
+2022,Hungary,Urban,Male,65 - 69,196346,661,0,197007
+2022,Hungary,Urban,Male,70 - 74,146641,462,0,147103
+2022,Hungary,Urban,Male,75 - 79,102977,301,0,103278
+2022,Hungary,Urban,Male,80 - 84,59844,245,0,60089
+2022,Hungary,Urban,Male,85 - 89,26282,152,0,26434
+2022,Hungary,Urban,Male,90 - 94,8758,59,0,8817
+2022,Hungary,Urban,Male,95 - 99,1485,19,0,1504
+2022,Hungary,Urban,Female,10 - 14,152411,1398,0,153809
+2022,Hungary,Urban,Female,10 +,3222231,12971,0,3235202
+2022,Hungary,Urban,Female,15 - 19,162345,474,0,162819
+2022,Hungary,Urban,Female,20 - 24,175827,388,0,176215
+2022,Hungary,Urban,Female,25 - 29,194260,410,0,194670
+2022,Hungary,Urban,Female,30 - 34,212899,606,0,213505
+2022,Hungary,Urban,Female,35 - 39,215966,667,0,216633
+2022,Hungary,Urban,Female,40 - 44,258162,736,0,258898
+2022,Hungary,Urban,Female,45 - 49,299359,777,0,300136
+2022,Hungary,Urban,Female,50 - 54,249553,752,0,250305
+2022,Hungary,Urban,Female,55 - 59,207453,760,0,208213
+2022,Hungary,Urban,Female,60 - 64,209682,938,0,210620
+2022,Hungary,Urban,Female,65 - 69,265995,1072,0,267067
+2022,Hungary,Urban,Female,70 - 74,223623,976,0,224599
+2022,Hungary,Urban,Female,75 - 79,173230,892,0,174122
+2022,Hungary,Urban,Female,80 - 84,122770,861,0,123631
+2022,Hungary,Urban,Female,85 - 89,66552,796,0,67348
+2022,Hungary,Urban,Female,90 - 94,26235,337,0,26572
+2022,Hungary,Urban,Female,95 - 99,5399,104,0,5503
+2022,Hungary,Rural,Male,10 - 14,75843,684,0,76527
+2022,Hungary,Rural,Male,10 +,1246721,6622,0,1253343
+2022,Hungary,Rural,Male,15 - 19,78816,303,0,79119
+2022,Hungary,Rural,Male,20 - 24,78926,219,0,79145
+2022,Hungary,Rural,Male,25 - 29,87286,292,0,87578
+2022,Hungary,Rural,Male,30 - 34,93820,499,0,94319
+2022,Hungary,Rural,Male,35 - 39,93279,469,0,93748
+2022,Hungary,Rural,Male,40 - 44,108516,588,0,109104
+2022,Hungary,Rural,Male,45 - 49,125076,580,0,125656
+2022,Hungary,Rural,Male,50 - 54,108589,528,0,109117
+2022,Hungary,Rural,Male,55 - 59,92297,487,0,92784
+2022,Hungary,Rural,Male,60 - 64,87477,499,0,87976
+2022,Hungary,Rural,Male,65 - 69,88560,488,0,89048
+2022,Hungary,Rural,Male,70 - 74,60858,348,0,61206
+2022,Hungary,Rural,Male,75 - 79,35600,292,0,35892
+2022,Hungary,Rural,Male,80 - 84,20639,199,0,20838
+2022,Hungary,Rural,Male,85 - 89,8317,102,0,8419
+2022,Hungary,Rural,Male,90 - 94,2420,25,0,2445
+2022,Hungary,Rural,Female,10 - 14,71466,570,0,72036
+2022,Hungary,Rural,Female,10 +,1287625,8331,0,1295956
+2022,Hungary,Rural,Female,15 - 19,74062,208,0,74270
+2022,Hungary,Rural,Female,20 - 24,72257,162,0,72419
+2022,Hungary,Rural,Female,25 - 29,79309,228,0,79537
+2022,Hungary,Rural,Female,30 - 34,85317,355,0,85672
+2022,Hungary,Rural,Female,35 - 39,85733,375,0,86108
+2022,Hungary,Rural,Female,40 - 44,99129,421,0,99550
+2022,Hungary,Rural,Female,45 - 49,113312,497,0,113809
+2022,Hungary,Rural,Female,50 - 54,101301,485,0,101786
+2022,Hungary,Rural,Female,55 - 59,89948,565,0,90513
+2022,Hungary,Rural,Female,60 - 64,92131,712,0,92843
+2022,Hungary,Rural,Female,65 - 69,102470,832,0,103302
+2022,Hungary,Rural,Female,70 - 74,82081,839,0,82920
+2022,Hungary,Rural,Female,75 - 79,59042,666,0,59708
+2022,Hungary,Rural,Female,80 - 84,45237,628,0,45865
+2022,Hungary,Rural,Female,85 - 89,24225,522,0,24747
+2022,Hungary,Rural,Female,90 - 94,8825,210,0,9035
+2022,Hungary,Rural,Female,95 - 99,1627,43,0,1670
 2010,Indonesia,Urban,Male,10 - 14,5309368,51099,38844,5399311
 2010,Indonesia,Urban,Male,10 +,46751266,1080674,373244,48205184
 2010,Indonesia,Urban,Male,15 - 19,5228910,31066,83126,5343102
@@ -3662,123 +3587,66 @@ year,country_or_area,area,sex,age,literate,illiterate,unknown,total
 2014,Republic of Moldova,Rural,Female,80 - 84,16728,1727,NA,18455
 2014,Republic of Moldova,Rural,Female,85 - 89,6706,1436,NA,8142
 2014,Republic of Moldova,Rural,Female,90 - 94,1469,702,NA,2171
-2011,Romania,Urban,Male,10 - 14,251911,NA,NA,251911
-2011,Romania,Urban,Male,10 - 14,NA,1715,NA,1715
-2011,Romania,Urban,Male,10 +,4619745,NA,NA,4619745
-2011,Romania,Urban,Male,10 +,NA,25527,NA,25527
-2011,Romania,Urban,Male,15 - 19,273438,NA,NA,273438
-2011,Romania,Urban,Male,15 - 19,NA,1412,NA,1412
-2011,Romania,Urban,Male,20 - 24,396179,NA,NA,396179
-2011,Romania,Urban,Male,20 - 24,NA,3167,NA,3167
-2011,Romania,Urban,Male,25 - 29,390560,NA,NA,390560
-2011,Romania,Urban,Male,25 - 29,NA,3545,NA,3545
-2011,Romania,Urban,Male,30 - 34,443137,NA,NA,443137
-2011,Romania,Urban,Male,30 - 34,NA,3493,NA,3493
-2011,Romania,Urban,Male,35 - 39,416484,NA,NA,416484
-2011,Romania,Urban,Male,35 - 39,NA,2406,NA,2406
-2011,Romania,Urban,Male,40 - 44,478167,NA,NA,478167
-2011,Romania,Urban,Male,40 - 44,NA,1803,NA,1803
-2011,Romania,Urban,Male,45 - 49,297078,NA,NA,297078
-2011,Romania,Urban,Male,45 - 49,NA,1148,NA,1148
-2011,Romania,Urban,Male,50 - 54,377040,NA,NA,377040
-2011,Romania,Urban,Male,50 - 54,NA,1229,NA,1229
-2011,Romania,Urban,Male,55 - 59,410526,NA,NA,410526
-2011,Romania,Urban,Male,55 - 59,NA,1114,NA,1114
-2011,Romania,Urban,Male,60 - 64,310813,NA,NA,310813
-2011,Romania,Urban,Male,65 - 69,187265,NA,NA,187265
-2011,Romania,Urban,Male,70 - 74,165025,NA,NA,165025
-2011,Romania,Urban,Male,75 +,222122,NA,NA,222122
-2011,Romania,Urban,Male,75 +,NA,1965,NA,1965
-2011,Romania,Urban,Female,10 - 14,240906,NA,NA,240906
-2011,Romania,Urban,Female,10 - 14,NA,1662,NA,1662
-2011,Romania,Urban,Female,10 +,5119555,NA,NA,5119555
-2011,Romania,Urban,Female,10 +,NA,43269,NA,43269
-2011,Romania,Urban,Female,15 - 19,267278,NA,NA,267278
-2011,Romania,Urban,Female,15 - 19,NA,1474,NA,1474
-2011,Romania,Urban,Female,20 - 24,392405,NA,NA,392405
-2011,Romania,Urban,Female,20 - 24,NA,3073,NA,3073
-2011,Romania,Urban,Female,25 - 29,386255,NA,NA,386255
-2011,Romania,Urban,Female,25 - 29,NA,3958,NA,3958
-2011,Romania,Urban,Female,30 - 34,444843,NA,NA,444843
-2011,Romania,Urban,Female,30 - 34,NA,4075,NA,4075
-2011,Romania,Urban,Female,35 - 39,427725,NA,NA,427725
-2011,Romania,Urban,Female,35 - 39,NA,3096,NA,3096
-2011,Romania,Urban,Female,40 - 44,515475,NA,NA,515475
-2011,Romania,Urban,Female,40 - 44,NA,2262,NA,2262
-2011,Romania,Urban,Female,45 - 49,330654,NA,NA,330654
-2011,Romania,Urban,Female,45 - 49,NA,1714,NA,1714
-2011,Romania,Urban,Female,50 - 54,430326,NA,NA,430326
-2011,Romania,Urban,Female,50 - 54,NA,1926,NA,1926
-2011,Romania,Urban,Female,55 - 59,462479,NA,NA,462479
-2011,Romania,Urban,Female,55 - 59,NA,1896,NA,1896
-2011,Romania,Urban,Female,60 - 64,361251,NA,NA,361251
-2011,Romania,Urban,Female,60 - 64,NA,1764,NA,1764
-2011,Romania,Urban,Female,65 - 69,238425,NA,NA,238425
-2011,Romania,Urban,Female,65 - 69,NA,1659,NA,1659
-2011,Romania,Urban,Female,70 - 74,236979,NA,NA,236979
-2011,Romania,Urban,Female,70 - 74,NA,3127,NA,3127
-2011,Romania,Urban,Female,75 +,384554,NA,NA,384554
-2011,Romania,Urban,Female,75 +,NA,11583,NA,11583
-2011,Romania,Rural,Male,10 - 14,302713,NA,NA,302713
-2011,Romania,Rural,Male,10 - 14,NA,3033,NA,3033
-2011,Romania,Rural,Male,10 +,4006437,NA,NA,4006437
-2011,Romania,Rural,Male,10 +,NA,57929,NA,57929
-2011,Romania,Rural,Male,15 - 19,290593,NA,NA,290593
-2011,Romania,Rural,Male,15 - 19,NA,2629,NA,2629
-2011,Romania,Rural,Male,20 - 24,299669,NA,NA,299669
-2011,Romania,Rural,Male,20 - 24,NA,5337,NA,5337
-2011,Romania,Rural,Male,25 - 29,266624,NA,NA,266624
-2011,Romania,Rural,Male,25 - 29,NA,5947,NA,5947
-2011,Romania,Rural,Male,30 - 34,320218,NA,NA,320218
-2011,Romania,Rural,Male,30 - 34,NA,6164,NA,6164
-2011,Romania,Rural,Male,35 - 39,359327,NA,NA,359327
-2011,Romania,Rural,Male,35 - 39,NA,4626,NA,4626
-2011,Romania,Rural,Male,40 - 44,403844,NA,NA,403844
-2011,Romania,Rural,Male,40 - 44,NA,3755,NA,3755
-2011,Romania,Rural,Male,45 - 49,243422,NA,NA,243422
-2011,Romania,Rural,Male,45 - 49,NA,2647,NA,2647
-2011,Romania,Rural,Male,50 - 54,273357,NA,NA,273357
-2011,Romania,Rural,Male,50 - 54,NA,3115,NA,3115
-2011,Romania,Rural,Male,55 - 59,274357,NA,NA,274357
-2011,Romania,Rural,Male,55 - 59,NA,2907,NA,2907
-2011,Romania,Rural,Male,60 - 64,258758,NA,NA,258758
-2011,Romania,Rural,Male,60 - 64,NA,2384,NA,2384
-2011,Romania,Rural,Male,65 - 69,202691,NA,NA,202691
-2011,Romania,Rural,Male,65 - 69,NA,2311,NA,2311
-2011,Romania,Rural,Male,70 - 74,201408,NA,NA,201408
-2011,Romania,Rural,Male,70 - 74,NA,3598,NA,3598
-2011,Romania,Rural,Male,75 +,309456,NA,NA,309456
-2011,Romania,Rural,Male,75 +,NA,9476,NA,9476
-2011,Romania,Rural,Female,10 - 14,285631,NA,NA,285631
-2011,Romania,Rural,Female,10 - 14,NA,2655,NA,2655
-2011,Romania,Rural,Female,10 +,4031097,NA,NA,4031097
-2011,Romania,Rural,Female,10 +,NA,118662,NA,118662
-2011,Romania,Rural,Female,15 - 19,269160,NA,NA,269160
-2011,Romania,Rural,Female,15 - 19,NA,2469,NA,2469
-2011,Romania,Rural,Female,20 - 24,261250,NA,NA,261250
-2011,Romania,Rural,Female,20 - 24,NA,5294,NA,5294
-2011,Romania,Rural,Female,25 - 29,239560,NA,NA,239560
-2011,Romania,Rural,Female,25 - 29,NA,6628,NA,6628
-2011,Romania,Rural,Female,30 - 34,293923,NA,NA,293923
-2011,Romania,Rural,Female,30 - 34,NA,6866,NA,6866
-2011,Romania,Rural,Female,35 - 39,319989,NA,NA,319989
-2011,Romania,Rural,Female,35 - 39,NA,5244,NA,5244
-2011,Romania,Rural,Female,40 - 44,334123,NA,NA,334123
-2011,Romania,Rural,Female,40 - 44,NA,4449,NA,4449
-2011,Romania,Rural,Female,45 - 49,196280,NA,NA,196280
-2011,Romania,Rural,Female,45 - 49,NA,3315,NA,3315
-2011,Romania,Rural,Female,50 - 54,241090,NA,NA,241090
-2011,Romania,Rural,Female,50 - 54,NA,4183,NA,4183
-2011,Romania,Rural,Female,55 - 59,290484,NA,NA,290484
-2011,Romania,Rural,Female,55 - 59,NA,4280,NA,4280
-2011,Romania,Rural,Female,60 - 64,304018,NA,NA,304018
-2011,Romania,Rural,Female,60 - 64,NA,4405,NA,4405
-2011,Romania,Rural,Female,65 - 69,251974,NA,NA,251974
-2011,Romania,Rural,Female,65 - 69,NA,5263,NA,5263
-2011,Romania,Rural,Female,70 - 74,277098,NA,NA,277098
-2011,Romania,Rural,Female,70 - 74,NA,13250,NA,13250
-2011,Romania,Rural,Female,75 +,466517,NA,NA,466517
-2011,Romania,Rural,Female,75 +,NA,50361,NA,50361
+2011,Romania,Urban,Male,10 - 14,251911,1715,NA,253626
+2011,Romania,Urban,Male,10 +,4619745,25527,NA,4645272
+2011,Romania,Urban,Male,15 - 19,273438,1412,NA,274850
+2011,Romania,Urban,Male,20 - 24,396179,3167,NA,399346
+2011,Romania,Urban,Male,25 - 29,390560,3545,NA,394105
+2011,Romania,Urban,Male,30 - 34,443137,3493,NA,446630
+2011,Romania,Urban,Male,35 - 39,416484,2406,NA,418890
+2011,Romania,Urban,Male,40 - 44,478167,1803,NA,479970
+2011,Romania,Urban,Male,45 - 49,297078,1148,NA,298226
+2011,Romania,Urban,Male,50 - 54,377040,1229,NA,378269
+2011,Romania,Urban,Male,55 - 59,410526,1114,NA,411640
+2011,Romania,Urban,Male,60 - 64,310813,893,NA,311706
+2011,Romania,Urban,Male,65 - 69,187265,752,NA,188017
+2011,Romania,Urban,Male,70 - 74,165025,885,NA,165910
+2011,Romania,Urban,Male,75 +,222122,1965,NA,224087
+2011,Romania,Urban,Female,10 - 14,240906,1662,NA,242568
+2011,Romania,Urban,Female,10 +,5119555,43269,NA,5162824
+2011,Romania,Urban,Female,15 - 19,267278,1474,NA,268752
+2011,Romania,Urban,Female,20 - 24,392405,3073,NA,395478
+2011,Romania,Urban,Female,25 - 29,386255,3958,NA,390213
+2011,Romania,Urban,Female,30 - 34,444843,4075,NA,448918
+2011,Romania,Urban,Female,35 - 39,427725,3096,NA,430821
+2011,Romania,Urban,Female,40 - 44,515475,2262,NA,517737
+2011,Romania,Urban,Female,45 - 49,330654,1714,NA,332368
+2011,Romania,Urban,Female,50 - 54,430326,1926,NA,432252
+2011,Romania,Urban,Female,55 - 59,462479,1896,NA,464375
+2011,Romania,Urban,Female,60 - 64,361251,1764,NA,363015
+2011,Romania,Urban,Female,65 - 69,238425,1659,NA,240084
+2011,Romania,Urban,Female,70 - 74,236979,3127,NA,240106
+2011,Romania,Urban,Female,75 +,384554,11583,NA,396137
+2011,Romania,Rural,Male,10 - 14,302713,3033,NA,305746
+2011,Romania,Rural,Male,10 +,4006437,57929,NA,4064366
+2011,Romania,Rural,Male,15 - 19,290593,2629,NA,293222
+2011,Romania,Rural,Male,20 - 24,299669,5337,NA,305006
+2011,Romania,Rural,Male,25 - 29,266624,5947,NA,272571
+2011,Romania,Rural,Male,30 - 34,320218,6164,NA,326382
+2011,Romania,Rural,Male,35 - 39,359327,4626,NA,363953
+2011,Romania,Rural,Male,40 - 44,403844,3755,NA,407599
+2011,Romania,Rural,Male,45 - 49,243422,2647,NA,246069
+2011,Romania,Rural,Male,50 - 54,273357,3115,NA,276472
+2011,Romania,Rural,Male,55 - 59,274357,2907,NA,277264
+2011,Romania,Rural,Male,60 - 64,258758,2384,NA,261142
+2011,Romania,Rural,Male,65 - 69,202691,2311,NA,205002
+2011,Romania,Rural,Male,70 - 74,201408,3598,NA,205006
+2011,Romania,Rural,Male,75 +,309456,9476,NA,318932
+2011,Romania,Rural,Female,10 - 14,285631,2655,NA,288286
+2011,Romania,Rural,Female,10 +,4031097,118662,NA,4149759
+2011,Romania,Rural,Female,15 - 19,269160,2469,NA,271629
+2011,Romania,Rural,Female,20 - 24,261250,5294,NA,266544
+2011,Romania,Rural,Female,25 - 29,239560,6628,NA,246188
+2011,Romania,Rural,Female,30 - 34,293923,6866,NA,300789
+2011,Romania,Rural,Female,35 - 39,319989,5244,NA,325233
+2011,Romania,Rural,Female,40 - 44,334123,4449,NA,338572
+2011,Romania,Rural,Female,45 - 49,196280,3315,NA,199595
+2011,Romania,Rural,Female,50 - 54,241090,4183,NA,245273
+2011,Romania,Rural,Female,55 - 59,290484,4280,NA,294764
+2011,Romania,Rural,Female,60 - 64,304018,4405,NA,308423
+2011,Romania,Rural,Female,65 - 69,251974,5263,NA,257237
+2011,Romania,Rural,Female,70 - 74,277098,13250,NA,290348
+2011,Romania,Rural,Female,75 +,466517,50361,NA,516878
 2010,Russian Federation,Urban,Male,10 - 14,2237555,5497,73183,2316235
 2010,Russian Federation,Urban,Male,10 +,41008606,64115,1625145,42697866
 2010,Russian Federation,Urban,Male,15 - 19,3022382,6757,94842,3123981

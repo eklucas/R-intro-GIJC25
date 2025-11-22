@@ -1,0 +1,146 @@
+---
+title: "Intro to web scraping"
+output:
+  html_document:
+    df_print: paged
+---
+The package that imports and parses HTML is `rvest`: <https://rvest.tidyverse.org/>. When you installed tidyverse it came with rvest, though you have to load it separately in your environment:
+
+```{r message=F}
+library(tidyverse)
+library(rvest)
+library(janitor)
+```
+
+There are four basic steps to scraping information from a webpage's HTML:
+
+1.  Identify the URL
+2.  Read the HTML from that page
+3.  Parse the HTML by identifying specific elements that have your data
+4.  Turn those elements into a data table
+
+This can be simple or complicated, depending on the website. Use the developer tools (Inspect) to explore the website; you can't really explore the HTML once you've read it into your R environment.
+
+**Step 1: identify the URL**\
+We'll start with a simple scrape on the Maryland state government website; an obvious table that is stored in an HTML "table" tag:
+
+page we're scraping: https://labor.maryland.gov/employment/warn.shtml
+
+```{r}
+url <- "https://labor.maryland.gov/employment/warn.shtml"
+```
+
+**Step 2: Read the HTML from that page**\
+Use the `read_html()` function to grab all the HTML from that particular URL. Remember that even though R brings it all into your environment, it won't look like all the HTML. It will just say "List of 2".
+
+```{r}
+html <- read_html(url)
+```
+
+**Step 3: Identify the HTML element(s) that have your data**\
+Having used Inspect, we know that our data is stored in a "table" tag which is probably the easiest format for scraping data in R. Use the function `html_element()` to pull everything within that tag:
+```{r}
+html %>% html_element("table")
+```
+
+**Step 4: Parse the HTML into a table.**\
+This is quite easy if your data is stored in a `table` tag, using the `html_table()` function:
+```{r}
+html %>% html_element("table") %>% html_table()
+```
+
+Note that it's not recognizing the first row as a header row, because it isn't coded into the HTML. That's OK, you can explicitly say that your data has a header row:
+```{r}
+html %>% html_element("table") %>% html_table(header=TRUE)
+```
+
+Before we save this into a final table, there's some cleanup to do. Use `clean_names()` to standardize the headers:
+```{r}
+html %>% 
+  html_element("table") %>% 
+  html_table(header = T) %>% 
+  clean_names()
+```
+
+And there are stray characters in a few of the fields: `company`, `location`, and `type`. These are line returns but they appear as `\r\n` in our data. Use `str_squish()` to get rid of them:
+```{r}
+html %>% 
+  html_element("table") %>% 
+  html_table(header = T) %>% 
+  clean_names() %>% 
+  mutate(company = str_squish(company),
+         location = str_squish(location),
+         type = str_squish(type))
+```
+
+And finally, turn the dates into true dates: 
+```{r}
+html %>% 
+  html_element("table") %>% 
+  html_table(header = T) %>% 
+  clean_names() %>% 
+  mutate(company = str_squish(company),
+         location = str_squish(location),
+         type = str_squish(type),
+         new_notice = mdy(notice_date),
+         new_effective = mdy(effective_date))
+```
+
+Now save the whole thing as a new variable: 
+```{r}
+table <- html %>% 
+  html_element("table") %>% 
+  html_table(header = T) %>% 
+  clean_names() %>% 
+  mutate(company = str_squish(company),
+         location = str_squish(location),
+         type = str_squish(type),
+         new_notice = mdy(notice_date),
+         new_effective = mdy(effective_date))
+```
+
+And you can write it to a csv using `write_csv()`:
+```{r}
+write_csv(table, "data/maryland_warn.csv")
+```
+
+**Next: iterate over the different years**
+
+At the bottom of the page there's a bar that says "Work Adjustment and Retraining Notifications (WARN)"; click on it and you'll see links to prior years of data. They are formatted the same way; click on one and notice that the URL changes slightly to reflect earlier years, e.g. 2024 data is at "https://www.dllr.state.md.us/employment/warn2024.shtml". We can use this to iterate over the years in a `for` loop:
+```{r}
+years <- c(2010:2024)
+
+# what happens in a loop stays in a loop unless you pass the data out, so we need to create a table to hold all the years' data. For now we'll set it to NULL:
+full_table <- NULL
+```
+
+A for loop run a set of commands on every instance in a vector. We want to run the same scrape on every year's page, so we'll create a vector of all the years and use each item in the vector to build a URL to run the scrape on.
+
+Also, we're going to run into two issues: the first is that the column names change at some point in the years. *local_area* was at some point *wia_code*, and *type* was *type_code*. We need to enforce standard column names so we can use `bind_rows()` to combine the tables. 
+
+The second problem is that sometimes the *naics_code* comes in as integer and sometimes as character. So we need to enforce a consistent data type for that field: 
+```{r}
+for (y in years) {
+  url <- paste0("https://labor.maryland.gov/employment/warn",y,".shtml")
+  html <- read_html(url)
+  table <- html %>% 
+    html_element("table") %>% 
+    html_table(header = T) %>% 
+    clean_names() %>% 
+    rename("local_area" = 5, "type" = 8)  %>% 
+    mutate(across(1:8, as.character)) %>% 
+    mutate(company = str_squish(company),
+          location = str_squish(location),
+          type = str_squish(type),
+          new_notice = mdy(notice_date),
+          new_effective = mdy(effective_date)) %>% 
+    mutate(across(1:8, as.character))
+  
+  full_table <- bind_rows(full_table, table)
+}
+```
+
+We'll get some warnings that not all the dates parsed correctly, but since we saved the original fields, we can deal with those issues.
+
+
+

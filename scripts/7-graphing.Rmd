@@ -1,0 +1,46 @@
+---
+title: "Graphing with ggplot2"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r}
+library(tidyverse) #ggplot2 is the main package in tidyverse we'll be using here
+```
+
+```{r}
+literacy <- read_csv("https://github.com/eklucas/R-intro-GIJC25/raw/refs/heads/main/data/UN_literacy.csv")
+```
+
+Using literacy, I'm going to prep a table that is appropriate for a graphic that compares the pct literacy among men and women for each country. 
+```{r}
+literacy_plot <- literacy %>% 
+  filter(age=="10 +") %>% 
+  group_by(country_or_area, sex) %>% 
+  summarise(literate = sum(literate, na.rm=T), pop = sum(total, na.rm=T)) %>% 
+  mutate(pct_literate = round(literate/pop,1)) %>% 
+  select(country_or_area, sex, pct_literate)
+```
+
+Now use ggplot() to create a bar chart that compares certain countries literacy by sex:
+```{r}
+countries <- c("Belize", "Mexico", "El Salvador")
+
+literacy_plot %>% 
+  filter(country_or_area %in% countries) %>% 
+  ggplot(aes(x = country_or_area, 
+             y = pct_literate, 
+             fill = sex)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  labs(
+    title = "Disparities in literacy by country and sex",
+    x = "",
+    y = "Percent Literate",
+    fill = "Sex",
+    caption = "Source: United Nations demographics data") +
+  scale_fill_manual(values = c("Male" = "#95C8F0", "Female" = "#B4009E")) +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+

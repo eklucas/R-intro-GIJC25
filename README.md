@@ -9,14 +9,19 @@ You can also create an account with [Posit.Cloud](https://posit.cloud) and use R
 Install the necessary packages for this material by running this code in the RStudio console (you only need to do this once on your computer):\
 `install.packages(c("tidyverse","janitor","readxl","googlesheets4"))`
 
+### Running the scripts in this repo
+If you download this repo to your own computer, be sure to open RStudio by double-clicking on the `R-intro-GIJC25.Rproj` file in the main folder. This will ensure that all the code to import files works.
+
+The .Rproj file ensures that RStudio uses the `R-intro-GIJC25` folder as its home base, so to import files located in the data folder you only need to specify `"data/file.csv"` inside of `read_csv()`.
+
 ### Finished Scripts: 
 You can find complete and annotated scripts for the main concepts in the /scripts folder. 
 
-### Datasets:
+### Primary Datasets:
 
 -   **Population by country, literacy, age, sex and urban/rural residence** (from the UN)\
 [Source](https://unstats.un.org/unsd/demographic-social/products/dyb/index.cshtml#censusdatasets)\
-Link for import: `https://github.com/eklucas/R-intro-GIJC25/blob/main/data/UN_literacy.csv`
+Link for import: `https://github.com/eklucas/R-intro-GIJC25/raw/refs/heads/main/data/UN_literacy.csv`
 
 -  **Eurovision** (created by my former student Mariia Novoselia)\
 [Source](https://github.com/mariianov/ADJ_final)\
@@ -29,6 +34,7 @@ Link for import: `https://github.com/eklucas/R-intro-GIJC25/raw/refs/heads/main/
 -  **US Federal Campaign Transactions** (for independent expenditures)\
 [Source](https://www.fec.gov/data/browse-data/?tab=bulk-data)\
 Link for import: `https://github.com/eklucas/R-intro-GIJC25/raw/refs/heads/main/data/transactions.csv`
+
 
 ### Tipsheets: 
 You'll find useful "cheatsheets" for Tidyverse packages along with some helpful tipsheets I created on R Functions, an R dictionary, a guide for newsroom math (created by Steve Doig)
