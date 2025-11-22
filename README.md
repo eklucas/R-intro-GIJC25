@@ -37,16 +37,16 @@ Link for import: `https://github.com/eklucas/R-intro-GIJC25/raw/refs/heads/main/
 
 ### Sample datasets (used only for specific examples)
 
-- **disney_movies_total_gross.csv**
+- **disney_movies_total_gross.csv**\
 Link for import: `https://github.com/eklucas/R-intro-GIJC25/raw/refs/heads/main/data/disney_movies_total_gross.csv`
 
-- **osha.csv**
+- **osha.csv**\
 Link for import: `https://github.com/eklucas/R-intro-GIJC25/raw/refs/heads/main/data/osha.csv`
 
-- **transactions.csv**
+- **transactions.csv**\
 Link for import: `https://github.com/eklucas/R-intro-GIJC25/raw/refs/heads/main/data/transactions.csv`
 
-- **committees.csv**
+- **committees.csv**\
 Link for import: `https://github.com/eklucas/R-intro-GIJC25/raw/refs/heads/main/data/committees.csv`
 
 ### Tipsheets: 
