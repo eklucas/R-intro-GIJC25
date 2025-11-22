@@ -35,8 +35,19 @@ Link for import: `https://github.com/eklucas/R-intro-GIJC25/raw/refs/heads/main/
 [Source](https://www.fec.gov/data/browse-data/?tab=bulk-data)\
 Link for import: `https://github.com/eklucas/R-intro-GIJC25/raw/refs/heads/main/data/transactions.csv`
 
-- Other datasets are samples
+### Sample datasets (used only for specific examples)
 
+- **disney_movies_total_gross.csv**
+Link for import: `https://github.com/eklucas/R-intro-GIJC25/raw/refs/heads/main/data/disney_movies_total_gross.csv`
+
+- **osha.csv**
+Link for import: `https://github.com/eklucas/R-intro-GIJC25/raw/refs/heads/main/data/osha.csv`
+
+- **transactions.csv**
+Link for import: `https://github.com/eklucas/R-intro-GIJC25/raw/refs/heads/main/data/transactions.csv`
+
+- **committees.csv**
+Link for import: `https://github.com/eklucas/R-intro-GIJC25/raw/refs/heads/main/data/committees.csv`
 
 ### Tipsheets: 
 You'll find useful "cheatsheets" for Tidyverse packages along with some helpful tipsheets I created on R Functions, an R dictionary, a guide for newsroom math (created by Steve Doig)

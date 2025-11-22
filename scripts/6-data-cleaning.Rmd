@@ -13,7 +13,7 @@ library(tidyverse)
 The data used for these examples: disney.csv, osha.csv, poverty_original.csv
 
 ```{r}
-disney <- read_csv("https://github.com/r-journalism/chjr/raw/main/docs/slides_data/disney_movies_total_gross.csv")
+disney <- read_csv("data/disney_movies_total_gross.csv")
 osha <- read_csv("data/osha.csv")
 poverty <- read_csv("data/poverty_original.csv")
 ```
