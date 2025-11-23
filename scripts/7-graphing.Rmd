@@ -16,7 +16,6 @@ literacy <- read_csv("https://github.com/eklucas/R-intro-GIJC25/raw/refs/heads/m
 Using literacy, I'm going to prep a table that is appropriate for a graphic that compares the pct literacy among men and women for each country. 
 ```{r}
 literacy_plot <- literacy %>% 
-  filter(age=="10 +") %>% 
   group_by(country_or_area, sex) %>% 
   summarise(literate = sum(literate, na.rm=T), pop = sum(total, na.rm=T)) %>% 
   mutate(pct_literate = round(literate/pop,1)) %>% 
